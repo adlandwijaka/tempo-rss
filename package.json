@@ -2,7 +2,7 @@
   "name": "tempo-rss-converter",
   "version": "1.0.0",
   "scripts": {
-    "start": "node scripts/generate.js"
+    "start": "node scripts/generate.cjs"
   },
   "dependencies": {
     "rss-parser": "^3.12.0"
