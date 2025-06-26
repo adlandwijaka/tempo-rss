@@ -42,19 +42,6 @@ These files are updated daily and publicly available:
 
 ---
 
-## 📂 Project Structure
-
-├── .github/workflows/
-│ └── update-feed.yml # GitHub Action: daily fetch & update
-├── scripts/
-│ └── generate.js # Main script to process feeds
-├── free-*.xml # Output XML files
-├── package.json
-└── README.md
-
-
----
-
 ## 🚀 Deployment
 
 GitHub Pages is enabled from the root `/` of the `main` branch.  
