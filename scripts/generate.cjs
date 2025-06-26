@@ -1,5 +1,5 @@
-import fs from "fs";
-import Parser from "rss-parser";
+const fs = require("fs");
+const Parser = require("rss-parser");
 
 // Inisialisasi parser dengan customFields jika pakai media:thumbnail
 const parser = new Parser({
