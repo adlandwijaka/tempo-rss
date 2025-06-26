@@ -1,49 +1,65 @@
-import fs from "fs";
-import Parser from "rss-parser";
-const parser = new Parser({
-  customFields: {
-    item: ['media:thumbnail']
-  }
-});
+const Parser = require('rss-parser');
+const fs = require('fs');
+const parser = new Parser();
 
-const sources = [
-  { name: "cekfakta", url: "https://www.tempo.co/api/gateway/rss/free/cekfakta" },
-  { name: "ekonomi", url: "https://www.tempo.co/api/gateway/rss/free/ekonomi" },
-  { name: "hukum", url: "https://www.tempo.co/api/gateway/rss/free/hukum" },
-  { name: "wawancara", url: "https://www.tempo.co/api/gateway/rss/free/wawancara" },
-  { name: "investigasi", url: "https://www.tempo.co/api/gateway/rss/free/investigasi" }
-];
-
-async function convertFeed(name, url) {
+async function generateFeed(name, url) {
   const feed = await parser.parseURL(url);
-  const items = feed.items.slice(0, 20).map(item => {
-    const thumbnail = item["media:thumbnail"]?.$.url || "";
-    return `
-    <item>
-      <title>${item.title}</title>
-      <link>${item.link}</link>
-      <guid>${item.guid || item.link}</guid>
-      <pubDate>${item.pubDate}</pubDate>
-      <description>${item.contentSnippet}</description>
-      <thumbnail>${thumbnail}</thumbnail>
-    </item>`;
-  }).join("\n");
 
-  const rss = `<?xml version="1.0" encoding="UTF-8" ?>
+  // Sort items by pubDate DESCENDING
+  const items = feed.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  // Generate XML with incremental ID as guid
+  const xmlItems = items.map((item, index) => `
+    <item>
+      <title>${escapeXml(item.title)}</title>
+      <link>${item.link}</link>
+      <guid>${index + 1}</guid>
+      <pubDate>${new Date(item.pubDate).toUTCString()}</pubDate>
+      <description>${escapeXml(item.contentSnippet || '')}</description>
+      <thumbnail>${extractThumbnail(item)}</thumbnail>
+    </item>`).join('');
+
+  const output = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>${feed.title}</title>
+    <title>${escapeXml(feed.title)}</title>
     <link>${feed.link}</link>
-    <description>${feed.description}</description>
-    ${items}
+    <description>${escapeXml(feed.description)}</description>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <language>id-ID</language>
+    ${xmlItems}
   </channel>
 </rss>`;
 
-  fs.writeFileSync(`free-${name}.xml`, rss.trim());
+  fs.writeFileSync(`free-${name}.xml`, output);
 }
 
+// Replace with actual image logic from media:thumbnail
+function extractThumbnail(item) {
+  if (item.enclosure?.url) return item.enclosure.url;
+  if (item['media:thumbnail']?.$?.url) return item['media:thumbnail'].$.url;
+  return '';
+}
+
+// Escape XML characters
+function escapeXml(unsafe) {
+  return unsafe?.replace(/[<>&'"]/g, function (c) {
+    return { '<': '&lt;', '>': '&gt;', '&': '&amp;', "'": '&apos;', '"': '&quot;' }[c];
+  }) || '';
+}
+
+// List of feeds
+const feeds = {
+  cekfakta: 'https://www.tempo.co/api/gateway/rss/free/cekfakta',
+  ekonomi: 'https://www.tempo.co/api/gateway/rss/free/ekonomi',
+  hukum: 'https://www.tempo.co/api/gateway/rss/free/hukum',
+  wawancara: 'https://www.tempo.co/api/gateway/rss/free/wawancara',
+  investigasi: 'https://www.tempo.co/api/gateway/rss/free/investigasi',
+};
+
 (async () => {
-  for (const source of sources) {
-    await convertFeed(source.name, source.url);
+  for (const [name, url] of Object.entries(feeds)) {
+    await generateFeed(name, url);
+    console.log(`✅ Generated free-${name}.xml`);
   }
 })();
