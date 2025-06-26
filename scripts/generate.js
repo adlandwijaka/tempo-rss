@@ -1,16 +1,23 @@
-const fs = require("fs");
-const Parser = require("rss-parser");
+import fs from "fs";
+import Parser from "rss-parser";
 const parser = new Parser({
   customFields: {
     item: ['media:thumbnail']
   }
 });
 
-(async () => {
-  const feed = await parser.parseURL("https://www.tempo.co/api/gateway/rss/free/cekfakta");
+const sources = [
+  { name: "cekfakta", url: "https://www.tempo.co/api/gateway/rss/free/cekfakta" },
+  { name: "ekonomi", url: "https://www.tempo.co/api/gateway/rss/free/ekonomi" },
+  { name: "hukum", url: "https://www.tempo.co/api/gateway/rss/free/hukum" },
+  { name: "wawancara", url: "https://www.tempo.co/api/gateway/rss/free/wawancara" },
+  { name: "investigasi", url: "https://www.tempo.co/api/gateway/rss/free/investigasi" }
+];
 
-  const items = feed.items.slice(0, 10).map(item => {
-    const thumbnail = item["media:thumbnail"]?.$.url || ""; // fallback kalau tidak ada
+async function convertFeed(name, url) {
+  const feed = await parser.parseURL(url);
+  const items = feed.items.slice(0, 20).map(item => {
+    const thumbnail = item["media:thumbnail"]?.$.url || "";
     return `
     <item>
       <title>${item.title}</title>
@@ -23,14 +30,20 @@ const parser = new Parser({
   }).join("\n");
 
   const rss = `<?xml version="1.0" encoding="UTF-8" ?>
-  <rss version="2.0">
-    <channel>
-      <title>${feed.title}</title>
-      <link>${feed.link}</link>
-      <description>${feed.description}</description>
-      ${items}
-    </channel>
-  </rss>`;
+<rss version="2.0">
+  <channel>
+    <title>${feed.title}</title>
+    <link>${feed.link}</link>
+    <description>${feed.description}</description>
+    ${items}
+  </channel>
+</rss>`;
 
-  fs.writeFileSync("rss.xml", rss.trim());
+  fs.writeFileSync(`free-${name}.xml`, rss.trim());
+}
+
+(async () => {
+  for (const source of sources) {
+    await convertFeed(source.name, source.url);
+  }
 })();
