@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 20 Jul 2025 05:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 05:23:23 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Koperasi Perumahan, Solusi Hunian Berkeadilan</title>
+      <link>https://www.tempo.co/wawancara/koperasi-perumahan-rumah-flat-menteng--2048534</link>
+      <guid>1</guid>
+      <pubDate>Sun, 20 Jul 2025 15:00:00 +0700</pubDate>
+      <description>Para pegiat Rujak Center for Urban Studies membangun rumah flat di Menteng dengan model pengelolaan koperasi. Apa kelebihannya?</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/07/19/891440/891440_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Hunian Kolektif, Alternatif Solusi Krisis Perumahan</title>
+      <link>https://www.tempo.co/wawancara/krisis-perumahan-dan-hunian-kolektif-2048590</link>
+      <guid>2</guid>
+      <pubDate>Sun, 20 Jul 2025 15:00:00 +0700</pubDate>
+      <description>Direktur Rujak Center for Urban Studies Elisa Sutanudjaja menjelaskan konsep koperasi perumahan dan rumah flat.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/07/20/891453/891453_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Duta Besar Iran: Iran Menjadi Target karena Mendukung Palestina</title>
       <link>https://www.tempo.co/wawancara/dubes-iran-konflik-iran-israel-2015460</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 16 Jul 2025 14:00:00 +0700</pubDate>
       <description>Duta Besar Iran untuk Indonesia, Mohammad Boroujerdi, menjelaskan konflik Iran-Israel dan program pengembangan energi nuklir.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/07/14/891100/891100_1200.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Dede Oetomo: Kelompok LGBTQ Dianggap Rendah di Indonesia</title>
       <link>https://www.tempo.co/wawancara/akar-represi-diskriminasi-kelompok-lgbtq-1985507</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Sun, 13 Jul 2025 15:00:00 +0700</pubDate>
       <description>Akademikus dan aktivis LGBTQ, Dede Oetomo, menjelaskan soal akar diskriminasi dan represi berulang terhadap kelompok LGBTQ.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/07/12/890983/890983_1200.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Ketua KPU: Putusan MK Bukan Jawaban Semua Masalah Pemilu</title>
       <link>https://www.tempo.co/wawancara/kpu-pemisahan-pemilu-nasional-dan-daerah-1983354</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Sun, 13 Jul 2025 08:30:00 +0700</pubDate>
       <description>Ketua KPU Mochammad Afifuddin menjelaskan dampak pemisahan pemilihan nasional dan pemilihan daerah.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/07/11/890872/890872_1200.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Rahman Mukhlis: Pemandu Gunung Tak Sekadar Penunjuk Jalan</title>
       <link>https://www.tempo.co/wawancara/pemandu-gunung-tak-hanya-penunjuk-jalan-1915270</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Sun, 06 Jul 2025 15:00:00 +0700</pubDate>
       <description>Ketua Umum Asosiasi Pemandu Gunung Indonesia Rahman Mukhlis menjelaskan pentingnya naik gunung bersama pemandu. Kenapa?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/07/05/890484/890484_1200.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Janet Steele: Media Independen Tidak Gratis</title>
       <link>https://www.tempo.co/wawancara/media-independen-kebebasan-pers-1905520</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Sun, 06 Jul 2025 08:30:00 +0700</pubDate>
       <description>Peneliti jurnalisme George Washington University, Janet Steele, menjelaskan kepercayaan publik kepada media dan kebebasan pers.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/07/04/890382/890382_1200.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Paul Finsen Mayor: Masyarakat Tak Hidup dari Tambang</title>
       <link>https://www.tempo.co/wawancara/kepala-adat-raja-ampat-nikel-1845151</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Sun, 29 Jun 2025 12:00:00 +0700</pubDate>
       <description>Senator Papua Barat Daya Paul Finsen Mayor bersuara kritis terhadap aktivitas tambang nikel di Raja Ampat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/06/28/890000/890000_1200.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Dirut BPJS Kesehatan: Pembayaran Rumah Sakit Tak Transparan</title>
       <link>https://www.tempo.co/wawancara/skema-co-payment-bpjs-kesehatan-1843850</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Sun, 29 Jun 2025 08:30:00 +0700</pubDate>
       <description>Direktur Utama BPJS Kesehatan Ali Ghufron Mukti menjelaskan peluang lembaganya menghadapi skema co-payment asuransi kesehatan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/06/27/889890/889890_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Muzakir Manaf: Banyak Investor Berminat pada Empat Pulau Aceh</title>
-      <link>https://www.tempo.co/wawancara/muzakir-manaf-polemik-empat-pulau-aceh-1766609</link>
-      <guid>8</guid>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0700</pubDate>
-      <description>Gubernur Aceh Muzakir Manaf menjelaskan polemik kepemilikan empat pulau di sebelah Aceh dan Sumatera Utara.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/06/21/889569/889569_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Wilson Obrigados: Papua Sudah Habis Dibagi-bagi</title>
-      <link>https://www.tempo.co/wawancara/buku-papua-bergerak-dan-anak-muda-1773311</link>
-      <guid>9</guid>
-      <pubDate>Sun, 22 Jun 2025 09:00:00 +0700</pubDate>
-      <description>Penulis buku Papua Bergerak, Wilson Obrigados, menjelaskan peran kaum muda Papua dan gangguan setelah peluncuran buku.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/06/22/889587/889587_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
