@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 15 Aug 2025 05:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 05:14:23 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Penembakan Wakil Presiden Gibran  </title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-penembakan-wakil-presiden-gibran--2059302</link>
+      <guid>1</guid>
+      <pubDate>Fri, 15 Aug 2025 18:55:54 +0700</pubDate>
+      <description>Wakil Presiden Gibran Rakabuming Raka diklaim ditembak saat sedang diwawancarai oleh sejumlah jurnalis.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421193/1421193_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Amerika Serikat Kembali Serang Iran pada Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-amerika-serikat-kembali-serang-iran-pada-agustus-2025-2059297</link>
+      <guid>2</guid>
+      <pubDate>Fri, 15 Aug 2025 18:30:22 +0700</pubDate>
+      <description>Video itu diklaim sebagai rekaman serangan Amerika Serikat ke Iran pada Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421181/1421181_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Lowongan Kerja PT Jawa Satu Power</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-lowongan-kerja-pt-jawa-satu-power-2059275</link>
+      <guid>3</guid>
+      <pubDate>Fri, 15 Aug 2025 17:44:14 +0700</pubDate>
+      <description>Akun tersebut mencantumkan tautan bagi warganet yang ingin memperoleh informasi lowongan kerja PT Jawa Satu Power lebih lanjut.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421174/1421174_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Pelatih Hewan Laut Jessica Radcliffe Tewas Dimangsa Paus Orca</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pelatih-hewan-laut-jessica-radcliffe-tewas-dimangsa-paus-orca-2058721</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Thu, 14 Aug 2025 13:03:55 +0700</pubDate>
       <description>Sosok bernama Jessica Radcliffe diklaim tewas setelah diserang paus Orca pada 8 Agustus 2025 saat sedang menjalani pertunjukan langsung di Pacific Blue Marine Park.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/14/id_1420821/1420821_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: 10 Ribu Warga Jakarta Ikut Demo di Pati</title>
       <link>https://www.tempo.co/cekfakta/keliru-10-ribu-warga-jakarta-ikut-demo-di-pati-2058717</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Thu, 14 Aug 2025 12:51:42 +0700</pubDate>
       <description>Video ini beredar di tengah demonstrasi warga Kabupaten Pati untuk mendesak Bupati Pati Sudewo mundur.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/14/id_1420816/1420816_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Menyesatkan: Video Sergap.id Soal Liputan Investigasi Rumah Prajurit TNI</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-sergap-id-soal-liputan-investigasi-rumah-prajurit-tni-2058692</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Thu, 14 Aug 2025 11:50:30 +0700</pubDate>
       <description>Video itu memuat sejumlah gambar rumah prajurit terbengkalai dan tentara sebagai latar belakang video.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/14/id_1420805/1420805_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Pemerintah Resmikan Program Pinjaman Koperasi Merah Putih</title>
       <link>https://www.tempo.co/cekfakta/keliru-pemerintah-resmikan-program-pinjaman-koperasi-merah-putih-2058436</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Wed, 13 Aug 2025 17:40:00 +0700</pubDate>
       <description>Menteri Budi Arie dan Zulkifli Hasan diklaim mengumumkan pinjaman Koperasi Merah Putih dapat dicicil tanpa biaya administrasi dan tanpa bunga.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/13/id_1420627/1420627_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Jasa Pengembalian Uang Korban Penipuan Online di Media Sosial</title>
       <link>https://www.tempo.co/cekfakta/keliru-jasa-pengembalian-uang-korban-penipuan-online-di-media-sosial-2058437</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Wed, 13 Aug 2025 17:30:00 +0700</pubDate>
       <description>Akun ini mengklaim jasanya tersedia untuk menangani investasi bodong, penipuan kencan atau dating scam, e-commerce palsu, dan pinjaman ilegal.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/13/id_1420605/1420605_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Menyesatkan: Biaya Administrasi Perbankan Naik pada 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-biaya-administrasi-perbankan-naik-pada-2025-2058358</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Wed, 13 Aug 2025 15:56:10 +0700</pubDate>
       <description>Konten tersebut memperlihatkan gedung BRI dengan keterangan jumlah kenaikan biaya administrasi sejumlah bank.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/13/id_1420601/1420601_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Akar Alang-alang Gantikan Cuci Darah Pasien Gagal Ginjal</title>
-      <link>https://www.tempo.co/cekfakta/keliru-akar-alang-alang-gantikan-cuci-darah-pasien-gagal-ginjal-2057995</link>
-      <guid>7</guid>
-      <pubDate>Tue, 12 Aug 2025 17:27:00 +0700</pubDate>
-      <description>Akar alang-alang diklaim bermanfaat untuk kesehatan ginjal sehingga pasien dengan penyakit ginjal tidak perlu lagi cuci darah.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/12/id_1420353/1420353_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Memperkuat Sinyal Ponsel dengan Dua Peniti</title>
-      <link>https://www.tempo.co/cekfakta/keliru-memperkuat-sinyal-ponsel-dengan-dua-peniti-2057997</link>
-      <guid>8</guid>
-      <pubDate>Tue, 12 Aug 2025 17:20:00 +0700</pubDate>
-      <description>Sebuah video beredar di TikTok dan Instagram, memuat klaim bahwa menempelkan peniti pada bagian belakang ponsel dapat memperkuat sinyalnya.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/12/id_1420273/1420273_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Nota Restoran yang Menagih Biaya Royalti Musik ke Pembeli</title>
-      <link>https://www.tempo.co/cekfakta/keliru-nota-restoran-yang-menagih-biaya-royalti-musik-ke-pembeli-2057966</link>
-      <guid>9</guid>
-      <pubDate>Tue, 12 Aug 2025 16:34:56 +0700</pubDate>
-      <description>Terdapat tulisan tagihan royalti musik pada nota pembayaran makanan di restoran, yang diklaim harus dibayar oleh pembeli.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/12/id_1420346/1420346_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
