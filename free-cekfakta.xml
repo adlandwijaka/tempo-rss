@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 21 Aug 2025 05:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 05:14:49 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Gedung DPRD Kota Malang dan Pati Dibakar pada Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-gedung-dprd-kota-malang-dan-pati-dibakar-pada-agustus-2025-2061568</link>
+      <guid>1</guid>
+      <pubDate>Thu, 21 Aug 2025 18:01:45 +0700</pubDate>
+      <description>Peristiwa dalam video memang benar pembakaran gedung DPRD Kota malang, tapi bukan terjadi pada Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/21/id_1422606/1422606_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Dedi Mulyadi Resmikan Pinjaman Online</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-dedi-mulyadi-resmikan-pinjaman-online-2061553</link>
+      <guid>2</guid>
+      <pubDate>Thu, 21 Aug 2025 17:25:00 +0700</pubDate>
+      <description>Video yang beredar dimanipulasi dari video asli unggahan Dedi Mulyadi di akun TikToknya.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/21/id_1422521/1422521_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Pijat Kaki Bisa Mengatasi Angin Duduk</title>
       <link>https://www.tempo.co/cekfakta/keliru-pijat-kaki-bisa-mengatasi-angin-duduk-2061395</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Thu, 21 Aug 2025 12:11:10 +0700</pubDate>
       <description>Memijat kaki atau tangan justru akan menunda penanganan yang seharusnya bisa diberikan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/21/id_1422502/1422502_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Video Tsunami di Indonesia pada 15 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-tsunami-di-indonesia-pada-15-agustus-2025-2061147</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 20 Aug 2025 17:32:00 +0700</pubDate>
       <description>BMKG mencatat peristiwa Tsunami di Indonesia terakhir kali terjadi pada 25 April 2023.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/20/id_1422303/1422303_720.jpg</thumbnail>
@@ -28,16 +46,16 @@
     <item>
       <title>Keliru: Tautan Pendaftaran untuk Cegah Rekening Diblokir PPATK</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-untuk-cegah-rekening-diblokir-ppatk-2061148</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 20 Aug 2025 17:30:00 +0700</pubDate>
       <description>Tautan terindikasi sebagai phishing karena meminta sejumlah data pribadi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/20/id_1422296/1422296_720.jpg</thumbnail>
     </item>
 
     <item>
-      <title>Keliru: Warga Pati Bikin Aksi Protes Saat Upacara HUT Ke-80 RI </title>
-      <link>https://www.tempo.co/cekfakta/keliru-warga-pati-bikin-aksi-protes-saat-upacara-hut-ke-80-ri--2061119</link>
-      <guid>4</guid>
+      <title>Keliru: Warga Pati Menggelar Aksi Protes Saat Upacara HUT Ke-80 RI </title>
+      <link>https://www.tempo.co/cekfakta/keliru-warga-pati-menggelar-aksi-protes-saat-upacara-hut-ke-80-ri--2061119</link>
+      <guid>6</guid>
       <pubDate>Wed, 20 Aug 2025 17:07:00 +0700</pubDate>
       <description>Video yang beredar bukan terjadi di Pati, melainkan di Tasikmalaya.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/20/id_1422321/1422321_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Vladimir Putin Minta Malaysia Tak Rebut Blok Ambalat dari Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-vladimir-putin-minta-malaysia-tak-rebut-blok-ambalat-dari-indonesia-2060779</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Tue, 19 Aug 2025 19:03:29 +0700</pubDate>
       <description>Konten itu memuat klaim, Putin memberi peringatan ke Malaysia agar tidak merebut Blok Ambalat dari Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/19/id_1422094/1422094_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Petugas Haji 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-petugas-haji-2026-2060774</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Tue, 19 Aug 2025 18:28:02 +0700</pubDate>
       <description>Tautan yang dicantumkan pada unggahan teridentifikasi sebagai upaya phishing.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/19/id_1422086/1422086_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Video Penembakan Wakil Presiden Gibran  </title>
       <link>https://www.tempo.co/cekfakta/keliru-video-penembakan-wakil-presiden-gibran--2059302</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Fri, 15 Aug 2025 18:55:54 +0700</pubDate>
       <description>Wakil Presiden Gibran Rakabuming Raka diklaim ditembak saat sedang diwawancarai oleh sejumlah jurnalis.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421193/1421193_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Amerika Serikat Kembali Serang Iran pada Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-amerika-serikat-kembali-serang-iran-pada-agustus-2025-2059297</link>
-      <guid>8</guid>
-      <pubDate>Fri, 15 Aug 2025 18:30:22 +0700</pubDate>
-      <description>Video itu diklaim sebagai rekaman serangan Amerika Serikat ke Iran pada Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421181/1421181_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Lowongan Kerja PT Jawa Satu Power</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-lowongan-kerja-pt-jawa-satu-power-2059275</link>
-      <guid>9</guid>
-      <pubDate>Fri, 15 Aug 2025 17:44:14 +0700</pubDate>
-      <description>Akun tersebut mencantumkan tautan bagi warganet yang ingin memperoleh informasi lowongan kerja PT Jawa Satu Power lebih lanjut.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/15/id_1421174/1421174_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
