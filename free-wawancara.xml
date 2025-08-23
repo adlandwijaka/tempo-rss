@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 22 Aug 2025 05:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 05:13:24 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>CEO Danantara: Banyak BUMN Memoles Laporan Keuangan</title>
+      <link>https://www.tempo.co/wawancara/ceo-danantara-laporan-keuangan-bumn-2061775</link>
+      <guid>1</guid>
+      <pubDate>Fri, 22 Aug 2025 14:00:00 +0700</pubDate>
+      <description>CEO Danantara, Rosan Perkasa Roeslani, menjelaskan penghapusan tantiem komisaris BUMN. Juga window dressing perusahaan negara.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/08/18/893670/893670_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Logo 80 Tahun RI: Antara Keroppi dan Filosofi Kebangsaan</title>
       <link>https://www.tempo.co/wawancara/desain-logo-80-tahun-kemerdekaan-ri-2059951</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sun, 17 Aug 2025 15:00:00 +0700</pubDate>
       <description>Bram Patria Yoshugi menceritakan proses pembuatan logo HUT Kemerdekaan ke-80 RI. Bagaimana ia menanggapi kritik atas karyanya?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/16/893591/893591_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Ekspresi dalam Desain Logo 80 Tahun Kemerdekaan</title>
       <link>https://www.tempo.co/wawancara/bram-patria-yoshugi-logo-hut-ri-80-2059952</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 17 Aug 2025 15:00:00 +0700</pubDate>
       <description>Bagaimana Bram Patria Yoshugi, perancang logo HUT Kemerdekaan ke-80 RI, menghadapi kritik atas karyanya?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/16/893604/893604_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Wamen Pekerjaan Umum: Kami Mesti Nekat Membangun IKN</title>
       <link>https://www.tempo.co/wawancara/nasib-ikn-di-bawah-prabowo-2057020</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 10 Aug 2025 08:30:00 +0700</pubDate>
       <description>Wakil Menteri Pekerjaan Umum Diana Kusumastuti menjelaskan progres pembangunan IKN di bawah pemerintahan Prabowo Subianto.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/04/892564/892564_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Yandy Laurens: Film Sore Itu Soal Cinta tanpa Syarat</title>
       <link>https://www.tempo.co/wawancara/film-sore-yandy-laurens-2057018</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 10 Aug 2025 06:00:00 +0700</pubDate>
       <description>Sutradara Yandy Laurens bercerita sukses di balik film Sore: Istri dari Masa Depan. Tembus 2,8 juta penonton.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/09/893081/893081_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Cerita Yandy Laurens Soal Film Sore: Istri dari Masa Depan</title>
       <link>https://www.tempo.co/wawancara/yandy-laurens-dan-kesukesan-film-sore-2057019</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 10 Aug 2025 06:00:00 +0700</pubDate>
       <description>Kisah di balik film Sore: Istri dari Masa Depan. Mengapa Yandy Laurens terkejut melihat animo penonton?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/10/893110/893110_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Ahli Akustik ITB: Tidak Semua Orang Senang Suara Kencang</title>
       <link>https://www.tempo.co/wawancara/sound-horeg-dan-kesehatan-pendengaran-2054386</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 03 Aug 2025 15:00:00 +0700</pubDate>
       <description>Ahli akustik ITB Sugeng Joko Sarwono mengulas fenomena sound horeg dan dampaknya bagi masyarakat dari aspek keilmuan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/02/892425/892425_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Ketika Sound Horeg Jadi Ancaman Kesehatan</title>
       <link>https://www.tempo.co/wawancara/hiburan-rakyat-sound-horeg-dan-dampaknya-2054388</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 03 Aug 2025 15:00:00 +0700</pubDate>
       <description>Sound horeg belakangan makin sering dibicarakan dan menjadi kontroversi. Apa kata ahli suara dari ITB?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/02/892432/892432_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Alasan Sesungguhnya PPATK Memblokir Rekening Dormant</title>
       <link>https://www.tempo.co/wawancara/kepala-ppatk-blokir-rekening-dormant-2054071</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sat, 02 Aug 2025 13:00:00 +0700</pubDate>
       <description>Kepala PPATK Ivan Yustiavandana menjelaskan alasan di balik pemblokiran rekening dormant. Ia menjamin 100 persen hak nasabah.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/01/892310/892310_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Kisah Masyarakat Aru Melindungi Tanah Adat</title>
-      <link>https://www.tempo.co/wawancara/kisah-perjuangan-gerakan-savearu-2051449</link>
-      <guid>9</guid>
-      <pubDate>Sun, 27 Jul 2025 06:00:00 +0700</pubDate>
-      <description>Cerita komunitas #SaveAru melindungi tanah adat mereka dari ancaman eksploitasi. Apa yang membuat gerakan ini berhasil?</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/07/26/891932/891932_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
