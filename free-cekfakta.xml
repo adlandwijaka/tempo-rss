@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 27 Aug 2025 05:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 05:14:26 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Perwira TNI Menolak Kenaikan Pajak dan Tunjangan Anggota DPR</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-perwira-tni-menolak-kenaikan-pajak-dan-tunjangan-anggota-dpr-2063691</link>
+      <guid>1</guid>
+      <pubDate>Wed, 27 Aug 2025 19:02:48 +0700</pubDate>
+      <description>Video yang beredar merupakan hasil rekayasa AI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/27/id_1424002/1424002_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Demo 25 Agustus di Bundaran HI</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-demo-25-agustus-di-bundaran-hi-2063547</link>
+      <guid>2</guid>
+      <pubDate>Wed, 27 Aug 2025 12:53:01 +0700</pubDate>
+      <description>Video yang beredar merupakan foto perayaan SEA Games 2023, tidak terkait dengan demonstrasi pada 25 Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/27/id_1423899/1423899_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Pengusaha Jhon LBF Promosi Situs Judol</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pengusaha-jhon-lbf-promosi-situs-judol-2063524</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 27 Aug 2025 11:54:57 +0700</pubDate>
       <description>Video promosi yang beredar hasil manipulasi video asli unggahan Jhon LBF di Tiktok.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/27/id_1423874/1423874_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Belum Ada Bukti: Satu Obat Bisa Sembuhkan Kanker dalam 3 Minggu</title>
       <link>https://www.tempo.co/cekfakta/belum-ada-bukti-satu-obat-bisa-sembuhkan-kanker-dalam-3-minggu-2063263</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Tue, 26 Aug 2025 17:53:17 +0700</pubDate>
       <description>Belum ada uji klinis atau hasil medis yang dapat memverifikasi pengobatan kanker menggunakan satu jenis obat saja.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/26/id_1423729/1423729_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Benar: FDA Hentikan Impor Udang BMS karena Radioaktif</title>
       <link>https://www.tempo.co/cekfakta/benar-fda-hentikan-impor-udang-bms-karena-radioaktif-2063250</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Tue, 26 Aug 2025 17:34:20 +0700</pubDate>
       <description>Diduga temuan zat radioaktif itu berasal  dari proses penyiapan, pengemasan, dan penyimpanan yang tidak higienis.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/26/id_1423707/1423707_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Bansos PKH dari Kemenkominfo</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-bansos-pkh-dari-kemenkominfo-2063216</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 26 Aug 2025 15:54:58 +0700</pubDate>
       <description>Formulir pendaftaran yang beredar palsu dan diduga bagian dari upaya phishing.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/26/id_1423672/1423672_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Video Dokter Tirta Temukan Obat Wasir dari Air Putih dan Garam</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-dokter-tirta-temukan-obat-wasir-dari-air-putih-dan-garam-2063206</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Tue, 26 Aug 2025 15:31:26 +0700</pubDate>
       <description>Video yang beredar merupakan hasil manipulasi menggunakan akal imitasi (AI).</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/26/id_1423654/1423654_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Jalan Tol Runtuh Usai Gempa Bekasi 21 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-jalan-tol-runtuh-usai-gempa-bekasi-21-agustus-2025-2062880</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 25 Aug 2025 17:52:00 +0700</pubDate>
       <description>Tidak ada peristiwa jalan tol runtuh akibat gempa bumi di Bekasi dan sekitarnya pada 21 Agustus lalu.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/25/id_1423486/1423486_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Kandungan Potasium pada Makanan Memicu Kanker</title>
       <link>https://www.tempo.co/cekfakta/keliru-kandungan-potasium-pada-makanan-memicu-kanker-2062735</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Mon, 25 Aug 2025 12:28:32 +0700</pubDate>
       <description>Mengonsumsi senyawa ini dalam jumlah berlebihan dapat mengantarkan pada kondisi hiperkalemia atau kelebihan kalium pada darah, bukan kanker.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/25/id_1423365/1423365_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Daun Kelor dan Air Kelapa untuk Bersihkan Paru dari Asap Rokok</title>
-      <link>https://www.tempo.co/cekfakta/keliru-daun-kelor-dan-air-kelapa-untuk-bersihkan-paru-dari-asap-rokok-2062726</link>
-      <guid>8</guid>
-      <pubDate>Mon, 25 Aug 2025 12:12:48 +0700</pubDate>
-      <description>Tidak ada ramuan yang bisa mengeluarkan racun yang masuk ke paru-paru akibat merokok.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/25/id_1423360/1423360_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: NASA Rilis Video Benda Misterius Tabrak Bulan pada Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-nasa-rilis-video-benda-misterius-tabrak-bulan-pada-agustus-2025-2062004</link>
-      <guid>9</guid>
-      <pubDate>Fri, 22 Aug 2025 19:55:28 +0700</pubDate>
-      <description>Video hasil manipulasi AI itu mengklaim sebagai rekaman NASA mengenai tabrakan asteroid dengan bulan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/22/id_1422895/1422895_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
