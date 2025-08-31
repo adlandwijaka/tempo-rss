@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 30 Aug 2025 05:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 05:13:16 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Sebagian Benar: Penjarahan di Sekitar Mako Brimob Kwitang 29 Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-penjarahan-di-sekitar-mako-brimob-kwitang-29-agustus-2025-2064942</link>
+      <guid>1</guid>
+      <pubDate>Sun, 31 Aug 2025 06:00:00 +0700</pubDate>
+      <description>Penjarahan sempat terjadi di halte namun tidak meluas ke toko-toko sekitar Pasar Senen.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1424979/1424979_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Anggota Brimob yang Melindas Pengemudi Ojol Affan Kurniawan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-anggota-brimob-yang-melindas-pengemudi-ojol-affan-kurniawan-2064929</link>
+      <guid>2</guid>
+      <pubDate>Sat, 30 Aug 2025 23:38:34 +0700</pubDate>
+      <description>Video yang beredar bukan anggota Brimob yang melindas ojek online (ojol).</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424975/1424975_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Penjarahan di Mall Atrium Senen 29 Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-penjarahan-di-mall-atrium-senen-29-agustus-2025-2064915</link>
+      <guid>3</guid>
+      <pubDate>Sat, 30 Aug 2025 21:09:43 +0700</pubDate>
+      <description>Tidak ada penjarahan di Mal Atrium Senen demo yang terus terjadi di wilayah Jakarta dan sekitarnya sejak 29 Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424935/1424935_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Tentara Jepang dan Australia Mengamankan Demonstrasi di DPR</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-tentara-jepang-dan-australia-mengamankan-demonstrasi-di-dpr-2064478</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Fri, 29 Aug 2025 17:35:00 +0700</pubDate>
       <description>Keberadaan tentara asing di Indonesia bukan untuk membantu pengamanan demonstrasi di depan gedung DPR.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424568/1424568_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Immanuel Ebenezer Dirawat di RS Setelah Ditetapkan Tersangka</title>
       <link>https://www.tempo.co/cekfakta/keliru-immanuel-ebenezer-dirawat-di-rs-setelah-ditetapkan-tersangka-2064476</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Fri, 29 Aug 2025 17:30:00 +0700</pubDate>
       <description>Terdapat sejumlah kejanggalan pada foto Immanuel Ebenezer yang beredar.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424562/1424562_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: Video Tentara Membela Pengunjuk Rasa di DPR 25 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-tentara-membela-pengunjuk-rasa-di-dpr-25-agustus-2025-2064442</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Fri, 29 Aug 2025 16:35:39 +0700</pubDate>
       <description>Sebagian rekaman terbukti buatan akal imitasi, sementara lainnya berasal dari demonstrasi di Yogyakarta pada 2020.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424527/1424527_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Video Demo di DPR pada 25 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-demo-di-dpr-pada-25-agustus-2025-2064424</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Fri, 29 Aug 2025 15:58:14 +0700</pubDate>
       <description>Video yang beredar bukan bagian dari unjuk rasa di depan Gedung DPR, 25 Agustus 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424508/1424508_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Video DPR RI Sahkan UU Perampasan Aset setelah Demo 25 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-dpr-ri-sahkan-uu-perampasan-aset-setelah-demo-25-agustus-2025-2064073</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Thu, 28 Aug 2025 18:45:00 +0700</pubDate>
       <description>Tidak ada anggota DPR yang menemui pendemo pada 25 Agustus lalu, apalagi mengesahkan UU Perampasan Aset.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/28/id_1424259/1424259_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: Dokter Filipina Klaim Temukan Obat Ambeien Tanpa Operasi</title>
       <link>https://www.tempo.co/cekfakta/keliru-dokter-filipina-klaim-temukan-obat-ambeien-tanpa-operasi-2064069</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Thu, 28 Aug 2025 18:34:19 +0700</pubDate>
       <description>Sosok dalam video bukanlah dokter asal Filipina, melainkan dr Tony Setiobudi, dokter spesialis bedah tulang dan ortopedi di Rumah Sakit Mount Elizabeth, Singapura.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/28/id_1424250/1424250_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Prabowo Temui Demonstrasi Mahasiswa 25 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-prabowo-temui-demonstrasi-mahasiswa-25-agustus-2025-2064064</link>
-      <guid>7</guid>
-      <pubDate>Thu, 28 Aug 2025 18:25:05 +0700</pubDate>
-      <description>Presiden Prabowo Subianto tidak pernah menemui demonstran pada 25 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/28/id_1424239/1424239_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Perwira TNI Menolak Kenaikan Pajak dan Tunjangan Anggota DPR</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-perwira-tni-menolak-kenaikan-pajak-dan-tunjangan-anggota-dpr-2063691</link>
-      <guid>8</guid>
-      <pubDate>Wed, 27 Aug 2025 19:02:48 +0700</pubDate>
-      <description>Video yang beredar merupakan hasil rekayasa AI.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/27/id_1424002/1424002_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Demo 25 Agustus di Bundaran HI</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-demo-25-agustus-di-bundaran-hi-2063547</link>
-      <guid>9</guid>
-      <pubDate>Wed, 27 Aug 2025 12:53:01 +0700</pubDate>
-      <description>Video yang beredar merupakan foto perayaan SEA Games 2023, tidak terkait dengan demonstrasi pada 25 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/27/id_1423899/1423899_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
