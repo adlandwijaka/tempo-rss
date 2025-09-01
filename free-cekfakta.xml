@@ -4,13 +4,67 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 31 Aug 2025 05:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 05:15:13 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Foto AKP Darkun Tewas Dikeroyok Massa Demo di Kwitang</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-akp-darkun-tewas-dikeroyok-massa-demo-di-kwitang-2065145</link>
+      <guid>1</guid>
+      <pubDate>Sun, 31 Aug 2025 18:44:21 +0700</pubDate>
+      <description>Darkun tidak meninggal, melainkan luka-luka dan pingsan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425159/1425159_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Demonstrasi di DPR pada 25 Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-demonstrasi-di-dpr-pada-25-agustus-2025-2065140</link>
+      <guid>2</guid>
+      <pubDate>Sun, 31 Aug 2025 18:31:28 +0700</pubDate>
+      <description>Video yang beredar tak ada kaitannya dengan demonstrasi di DPR pada 25 Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425146/1425146_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Imbauan Tarik Uang di Bank karena Demo Belum Reda</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-imbauan-tarik-uang-di-bank-karena-demo-belum-reda-2065135</link>
+      <guid>3</guid>
+      <pubDate>Sun, 31 Aug 2025 17:59:05 +0700</pubDate>
+      <description>Menarik uang dari bank justru berisiko memicu masalah ekonomi yang lebih besar.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425143/1425143_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Sebagian Benar: Kapolri Perintahkan Tembak dengan Peluru Tajam ke Kelompok Anarkis</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-kapolri-perintahkan-tembak-dengan-peluru-tajam-ke-kelompok-anarkis-2065093</link>
+      <guid>4</guid>
+      <pubDate>Sun, 31 Aug 2025 15:39:00 +0700</pubDate>
+      <description>Listyo memang memerintahkan anggotanya untuk menembak kelompok anarkis tapi menggunakan peluru karet, bukan peluru tajam seperti dalam narasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425117/1425117_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Rumah Sri Mulyani Terbakar</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-rumah-sri-mulyani-terbakar-2065095</link>
+      <guid>5</guid>
+      <pubDate>Sun, 31 Aug 2025 15:22:00 +0700</pubDate>
+      <description>Kebakaran dalam foto itu terjadi di sebuah rumah mewah di kawasan Jalan Buaran Regency, Duren Sawit Jakarta Timur pada 2023.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425114/1425114_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Video Gedung DPR RI Dijarah Demonstran</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-video-gedung-dpr-ri-dijarah-demonstran-2065086</link>
+      <guid>6</guid>
+      <pubDate>Sun, 31 Aug 2025 15:00:00 +0700</pubDate>
+      <description>Video tersebut menunjukkan penjarahan di Kantor Wali Kota Pekalongan, bukan di DPR RI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425107/1425107_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Sebagian Benar: Penjarahan di Sekitar Mako Brimob Kwitang 29 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-penjarahan-di-sekitar-mako-brimob-kwitang-29-agustus-2025-2064942</link>
-      <guid>1</guid>
+      <guid>7</guid>
       <pubDate>Sun, 31 Aug 2025 06:00:00 +0700</pubDate>
       <description>Penjarahan sempat terjadi di halte namun tidak meluas ke toko-toko sekitar Pasar Senen.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1424979/1424979_720.jpg</thumbnail>
@@ -19,7 +73,7 @@
     <item>
       <title>Keliru: Video Anggota Brimob yang Melindas Pengemudi Ojol Affan Kurniawan</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-anggota-brimob-yang-melindas-pengemudi-ojol-affan-kurniawan-2064929</link>
-      <guid>2</guid>
+      <guid>8</guid>
       <pubDate>Sat, 30 Aug 2025 23:38:34 +0700</pubDate>
       <description>Video yang beredar bukan anggota Brimob yang melindas ojek online (ojol).</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424975/1424975_720.jpg</thumbnail>
@@ -28,64 +82,10 @@
     <item>
       <title>Keliru: Video Penjarahan di Mall Atrium Senen 29 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-penjarahan-di-mall-atrium-senen-29-agustus-2025-2064915</link>
-      <guid>3</guid>
+      <guid>9</guid>
       <pubDate>Sat, 30 Aug 2025 21:09:43 +0700</pubDate>
       <description>Tidak ada penjarahan di Mal Atrium Senen demo yang terus terjadi di wilayah Jakarta dan sekitarnya sejak 29 Agustus 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424935/1424935_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Tentara Jepang dan Australia Mengamankan Demonstrasi di DPR</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-tentara-jepang-dan-australia-mengamankan-demonstrasi-di-dpr-2064478</link>
-      <guid>4</guid>
-      <pubDate>Fri, 29 Aug 2025 17:35:00 +0700</pubDate>
-      <description>Keberadaan tentara asing di Indonesia bukan untuk membantu pengamanan demonstrasi di depan gedung DPR.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424568/1424568_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Immanuel Ebenezer Dirawat di RS Setelah Ditetapkan Tersangka</title>
-      <link>https://www.tempo.co/cekfakta/keliru-immanuel-ebenezer-dirawat-di-rs-setelah-ditetapkan-tersangka-2064476</link>
-      <guid>5</guid>
-      <pubDate>Fri, 29 Aug 2025 17:30:00 +0700</pubDate>
-      <description>Terdapat sejumlah kejanggalan pada foto Immanuel Ebenezer yang beredar.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424562/1424562_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Tentara Membela Pengunjuk Rasa di DPR 25 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-tentara-membela-pengunjuk-rasa-di-dpr-25-agustus-2025-2064442</link>
-      <guid>6</guid>
-      <pubDate>Fri, 29 Aug 2025 16:35:39 +0700</pubDate>
-      <description>Sebagian rekaman terbukti buatan akal imitasi, sementara lainnya berasal dari demonstrasi di Yogyakarta pada 2020.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424527/1424527_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Demo di DPR pada 25 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-demo-di-dpr-pada-25-agustus-2025-2064424</link>
-      <guid>7</guid>
-      <pubDate>Fri, 29 Aug 2025 15:58:14 +0700</pubDate>
-      <description>Video yang beredar bukan bagian dari unjuk rasa di depan Gedung DPR, 25 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/29/id_1424508/1424508_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video DPR RI Sahkan UU Perampasan Aset setelah Demo 25 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-dpr-ri-sahkan-uu-perampasan-aset-setelah-demo-25-agustus-2025-2064073</link>
-      <guid>8</guid>
-      <pubDate>Thu, 28 Aug 2025 18:45:00 +0700</pubDate>
-      <description>Tidak ada anggota DPR yang menemui pendemo pada 25 Agustus lalu, apalagi mengesahkan UU Perampasan Aset.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/28/id_1424259/1424259_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Dokter Filipina Klaim Temukan Obat Ambeien Tanpa Operasi</title>
-      <link>https://www.tempo.co/cekfakta/keliru-dokter-filipina-klaim-temukan-obat-ambeien-tanpa-operasi-2064069</link>
-      <guid>9</guid>
-      <pubDate>Thu, 28 Aug 2025 18:34:19 +0700</pubDate>
-      <description>Sosok dalam video bukanlah dokter asal Filipina, melainkan dr Tony Setiobudi, dokter spesialis bedah tulang dan ortopedi di Rumah Sakit Mount Elizabeth, Singapura.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/28/id_1424250/1424250_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
