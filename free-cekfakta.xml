@@ -4,13 +4,76 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 01 Sep 2025 05:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:14:40 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Video Demo Cikupa Akhir Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-video-demo-cikupa-akhir-agustus-2025-2065548</link>
+      <guid>1</guid>
+      <pubDate>Mon, 01 Sep 2025 19:08:33 +0700</pubDate>
+      <description>Video itu direkam di kawasan Cikupa saat buruh hendak berunjuk rasa menolak UU Cipta Kerja pada 2020</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425459/1425459_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Demonstran Membakar Area di Sekitar Summarecon Bekasi 31 Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-demonstran-membakar-area-di-sekitar-summarecon-bekasi-31-agustus-2025-2065537</link>
+      <guid>2</guid>
+      <pubDate>Mon, 01 Sep 2025 18:44:51 +0700</pubDate>
+      <description>Video yang beredar terjadi di Makassar, bukan di Summarecon Bekasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425440/1425440_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Rumah Ketua DPR RI Puan Maharani Dijarah</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-rumah-ketua-dpr-ri-puan-maharani-dijarah-2065530</link>
+      <guid>3</guid>
+      <pubDate>Mon, 01 Sep 2025 18:29:52 +0700</pubDate>
+      <description>Kerumunan massa memang sempat mendatangi rumah Puan, tetapi tidak terjadi penjarahan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425435/1425435_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Ada Korban Pemerkosaan di Tengah Demonstrasi yang Dirawat di RSU UKI</title>
+      <link>https://www.tempo.co/cekfakta/keliru-ada-korban-pemerkosaan-di-tengah-demonstrasi-yang-dirawat-di-rsu-uki-2065524</link>
+      <guid>4</guid>
+      <pubDate>Mon, 01 Sep 2025 18:12:14 +0700</pubDate>
+      <description>RSU UKI membantah adanya pasien korban pemerkosaan selama sepekan terakhir.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425419/1425419_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Antrean WNA Terjebak di Bandara Soekarno-Hatta</title>
+      <link>https://www.tempo.co/cekfakta/keliru-antrean-wna-terjebak-di-bandara-soekarno-hatta-2065428</link>
+      <guid>5</guid>
+      <pubDate>Mon, 01 Sep 2025 13:58:00 +0700</pubDate>
+      <description>Foto yang beredar tidak ada kaitannya dengan demonstrasi pada Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425327/1425327_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Demonstrasi di Bandara Soekarno-Hatta</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-demonstrasi-di-bandara-soekarno-hatta-2065427</link>
+      <guid>6</guid>
+      <pubDate>Mon, 01 Sep 2025 13:51:00 +0700</pubDate>
+      <description>Tidak ada demonstrasi di Bandara Soekarno-Hatta pada 31 Agustus 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425318/1425318_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video TNI Marah ke Polisi untuk Dukung Demonstran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-tni-marah-ke-polisi-untuk-dukung-demonstran-2065420</link>
+      <guid>7</guid>
+      <pubDate>Mon, 01 Sep 2025 13:41:00 +0700</pubDate>
+      <description>Deskripsi: Ditemukan banyak kejanggalan visual dalam video.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425311/1425311_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Foto AKP Darkun Tewas Dikeroyok Massa Demo di Kwitang</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-akp-darkun-tewas-dikeroyok-massa-demo-di-kwitang-2065145</link>
-      <guid>1</guid>
+      <guid>8</guid>
       <pubDate>Sun, 31 Aug 2025 18:44:21 +0700</pubDate>
       <description>Darkun tidak meninggal, melainkan luka-luka dan pingsan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425159/1425159_720.jpg</thumbnail>
@@ -19,73 +82,10 @@
     <item>
       <title>Keliru: Video Demonstrasi di DPR pada 25 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-demonstrasi-di-dpr-pada-25-agustus-2025-2065140</link>
-      <guid>2</guid>
+      <guid>9</guid>
       <pubDate>Sun, 31 Aug 2025 18:31:28 +0700</pubDate>
       <description>Video yang beredar tak ada kaitannya dengan demonstrasi di DPR pada 25 Agustus 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425146/1425146_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Imbauan Tarik Uang di Bank karena Demo Belum Reda</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-imbauan-tarik-uang-di-bank-karena-demo-belum-reda-2065135</link>
-      <guid>3</guid>
-      <pubDate>Sun, 31 Aug 2025 17:59:05 +0700</pubDate>
-      <description>Menarik uang dari bank justru berisiko memicu masalah ekonomi yang lebih besar.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425143/1425143_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Kapolri Perintahkan Tembak dengan Peluru Tajam ke Kelompok Anarkis</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-kapolri-perintahkan-tembak-dengan-peluru-tajam-ke-kelompok-anarkis-2065093</link>
-      <guid>4</guid>
-      <pubDate>Sun, 31 Aug 2025 15:39:00 +0700</pubDate>
-      <description>Listyo memang memerintahkan anggotanya untuk menembak kelompok anarkis tapi menggunakan peluru karet, bukan peluru tajam seperti dalam narasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425117/1425117_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Rumah Sri Mulyani Terbakar</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-rumah-sri-mulyani-terbakar-2065095</link>
-      <guid>5</guid>
-      <pubDate>Sun, 31 Aug 2025 15:22:00 +0700</pubDate>
-      <description>Kebakaran dalam foto itu terjadi di sebuah rumah mewah di kawasan Jalan Buaran Regency, Duren Sawit Jakarta Timur pada 2023.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425114/1425114_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Gedung DPR RI Dijarah Demonstran</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-gedung-dpr-ri-dijarah-demonstran-2065086</link>
-      <guid>6</guid>
-      <pubDate>Sun, 31 Aug 2025 15:00:00 +0700</pubDate>
-      <description>Video tersebut menunjukkan penjarahan di Kantor Wali Kota Pekalongan, bukan di DPR RI.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425107/1425107_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Penjarahan di Sekitar Mako Brimob Kwitang 29 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-penjarahan-di-sekitar-mako-brimob-kwitang-29-agustus-2025-2064942</link>
-      <guid>7</guid>
-      <pubDate>Sun, 31 Aug 2025 06:00:00 +0700</pubDate>
-      <description>Penjarahan sempat terjadi di halte namun tidak meluas ke toko-toko sekitar Pasar Senen.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1424979/1424979_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Anggota Brimob yang Melindas Pengemudi Ojol Affan Kurniawan</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-anggota-brimob-yang-melindas-pengemudi-ojol-affan-kurniawan-2064929</link>
-      <guid>8</guid>
-      <pubDate>Sat, 30 Aug 2025 23:38:34 +0700</pubDate>
-      <description>Video yang beredar bukan anggota Brimob yang melindas ojek online (ojol).</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424975/1424975_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Penjarahan di Mall Atrium Senen 29 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-penjarahan-di-mall-atrium-senen-29-agustus-2025-2064915</link>
-      <guid>9</guid>
-      <pubDate>Sat, 30 Aug 2025 21:09:43 +0700</pubDate>
-      <description>Tidak ada penjarahan di Mal Atrium Senen demo yang terus terjadi di wilayah Jakarta dan sekitarnya sejak 29 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/30/id_1424935/1424935_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
