@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 02 Sep 2025 05:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 05:13:19 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Imbauan dari BEM UI agar Terhindar dari Operasi Petrus</title>
+      <link>https://www.tempo.co/cekfakta/keliru-imbauan-dari-bem-ui-agar-terhindar-dari-operasi-petrus-2065940</link>
+      <guid>1</guid>
+      <pubDate>Tue, 02 Sep 2025 19:18:32 +0700</pubDate>
+      <description>BEM UI tidak pernah mengeluarkan imbauan seperti klaim yang beredar.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425720/1425720_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Jurnalis Australia Ditembak saat Meliput Demonstrasi di Indonesia</title>
+      <link>https://www.tempo.co/cekfakta/keliru-jurnalis-australia-ditembak-saat-meliput-demonstrasi-di-indonesia-2065929</link>
+      <guid>2</guid>
+      <pubDate>Tue, 02 Sep 2025 18:59:50 +0700</pubDate>
+      <description>Peristiwa penembakan jurnalis dalam video yang beredar tidak terjadi di Indonesia.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425711/1425711_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Sebagian Benar: Rumah Dinas Emil Dardak Dibakar dan Dijarah</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-rumah-dinas-emil-dardak-dibakar-dan-dijarah-2065895</link>
+      <guid>3</guid>
+      <pubDate>Tue, 02 Sep 2025 17:30:44 +0700</pubDate>
+      <description>Gedung yang terbakar bukan rumah dinas Emil Dardak, melainkan kantor dinasnya yang berada di Gedung Grahadi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425665/1425665_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Apartemen Slipi Dibakar saat Demonstrasi Agustus 2025 </title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-apartemen-slipi-dibakar-saat-demonstrasi-agustus-2025--2065823</link>
+      <guid>4</guid>
+      <pubDate>Tue, 02 Sep 2025 14:41:00 +0700</pubDate>
+      <description>Pembakaran terjadi di Jembatan Layang Slipi Petamburan, bukan Apartemen Slipi</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425629/1425629_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Video Demo Cikupa Akhir Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-demo-cikupa-akhir-agustus-2025-2065548</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Mon, 01 Sep 2025 19:08:33 +0700</pubDate>
       <description>Video itu direkam di kawasan Cikupa saat buruh hendak berunjuk rasa menolak UU Cipta Kerja pada 2020</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425459/1425459_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Video Demonstran Membakar Area di Sekitar Summarecon Bekasi 31 Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-demonstran-membakar-area-di-sekitar-summarecon-bekasi-31-agustus-2025-2065537</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Mon, 01 Sep 2025 18:44:51 +0700</pubDate>
       <description>Video yang beredar terjadi di Makassar, bukan di Summarecon Bekasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425440/1425440_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Video Rumah Ketua DPR RI Puan Maharani Dijarah</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-rumah-ketua-dpr-ri-puan-maharani-dijarah-2065530</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Mon, 01 Sep 2025 18:29:52 +0700</pubDate>
       <description>Kerumunan massa memang sempat mendatangi rumah Puan, tetapi tidak terjadi penjarahan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425435/1425435_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Ada Korban Pemerkosaan di Tengah Demonstrasi yang Dirawat di RSU UKI</title>
       <link>https://www.tempo.co/cekfakta/keliru-ada-korban-pemerkosaan-di-tengah-demonstrasi-yang-dirawat-di-rsu-uki-2065524</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Mon, 01 Sep 2025 18:12:14 +0700</pubDate>
       <description>RSU UKI membantah adanya pasien korban pemerkosaan selama sepekan terakhir.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425419/1425419_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: Antrean WNA Terjebak di Bandara Soekarno-Hatta</title>
       <link>https://www.tempo.co/cekfakta/keliru-antrean-wna-terjebak-di-bandara-soekarno-hatta-2065428</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Mon, 01 Sep 2025 13:58:00 +0700</pubDate>
       <description>Foto yang beredar tidak ada kaitannya dengan demonstrasi pada Agustus 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425327/1425327_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Demonstrasi di Bandara Soekarno-Hatta</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-demonstrasi-di-bandara-soekarno-hatta-2065427</link>
-      <guid>6</guid>
-      <pubDate>Mon, 01 Sep 2025 13:51:00 +0700</pubDate>
-      <description>Tidak ada demonstrasi di Bandara Soekarno-Hatta pada 31 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425318/1425318_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video TNI Marah ke Polisi untuk Dukung Demonstran</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-tni-marah-ke-polisi-untuk-dukung-demonstran-2065420</link>
-      <guid>7</guid>
-      <pubDate>Mon, 01 Sep 2025 13:41:00 +0700</pubDate>
-      <description>Deskripsi: Ditemukan banyak kejanggalan visual dalam video.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/01/id_1425311/1425311_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto AKP Darkun Tewas Dikeroyok Massa Demo di Kwitang</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-akp-darkun-tewas-dikeroyok-massa-demo-di-kwitang-2065145</link>
-      <guid>8</guid>
-      <pubDate>Sun, 31 Aug 2025 18:44:21 +0700</pubDate>
-      <description>Darkun tidak meninggal, melainkan luka-luka dan pingsan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425159/1425159_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Demonstrasi di DPR pada 25 Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-demonstrasi-di-dpr-pada-25-agustus-2025-2065140</link>
-      <guid>9</guid>
-      <pubDate>Sun, 31 Aug 2025 18:31:28 +0700</pubDate>
-      <description>Video yang beredar tak ada kaitannya dengan demonstrasi di DPR pada 25 Agustus 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/08/31/id_1425146/1425146_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
