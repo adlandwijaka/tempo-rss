@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 07 Sep 2025 05:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 05:14:36 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: PKI Susupi Demonstrasi Agustus 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-pki-susupi-demonstrasi-agustus-2025-2067604</link>
+      <guid>1</guid>
+      <pubDate>Mon, 08 Sep 2025 11:57:33 +0700</pubDate>
+      <description>Video yang digunakan merupakan rekaman kericuhan yang terjadi di dekat Mako Brimob Kwitang.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/08/id_1426756/1426756_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: PBB Mengambil Alih Pembubaran DPR RI</title>
+      <link>https://www.tempo.co/cekfakta/keliru-pbb-mengambil-alih-pembubaran-dpr-ri-2067589</link>
+      <guid>2</guid>
+      <pubDate>Mon, 08 Sep 2025 11:21:34 +0700</pubDate>
+      <description>PBB tidak memiliki wewenang membubarkan DPR RI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/08/id_1426751/1426751_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Ada Korban Penembakan di Warjo Saat Demonstrasi Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-ada-korban-penembakan-di-warjo-saat-demonstrasi-agustus-2025-2067187</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Sat, 06 Sep 2025 13:32:40 +0700</pubDate>
       <description>Tak ditemukan bukti terjadi penembakan di Warjo Jagakarsa maupun Cipayung.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/06/id_1426479/1426479_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Menyesatkan: TNI Gantikan Polisi dalam Pengamanan Demo</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-tni-gantikan-polisi-dalam-pengamanan-demo-2066678</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Thu, 04 Sep 2025 17:52:17 +0700</pubDate>
       <description>TNI datang ke lokasi demonstrasi bukan untuk menggantikan polisi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/04/id_1426194/1426194_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Presiden Prabowo Resmi Membubarkan DPR</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-prabowo-resmi-membubarkan-dpr-2066661</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Thu, 04 Sep 2025 17:25:03 +0700</pubDate>
       <description>Menurut sejumlah pakar, secara konstitusional, DPR tidak bisa dibubarkan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/04/id_1426175/1426175_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Wapres Gibran Temui Langsung para Demonstran</title>
       <link>https://www.tempo.co/cekfakta/keliru-wapres-gibran-temui-langsung-para-demonstran-2066221</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Wed, 03 Sep 2025 16:02:43 +0700</pubDate>
       <description>Video yang beredar merupakan video lama saat Gibran mudik ke Solo Juni 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/03/id_1425898/1425898_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Menyesatkan: Video Gedung DPR RI Dibakar Massa</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-gedung-dpr-ri-dibakar-massa-2066207</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Wed, 03 Sep 2025 15:25:50 +0700</pubDate>
       <description>Gedung yang terbakar dalam video adalah gedung DPRD Kota Makassar dan DPRD Provinsi Sulawesi Selatan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/03/id_1425881/1425881_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Imbauan dari BEM UI agar Terhindar dari Operasi Petrus</title>
       <link>https://www.tempo.co/cekfakta/keliru-imbauan-dari-bem-ui-agar-terhindar-dari-operasi-petrus-2065940</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Tue, 02 Sep 2025 19:18:32 +0700</pubDate>
       <description>BEM UI tidak pernah mengeluarkan imbauan seperti klaim yang beredar.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425720/1425720_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Jurnalis Australia Ditembak saat Meliput Demonstrasi di Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-jurnalis-australia-ditembak-saat-meliput-demonstrasi-di-indonesia-2065929</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Tue, 02 Sep 2025 18:59:50 +0700</pubDate>
       <description>Peristiwa penembakan jurnalis dalam video yang beredar tidak terjadi di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425711/1425711_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Rumah Dinas Emil Dardak Dibakar dan Dijarah</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-rumah-dinas-emil-dardak-dibakar-dan-dijarah-2065895</link>
-      <guid>8</guid>
-      <pubDate>Tue, 02 Sep 2025 17:30:44 +0700</pubDate>
-      <description>Gedung yang terbakar bukan rumah dinas Emil Dardak, melainkan kantor dinasnya yang berada di Gedung Grahadi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425665/1425665_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Apartemen Slipi Dibakar saat Demonstrasi Agustus 2025 </title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-apartemen-slipi-dibakar-saat-demonstrasi-agustus-2025--2065823</link>
-      <guid>9</guid>
-      <pubDate>Tue, 02 Sep 2025 14:41:00 +0700</pubDate>
-      <description>Pembakaran terjadi di Jembatan Layang Slipi Petamburan, bukan Apartemen Slipi</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425629/1425629_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
