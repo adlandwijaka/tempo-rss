@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 09 Sep 2025 05:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 05:13:37 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Foto Panglima NATO Ingin Buat Kerusuhan di Indonesia</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-panglima-nato-ingin-buat-kerusuhan-di-indonesia-2068361</link>
+      <guid>1</guid>
+      <pubDate>Wed, 10 Sep 2025 12:05:26 +0700</pubDate>
+      <description>Foto yang digunakan diambil pada 20 September 2023 dan tidak sedang membicarakan Indonesia.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/10/id_1427223/1427223_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Reporter Di Solo Ditembak dengan Peluru Karet</title>
+      <link>https://www.tempo.co/cekfakta/keliru-reporter-di-solo-ditembak-dengan-peluru-karet-2068354</link>
+      <guid>2</guid>
+      <pubDate>Wed, 10 Sep 2025 11:48:52 +0700</pubDate>
+      <description>Tidak ditemukan fakta seorang reporter di Solo tertembak peluru karet.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/10/id_1427218/1427218_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Jokowi Perintahkan Penembakan di KM 50</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-jokowi-perintahkan-penembakan-di-km-50-2068343</link>
+      <guid>3</guid>
+      <pubDate>Wed, 10 Sep 2025 11:23:02 +0700</pubDate>
+      <description>Konten yang beredar merupakan gabungan beberapa video dan foto yang sebagian telah diubah dari aslinya.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/10/id_1427208/1427208_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Berita Anies Siap Gantikan Presiden Saat Kondisi Darurat</title>
+      <link>https://www.tempo.co/cekfakta/keliru-berita-anies-siap-gantikan-presiden-saat-kondisi-darurat-2068089</link>
+      <guid>4</guid>
+      <pubDate>Tue, 09 Sep 2025 17:08:37 +0700</pubDate>
+      <description>Tangkapan layar berita dan foto tersebut merupakan hasil suntingan pihak yang tidak bertanggung jawab.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/09/id_1427030/1427030_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Belum Ada Bukti: Anggota CIA Rekam Aksi Demonstrasi di Jakarta</title>
+      <link>https://www.tempo.co/cekfakta/belum-ada-bukti-anggota-cia-rekam-aksi-demonstrasi-di-jakarta-2068078</link>
+      <guid>5</guid>
+      <pubDate>Tue, 09 Sep 2025 16:43:49 +0700</pubDate>
+      <description>Klaim berawal dari komentar warganet tanpa dasar yang jelas.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/09/id_1427023/1427023_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: PKI Susupi Demonstrasi Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-pki-susupi-demonstrasi-agustus-2025-2067604</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Mon, 08 Sep 2025 11:57:33 +0700</pubDate>
       <description>Video yang digunakan merupakan rekaman kericuhan yang terjadi di dekat Mako Brimob Kwitang.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/08/id_1426756/1426756_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Keliru: PBB Mengambil Alih Pembubaran DPR RI</title>
       <link>https://www.tempo.co/cekfakta/keliru-pbb-mengambil-alih-pembubaran-dpr-ri-2067589</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Mon, 08 Sep 2025 11:21:34 +0700</pubDate>
       <description>PBB tidak memiliki wewenang membubarkan DPR RI.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/08/id_1426751/1426751_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Ada Korban Penembakan di Warjo Saat Demonstrasi Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-ada-korban-penembakan-di-warjo-saat-demonstrasi-agustus-2025-2067187</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Sat, 06 Sep 2025 13:32:40 +0700</pubDate>
       <description>Tak ditemukan bukti terjadi penembakan di Warjo Jagakarsa maupun Cipayung.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/06/id_1426479/1426479_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Menyesatkan: TNI Gantikan Polisi dalam Pengamanan Demo</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-tni-gantikan-polisi-dalam-pengamanan-demo-2066678</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Thu, 04 Sep 2025 17:52:17 +0700</pubDate>
       <description>TNI datang ke lokasi demonstrasi bukan untuk menggantikan polisi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/04/id_1426194/1426194_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Presiden Prabowo Resmi Membubarkan DPR</title>
-      <link>https://www.tempo.co/cekfakta/keliru-presiden-prabowo-resmi-membubarkan-dpr-2066661</link>
-      <guid>5</guid>
-      <pubDate>Thu, 04 Sep 2025 17:25:03 +0700</pubDate>
-      <description>Menurut sejumlah pakar, secara konstitusional, DPR tidak bisa dibubarkan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/04/id_1426175/1426175_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Wapres Gibran Temui Langsung para Demonstran</title>
-      <link>https://www.tempo.co/cekfakta/keliru-wapres-gibran-temui-langsung-para-demonstran-2066221</link>
-      <guid>6</guid>
-      <pubDate>Wed, 03 Sep 2025 16:02:43 +0700</pubDate>
-      <description>Video yang beredar merupakan video lama saat Gibran mudik ke Solo Juni 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/03/id_1425898/1425898_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Gedung DPR RI Dibakar Massa</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-gedung-dpr-ri-dibakar-massa-2066207</link>
-      <guid>7</guid>
-      <pubDate>Wed, 03 Sep 2025 15:25:50 +0700</pubDate>
-      <description>Gedung yang terbakar dalam video adalah gedung DPRD Kota Makassar dan DPRD Provinsi Sulawesi Selatan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/03/id_1425881/1425881_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Imbauan dari BEM UI agar Terhindar dari Operasi Petrus</title>
-      <link>https://www.tempo.co/cekfakta/keliru-imbauan-dari-bem-ui-agar-terhindar-dari-operasi-petrus-2065940</link>
-      <guid>8</guid>
-      <pubDate>Tue, 02 Sep 2025 19:18:32 +0700</pubDate>
-      <description>BEM UI tidak pernah mengeluarkan imbauan seperti klaim yang beredar.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425720/1425720_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Jurnalis Australia Ditembak saat Meliput Demonstrasi di Indonesia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-jurnalis-australia-ditembak-saat-meliput-demonstrasi-di-indonesia-2065929</link>
-      <guid>9</guid>
-      <pubDate>Tue, 02 Sep 2025 18:59:50 +0700</pubDate>
-      <description>Peristiwa penembakan jurnalis dalam video yang beredar tidak terjadi di Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/02/id_1425711/1425711_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
