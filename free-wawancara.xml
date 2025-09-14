@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 13 Sep 2025 05:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 05:12:40 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Andhyta F. Utami Menjawab Kritik 17+8 Tuntutan Rakyat</title>
+      <link>https://www.tempo.co/wawancara/andhyta-f-utami-gerakan-tuntutan-17-8-2069543</link>
+      <guid>1</guid>
+      <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
+      <description>Pendiri Think Policy Indonesia, Andhyta Firselly Utami, menyatakan gerakan 17+8 Tuntutan Rakyat sebagai gerakan jangka panjang.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895538/895538_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Tuntutan 17+8 Adalah Gerakan Jangka Panjang</title>
+      <link>https://www.tempo.co/wawancara/andhyta-f-utami-tuntutan-17-8-2069544</link>
+      <guid>2</guid>
+      <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
+      <description>Anggota Kolektif 17+8 Indonesia Berbenah, Andhyta F. Utami, menjelaskan latar belakang penyusunan tuntutan 17+8.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895551/895551_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>KPK: Kasus Hasto Kristiyanto Bisa Diproses Lagi</title>
+      <link>https://www.tempo.co/wawancara/kpk-amnesti-hasto-kristiyanto-2069398</link>
+      <guid>3</guid>
+      <pubDate>Sat, 13 Sep 2025 14:00:00 +0700</pubDate>
+      <description>Wakil Ketua KPK Johanis Tanak amnesti kepada Hasto Kristiyanto. Penyidik bisa menyidiknya lagi jika Harun Masiku tertangkap.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/10/895275/895275_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Haris Azhar: Mengaitkan Delpedro dengan Riza Chalid Itu Cocokologi</title>
       <link>https://www.tempo.co/wawancara/penangkapan-delpedro-rusuh-demonstrasi-agustus-2067339</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 07 Sep 2025 09:00:00 +0700</pubDate>
       <description>Aktivis hak asasi manusia Haris Azhar menjelaskan nuansa politik dan kambing hitam di balik penangkapan sejumlah aktivis.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/07/895036/895036_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Kambing Hitam Unjuk Rasa Rusuh</title>
       <link>https://www.tempo.co/wawancara/kambing-hitam-unjuk-rasa-rusuh-2067340</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Sun, 07 Sep 2025 09:00:00 +0700</pubDate>
       <description>Menuduh Delpedro melakukan kegiatan provokasi atau menghasut anak-anak adalah tudingan yang serampangan dan tanpa bukti kuat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/07/895043/895043_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Tom Lembong: Hanya Saya yang Dikasuskan Terkait Impor Gula</title>
       <link>https://www.tempo.co/wawancara/tom-lembong-jokowi-impor-gula-2066138</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Wed, 03 Sep 2025 14:00:00 +0700</pubDate>
       <description>Tom Lembong berbicara mengenai kasus impor gula, abolisi dari Prabowo, keseharian di penjara, dan hubungan dengan Joko Widodo.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/28/894356/894356_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Yahya Cholil Staquf: Saya Tak Teliti Soal Peter Berkowitz</title>
       <link>https://www.tempo.co/wawancara/yahya-cholil-staquf-pbnu-peter-berkowitz-2065075</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 31 Aug 2025 15:00:00 +0700</pubDate>
       <description>Ketua Umum PBNU Yahya Cholil Staquf menyatakan keliru telah mengundang Peter Berkowitz.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/30/894552/894552_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Yahya Cholil Staquf: Antara Palestina dan Tuduhan Pro-Yahudi</title>
       <link>https://www.tempo.co/wawancara/yahya-cholil-staquf-peter-berkowitz-2065073</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 31 Aug 2025 15:00:00 +0700</pubDate>
       <description>Ketua Umum PBNU Yahya Cholil Staquf menjelaskan alasannya mengundang Peter Berkowitz, akademikus pro-zionisme.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/31/894562/894562_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Malik Mahmud: Perjanjian Helsinki Tidak Dijalankan dengan Benar</title>
       <link>https://www.tempo.co/wawancara/20-tahun-perjanjian-helsinki-2064754</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Sat, 30 Aug 2025 14:00:00 +0700</pubDate>
       <description>Wali Nanggroe Aceh Malik Mahmud Al-Haythar menjelaskan capaian dua dasawarsa Perjanjian Helsinki. Aceh masih tertinggal.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/08/28/894340/894340_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sana Jaffrey: Ada Krisis Demokrasi di Indonesia</title>
-      <link>https://www.tempo.co/wawancara/sana-jaffrey-otoritarianisme-jokowi-2062482</link>
-      <guid>7</guid>
-      <pubDate>Sun, 24 Aug 2025 15:00:00 +0700</pubDate>
-      <description>Akademikus Australian National University, Sana Jaffrey, bicara kepemimpinan Jokowi yang ditulis di buku The Jokowi Presidency.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/08/23/894034/894034_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Kebangkitan Otoritarianisme di Era Jokowi</title>
-      <link>https://www.tempo.co/wawancara/jokowi-sana-jaffrey--2062481</link>
-      <guid>8</guid>
-      <pubDate>Sun, 24 Aug 2025 15:00:00 +0700</pubDate>
-      <description>Wawancara dengan akademikus Australian National University, Sana Jaffrey, yang membahas watak kekuasaan Joko Widodo.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/08/23/894053/894053_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>CEO Danantara: Banyak BUMN Memoles Laporan Keuangan</title>
-      <link>https://www.tempo.co/wawancara/ceo-danantara-laporan-keuangan-bumn-2061775</link>
-      <guid>9</guid>
-      <pubDate>Fri, 22 Aug 2025 14:00:00 +0700</pubDate>
-      <description>CEO Danantara, Rosan Perkasa Roeslani, menjelaskan penghapusan tantiem komisaris BUMN. Juga window dressing perusahaan negara.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/08/18/893670/893670_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
