@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 15 Sep 2025 05:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 05:13:44 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Cawe-cawe Perusahaan Teknologi dalam Pembuatan Regulasi</title>
+      <link>https://www.tempo.co/investigasi/lobi-lobi-perusahaan-teknologi-2070172</link>
+      <guid>1</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <description>Perusahaan teknologi turut mengintervensi pembuatan regulasi di Indonesia. Lobi-lobi serupa terjadi di negara lain.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/16/895726/895726_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Komite Publisher Rights: Kami Tak Bisa Menjewer Platform Digital</title>
+      <link>https://www.tempo.co/investigasi/komite-publisher-rights--2070175</link>
+      <guid>2</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <description>Ketua Komite Publisher Rights Suprapto Sastro Atmojo menjelaskan penerapan peraturan presiden mengenai jurnalisme berkualitas.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/15/895709/895709_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Cara Perusahaan Teknologi Menyiasati Publisher Rights di Negara Lain</title>
+      <link>https://www.tempo.co/investigasi/taktik-lobi-bigtech-negara-lain-2070174</link>
+      <guid>3</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <description>Google menandatangani lebih dari 2.000 kontrak dengan media di seluruh dunia dalam lima tahun terakhir.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2023/07/02/835280/835280_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Taktik Media Lokal Bertahan dalam Disrupsi Digital</title>
+      <link>https://www.tempo.co/investigasi/media-lokal-disrupsi-digital-2070173</link>
+      <guid>4</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <description>Media lokal kesulitan menghadapi disrupsi digital. Mulai mencari model bisnis baru.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/16/895717/895717_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title> Lobi-lobi Perusahaan Teknologi</title>
+      <link>https://www.tempo.co/investigasi/alasan-investigasi-perusahaan-teknologi-2070192</link>
+      <guid>5</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <description>Perusahaan teknologi menggunakan taktik lobi untuk mempengaruhi kebijakan. Liputan kolaborasi media di 13 negara.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2023/07/02/835279/835279_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Cara Jepang, Amerika, Swedia Menjalankan Makan Siang Gratis</title>
       <link>https://www.tempo.co/investigasi/makan-siang-gratis-negara-lain-1233248</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
       <description>Program makan siang di negara lain mengandalkan dapur di sekolah. Reportase dari Jepang, Amerika Serikat, dan Swedia.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/04/18/885064/885064_1200.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Ketua Yayasan Gerakan Solidaritas Nasional: Kami Tak Mencari Keuntungan</title>
       <link>https://www.tempo.co/investigasi/yayasan-prabowo-makan-bergizi-gratis-1233246</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
       <description>Ketua Yayasan Gerakan Solidaritas Nasional Teguh Arief Indratmoko menjelaskan keterlibatan lembaganya di proyek makan bergizi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/04/15/884961/884961_1200.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Profil Yayasan Gerakan Solidaritas Nasional, Mitra Makan Bergizi Gratis</title>
       <link>https://www.tempo.co/investigasi/yayasan-gerakan-solidaritas-nasional-mbg-1233247</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
       <description>Yayasan Gerakan Solidaritas Nasional didirikan Prabowo dan dikelola orang-orang dekatnya. Bergerak di bidang sosial.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/04/16/885004/885004_1200.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Kepala Badan Gizi Nasional: Semua Pihak Berhak Ikut Serta</title>
       <link>https://www.tempo.co/investigasi/badan-gizi-nasional-mitra-mbg-1233249</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
       <description>Kepala Badan Gizi Nasional Dadan Hindayana mengatakan semua pihak berhak menjadi mitra untuk menyediakan makan bergizi gratis.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/04/15/884960/884960_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Mengapa Makan Bergizi Gratis Kacau di Banyak Daerah?</title>
-      <link>https://www.tempo.co/investigasi/makan-bergizi-gratis-kacau-daerah-1233261</link>
-      <guid>5</guid>
-      <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
-      <description>Pelaksanaan makan bergizi gratis kacau di berbagai daerah. Ada menu yang basi hingga pembagian penganan kemasan.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/04/18/885066/885066_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keluarga dan Kroni Prabowo dalam Proyek Makan Bergizi Gratis</title>
-      <link>https://www.tempo.co/investigasi/kroni-prabowo-makan-bergizi-gratis-1233283</link>
-      <guid>6</guid>
-      <pubDate>Sun, 20 Apr 2025 08:30:00 +0700</pubDate>
-      <description>Kroni Presiden dan para pendukungnya menikmati proyek makan bergizi gratis. Yayasan yang didirikan Prabowo Subianto turut serta.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/04/19/885259/885259_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Jerit Petani Kolaka Setelah Sawah Mereka Terendam Lumpur Tambang Nikel</title>
-      <link>https://www.tempo.co/investigasi/dampak-panen-petani-tambang-nikel-kolaka-1218965</link>
-      <guid>7</guid>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0700</pubDate>
-      <description>Banjir Kolaka yang membawa lumpur dari tambang nikel mengakibatkan produktivitas sawah anjlok. Petani meradang.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/03/13/882926/882926_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keruhnya Sumber Air Akibat Tambang Nikel Kolaka</title>
-      <link>https://www.tempo.co/investigasi/air-bersih-tambang-nikel-koloka-1218975</link>
-      <guid>8</guid>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0700</pubDate>
-      <description>Tambang nikel merusak sumber air bersih warga di Kecamatan Pomalaa, Kabupaten Kolaka, Sulawesi Tenggara.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/03/13/882929/882929_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Dampak Tambang Nikel Kolaka: Menjamur Rumah Kos-kosan dan Aneka Usaha</title>
-      <link>https://www.tempo.co/investigasi/dampak-sosial-ekonomi-tambang-nikel-1219029</link>
-      <guid>9</guid>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 +0700</pubDate>
-      <description>Keberadaan tambang nikel di Kolaka mendorong masyarakat pindah pekerjaan. Menjamur rumah kos-kosan dan aneka usaha.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/03/13/882924/882924_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
