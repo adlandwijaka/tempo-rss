@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 17 Sep 2025 05:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 05:13:33 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Qatar Borong 2 Ribu Rudal Banaspati dari Indonesia</title>
+      <link>https://www.tempo.co/cekfakta/keliru-qatar-borong-2-ribu-rudal-banaspati-dari-indonesia-2070772</link>
+      <guid>1</guid>
+      <pubDate>Wed, 17 Sep 2025 19:08:11 +0700</pubDate>
+      <description>Sebagian klip dari video tersebut dibuat menggunakan AI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428763/1428763_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Benjamin Netanyahu Kritis Akibat Serangan Bom Houthi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-benjamin-netanyahu-kritis-akibat-serangan-bom-houthi-2070684</link>
+      <guid>2</guid>
+      <pubDate>Wed, 17 Sep 2025 15:47:32 +0700</pubDate>
+      <description>Video yang beredar merupakan gabungan berbagai klip yang tidak ada kaitannya dengan Bom Houthi</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428704/1428704_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Putin Bela Indonesia soal Ambalat di Mahkamah Internasional</title>
+      <link>https://www.tempo.co/cekfakta/keliru-putin-bela-indonesia-soal-ambalat-di-mahkamah-internasional-2070672</link>
+      <guid>3</guid>
+      <pubDate>Wed, 17 Sep 2025 15:21:42 +0700</pubDate>
+      <description>Video yang beredar tidak ada kaitannya dengan sengketa Ambalat antara Indonesia dan Malaysia</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428689/1428689_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Pidato Dedi Mulyadi Promosi Situs Judi Online</title>
+      <link>https://www.tempo.co/cekfakta/keliru-pidato-dedi-mulyadi-promosi-situs-judi-online-2070620</link>
+      <guid>4</guid>
+      <pubDate>Wed, 17 Sep 2025 13:53:55 +0700</pubDate>
+      <description>Konten yang beredar direkayasa dengan mengubah suara asli Dedi Mulyadi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428662/1428662_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: KTP Elektronik Dilengkapi Chip GPS </title>
       <link>https://www.tempo.co/cekfakta/keliru-ktp-elektronik-dilengkapi-chip-gps--2070372</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Tue, 16 Sep 2025 18:44:21 +0700</pubDate>
       <description>Chip pada KTP elektronik bersifat pasif dan hanya menyimpan data kependudukan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428534/1428534_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Kementerian Agama Sediakan Paket Umrah Gratis</title>
       <link>https://www.tempo.co/cekfakta/keliru-kementerian-agama-sediakan-paket-umrah-gratis-2070366</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Tue, 16 Sep 2025 18:29:20 +0700</pubDate>
       <description>Kemenag tidak pernah mengadakan undian umrah gratis</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428523/1428523_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Video Megawati Soekarnoputri Marah Setelah Sri Mulyani Dicopot</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-megawati-soekarnoputri-marah-setelah-sri-mulyani-dicopot-2070355</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Tue, 16 Sep 2025 17:46:03 +0700</pubDate>
       <description>Video yang beredar tidak ada kaitannya dengan pencopotan Sri Mulyani</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428515/1428515_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Video Dukungan Warga Cina Untuk Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-dukungan-warga-cina-untuk-indonesia-2070037</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Mon, 15 Sep 2025 17:58:44 +0700</pubDate>
       <description>Video tersebut tidak terkait dengan dukungan warga Cina terhadap aksi unjuk rasa di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/15/id_1428301/1428301_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: Video Aksi Warga Rusia Mendukung Demonstrasi di Indonesia Akhir Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-aksi-warga-rusia-mendukung-demonstrasi-di-indonesia-akhir-agustus-2025-2070021</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Mon, 15 Sep 2025 17:26:54 +0700</pubDate>
       <description>Peristiwa dalam video bukan terjadi di Rusia dan tidak terkait dengan dukungan ke demonstrasi di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/15/id_1428293/1428293_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran dan Perpanjangan SIM Online Gratis</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-dan-perpanjangan-sim-online-gratis-2069262</link>
-      <guid>6</guid>
-      <pubDate>Fri, 12 Sep 2025 19:42:19 +0700</pubDate>
-      <description>Proses pembuatan dan perpanjangan SIM resmi di kepolisian tidak ada yang gratis.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/12/id_1427854/1427854_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Ahok Kritik Kemenkeu Setelah Sri Mulyani Dicopot</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-ahok-kritik-kemenkeu-setelah-sri-mulyani-dicopot-2069252</link>
-      <guid>7</guid>
-      <pubDate>Fri, 12 Sep 2025 19:17:19 +0700</pubDate>
-      <description>Komentar Ahok tidak ada kaitannya dengan pencopotan Sri Mulyani.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/12/id_1427842/1427842_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran BSU yang Terintegrasi Kartu BPJS</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-bsu-yang-terintegrasi-kartu-bpjs-2069245</link>
-      <guid>8</guid>
-      <pubDate>Fri, 12 Sep 2025 19:01:58 +0700</pubDate>
-      <description>Tautan yang beredar palsu dan bisa mengarah pada kejahatan phishing.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/12/id_1427837/1427837_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Pernyataan Megawati Mengenai Proklamasi </title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-pernyataan-megawati-mengenai-proklamasi--2068792</link>
-      <guid>9</guid>
-      <pubDate>Thu, 11 Sep 2025 13:59:30 +0700</pubDate>
-      <description>Megawati memang membahas soal proklamasi dan perbudakan tapi tidak seperti narasi yang ditempelkan pada unggahan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/11/id_1427511/1427511_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
