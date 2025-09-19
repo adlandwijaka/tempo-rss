@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 18 Sep 2025 05:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 05:13:47 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Rumah Kapolda Bali Digeruduk Massa</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-rumah-kapolda-bali-digeruduk-massa-2071097</link>
+      <guid>1</guid>
+      <pubDate>Thu, 18 Sep 2025 18:09:10 +0700</pubDate>
+      <description>Rekaman tersebut adalah demonstrasi di depan Gedung Direktorat Reserse Kriminal Khusus</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/18/id_1428952/1428952_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tempo Berencana Gagalkan Prabowo Tampil di Sidang Umum PBB</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tempo-berencana-gagalkan-prabowo-tampil-di-sidang-umum-pbb-2071079</link>
+      <guid>2</guid>
+      <pubDate>Thu, 18 Sep 2025 17:22:13 +0700</pubDate>
+      <description>Tempo tidak pernah mengeluarkan sikap atas rencana presiden menghadiri sidang umum PBB.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/18/id_1428938/1428938_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Mandi Setiap Hari Menyebabkan Kulit Kering dan Iritasi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-mandi-setiap-hari-menyebabkan-kulit-kering-dan-iritasi-2071018</link>
+      <guid>3</guid>
+      <pubDate>Thu, 18 Sep 2025 14:53:22 +0700</pubDate>
+      <description>Klaim yang beredar tidak disertai sumber yang valid.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/18/id_1428916/1428916_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Pasukan Brimob Mengundurkan Diri</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-pasukan-brimob-mengundurkan-diri-2071013</link>
+      <guid>4</guid>
+      <pubDate>Thu, 18 Sep 2025 14:43:27 +0700</pubDate>
+      <description>Video yang beredar merupakan hasil rekayasa akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/18/id_1428910/1428910_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Qatar Borong 2 Ribu Rudal Banaspati dari Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-qatar-borong-2-ribu-rudal-banaspati-dari-indonesia-2070772</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Wed, 17 Sep 2025 19:08:11 +0700</pubDate>
       <description>Sebagian klip dari video tersebut dibuat menggunakan AI.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428763/1428763_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Benjamin Netanyahu Kritis Akibat Serangan Bom Houthi</title>
       <link>https://www.tempo.co/cekfakta/keliru-benjamin-netanyahu-kritis-akibat-serangan-bom-houthi-2070684</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Wed, 17 Sep 2025 15:47:32 +0700</pubDate>
       <description>Video yang beredar merupakan gabungan berbagai klip yang tidak ada kaitannya dengan Bom Houthi</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428704/1428704_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Putin Bela Indonesia soal Ambalat di Mahkamah Internasional</title>
       <link>https://www.tempo.co/cekfakta/keliru-putin-bela-indonesia-soal-ambalat-di-mahkamah-internasional-2070672</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Wed, 17 Sep 2025 15:21:42 +0700</pubDate>
       <description>Video yang beredar tidak ada kaitannya dengan sengketa Ambalat antara Indonesia dan Malaysia</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428689/1428689_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Pidato Dedi Mulyadi Promosi Situs Judi Online</title>
       <link>https://www.tempo.co/cekfakta/keliru-pidato-dedi-mulyadi-promosi-situs-judi-online-2070620</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Wed, 17 Sep 2025 13:53:55 +0700</pubDate>
       <description>Konten yang beredar direkayasa dengan mengubah suara asli Dedi Mulyadi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/17/id_1428662/1428662_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: KTP Elektronik Dilengkapi Chip GPS </title>
       <link>https://www.tempo.co/cekfakta/keliru-ktp-elektronik-dilengkapi-chip-gps--2070372</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Tue, 16 Sep 2025 18:44:21 +0700</pubDate>
       <description>Chip pada KTP elektronik bersifat pasif dan hanya menyimpan data kependudukan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428534/1428534_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Kementerian Agama Sediakan Paket Umrah Gratis</title>
-      <link>https://www.tempo.co/cekfakta/keliru-kementerian-agama-sediakan-paket-umrah-gratis-2070366</link>
-      <guid>6</guid>
-      <pubDate>Tue, 16 Sep 2025 18:29:20 +0700</pubDate>
-      <description>Kemenag tidak pernah mengadakan undian umrah gratis</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428523/1428523_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Megawati Soekarnoputri Marah Setelah Sri Mulyani Dicopot</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-megawati-soekarnoputri-marah-setelah-sri-mulyani-dicopot-2070355</link>
-      <guid>7</guid>
-      <pubDate>Tue, 16 Sep 2025 17:46:03 +0700</pubDate>
-      <description>Video yang beredar tidak ada kaitannya dengan pencopotan Sri Mulyani</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/16/id_1428515/1428515_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Dukungan Warga Cina Untuk Indonesia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-dukungan-warga-cina-untuk-indonesia-2070037</link>
-      <guid>8</guid>
-      <pubDate>Mon, 15 Sep 2025 17:58:44 +0700</pubDate>
-      <description>Video tersebut tidak terkait dengan dukungan warga Cina terhadap aksi unjuk rasa di Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/15/id_1428301/1428301_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Aksi Warga Rusia Mendukung Demonstrasi di Indonesia Akhir Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-aksi-warga-rusia-mendukung-demonstrasi-di-indonesia-akhir-agustus-2025-2070021</link>
-      <guid>9</guid>
-      <pubDate>Mon, 15 Sep 2025 17:26:54 +0700</pubDate>
-      <description>Peristiwa dalam video bukan terjadi di Rusia dan tidak terkait dengan dukungan ke demonstrasi di Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/15/id_1428293/1428293_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
