@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 26 Sep 2025 05:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 05:13:35 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: SPBU Dibakar Massa akibat Aturan Baru Pertamina</title>
+      <link>https://www.tempo.co/cekfakta/keliru-spbu-dibakar-massa-akibat-aturan-baru-pertamina-2073677</link>
+      <guid>1</guid>
+      <pubDate>Fri, 26 Sep 2025 19:04:39 +0700</pubDate>
+      <description>Kebakaran SPBU itu tidak terkait protes warga atas kebijakan baru Pertamina.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430876/1430876_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Prabowo Berencana Hapus Jabatan Kepala Desa</title>
+      <link>https://www.tempo.co/cekfakta/keliru-prabowo-berencana-hapus-jabatan-kepala-desa-2073672</link>
+      <guid>2</guid>
+      <pubDate>Fri, 26 Sep 2025 18:48:38 +0700</pubDate>
+      <description>Prabowo tidak pernah mengeluarkan pernyataan soal rencana menghapus jabatan kepala desa.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430869/1430869_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Bantuan Bibit Gratis dari Kementerian Kehutanan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-bantuan-bibit-gratis-dari-kementerian-kehutanan-2073547</link>
+      <guid>3</guid>
+      <pubDate>Fri, 26 Sep 2025 12:50:09 +0700</pubDate>
+      <description>Tautan yang dicantumkan palsu, bukan resmi dari Kementerian Kehutanan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430735/1430735_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: BGN Akui Ompreng MBG Mengandung Minyak Babi</title>
       <link>https://www.tempo.co/cekfakta/keliru-bgn-akui-ompreng-mbg-mengandung-minyak-babi-2073179</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Thu, 25 Sep 2025 13:04:31 +0700</pubDate>
       <description>BGN tidak pernah menyebut penggunaan lemak babi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430459/1430459_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Ajakan Demo Hari Tani 24 September 2025 Hanya Hoaks</title>
       <link>https://www.tempo.co/cekfakta/keliru-ajakan-demo-hari-tani-24-september-2025-hanya-hoaks-2073170</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Thu, 25 Sep 2025 12:36:07 +0700</pubDate>
       <description>Ajakan itu nyata, begitu pula pelaksanaan aksinya.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430451/1430451_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: Ada Aturan Baru Pembelian BBM di SPBU</title>
       <link>https://www.tempo.co/cekfakta/keliru-ada-aturan-baru-pembelian-bbm-di-spbu-2073160</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Thu, 25 Sep 2025 12:15:54 +0700</pubDate>
       <description>Pertamina menegaskan, tidak ada aturan-aturan seperti klaim dalam video.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430446/1430446_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: George Soros Biayai Media untuk Provokasi Demo Agustus 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-george-soros-biayai-media-untuk-provokasi-demo-agustus-2025-2072817</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Wed, 24 Sep 2025 11:28:39 +0700</pubDate>
       <description>Tidak ada bukti 27 media lokal dibiayai George Soros untuk melemahkan Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/24/id_1430181/1430181_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Video Eskalator Pusat Perbelanjaan Runtuh</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-eskalator-pusat-perbelanjaan-runtuh-2072629</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Tue, 23 Sep 2025 19:42:29 +0700</pubDate>
       <description>Video dibuat menggunakan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/23/id_1430055/1430055_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: Israel Minta Bantuan NATO untuk Menghadapi Indonesia dan Rusia</title>
       <link>https://www.tempo.co/cekfakta/keliru-israel-minta-bantuan-nato-untuk-menghadapi-indonesia-dan-rusia-2072450</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Tue, 23 Sep 2025 11:30:57 +0700</pubDate>
       <description>Sebagian besar konten merupakan rekaman lama dan narasi dibuat oleh AI.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/23/id_1429875/1429875_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Kim Jong Un Prihatin dengan Korupsi di Indonesia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-kim-jong-un-prihatin-dengan-korupsi-di-indonesia-2072433</link>
-      <guid>7</guid>
-      <pubDate>Tue, 23 Sep 2025 10:59:46 +0700</pubDate>
-      <description>Isi pidato asli Kim Jong Un bukan membahas Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/23/id_1429868/1429868_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Ribuan Biksu Gelar Pengajian Akbar di Candi Borobudur</title>
-      <link>https://www.tempo.co/cekfakta/keliru-ribuan-biksu-gelar-pengajian-akbar-di-candi-borobudur-2072397</link>
-      <guid>8</guid>
-      <pubDate>Tue, 23 Sep 2025 09:12:02 +0700</pubDate>
-      <description>Video yang beredar hasil rekayasa akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/23/id_1429846/1429846_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Daun Sirsak dan Kunyit Membantu Penyembuhan Stroke</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-daun-sirsak-dan-kunyit-membantu-penyembuhan-stroke-2072181</link>
-      <guid>9</guid>
-      <pubDate>Mon, 22 Sep 2025 15:10:43 +0700</pubDate>
-      <description>Menurut penelitian, kunyit terbukti memberikan respons signifikan terhadap kerusakan akibat stroke.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/22/id_1429670/1429670_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
