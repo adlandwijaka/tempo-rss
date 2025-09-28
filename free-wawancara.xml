@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 27 Sep 2025 05:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 05:13:32 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Kepala BGN: Kami Lalai, karena Itu Mohon Maaf</title>
+      <link>https://www.tempo.co/wawancara/dadan-hindayana-keracunan-massal-mbg-2073996</link>
+      <guid>1</guid>
+      <pubDate>Sat, 27 Sep 2025 22:30:00 +0700</pubDate>
+      <description>Kepala BGN Dadan Hindayana menjawab isu persaingan internal di balik keracunan massal makan bergizi gratis. Blok tentara vs IPB.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/26/896447/896447_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Laksmi Pamuntjak, Kitab Kawin, dan Kemajemukan Perempuan</title>
       <link>https://www.tempo.co/wawancara/kitab-kawin-laksmi-pamuntjak-2071885</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sun, 21 Sep 2025 15:00:00 +0700</pubDate>
       <description>Kumpulan cerpen Kitab Kawin karya Laksmi Pamuntjak yang diterjemahkan ke bahasa Inggris meraih penghargaan di Amerika Serikat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/20/896053/896053_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Ragam Kisah Perempuan dalam The Book of Mating</title>
       <link>https://www.tempo.co/wawancara/laksmi-pamuntjak-the-book-of-mating-2071884</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 21 Sep 2025 15:00:00 +0700</pubDate>
       <description>Lewat Kitab Kawin—diterjemahkan menjadi The Book of Mating—Laksmi Pamuntjak mengangkat keragaman kisah perempuan Indonesia.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/20/896071/896071_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Yusril Ihza Mahendra: Tak Mungkin Kami Menerapkan Darurat Militer</title>
       <link>https://www.tempo.co/wawancara/yusril-ihza-mahendra-darurat-militer-2071586</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sat, 20 Sep 2025 14:00:00 +0700</pubDate>
       <description>Yusril Ihza Mahendra menjelaskan urgensi pembentukan TGPF demonstrasi pembubaran DPR. Juga isu penerapan darurat militer.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/18/895885/895885_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Andhyta F. Utami Menjawab Kritik 17+8 Tuntutan Rakyat</title>
       <link>https://www.tempo.co/wawancara/andhyta-f-utami-gerakan-tuntutan-17-8-2069543</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
       <description>Pendiri Think Policy Indonesia, Andhyta Firselly Utami, menyatakan gerakan 17+8 Tuntutan Rakyat sebagai gerakan jangka panjang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895538/895538_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Tuntutan 17+8 Adalah Gerakan Jangka Panjang</title>
       <link>https://www.tempo.co/wawancara/andhyta-f-utami-tuntutan-17-8-2069544</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
       <description>Anggota Kolektif 17+8 Indonesia Berbenah, Andhyta F. Utami, menjelaskan latar belakang penyusunan tuntutan 17+8.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895551/895551_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>KPK: Kasus Hasto Kristiyanto Bisa Diproses Lagi</title>
       <link>https://www.tempo.co/wawancara/kpk-amnesti-hasto-kristiyanto-2069398</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sat, 13 Sep 2025 14:00:00 +0700</pubDate>
       <description>Wakil Ketua KPK Johanis Tanak amnesti kepada Hasto Kristiyanto. Penyidik bisa menyidiknya lagi jika Harun Masiku tertangkap.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/10/895275/895275_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Haris Azhar: Mengaitkan Delpedro dengan Riza Chalid Itu Cocokologi</title>
       <link>https://www.tempo.co/wawancara/penangkapan-delpedro-rusuh-demonstrasi-agustus-2067339</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 07 Sep 2025 09:00:00 +0700</pubDate>
       <description>Aktivis hak asasi manusia Haris Azhar menjelaskan nuansa politik dan kambing hitam di balik penangkapan sejumlah aktivis.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/07/895036/895036_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Kambing Hitam Unjuk Rasa Rusuh</title>
       <link>https://www.tempo.co/wawancara/kambing-hitam-unjuk-rasa-rusuh-2067340</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 07 Sep 2025 09:00:00 +0700</pubDate>
       <description>Menuduh Delpedro melakukan kegiatan provokasi atau menghasut anak-anak adalah tudingan yang serampangan dan tanpa bukti kuat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/07/895043/895043_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Tom Lembong: Hanya Saya yang Dikasuskan Terkait Impor Gula</title>
-      <link>https://www.tempo.co/wawancara/tom-lembong-jokowi-impor-gula-2066138</link>
-      <guid>9</guid>
-      <pubDate>Wed, 03 Sep 2025 14:00:00 +0700</pubDate>
-      <description>Tom Lembong berbicara mengenai kasus impor gula, abolisi dari Prabowo, keseharian di penjara, dan hubungan dengan Joko Widodo.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/08/28/894356/894356_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
