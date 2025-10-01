@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 30 Sep 2025 05:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 05:14:20 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Riset Dugem Bikin Hidup Lebih Lama</title>
+      <link>https://www.tempo.co/cekfakta/keliru-riset-dugem-bikin-hidup-lebih-lama-2074875</link>
+      <guid>1</guid>
+      <pubDate>Tue, 30 Sep 2025 20:10:14 +0700</pubDate>
+      <description>Meskipun ada interaksi sosial, makna interaksi saat clubbing bersifat sementara.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/30/id_1431739/1431739_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Sebagian Benar: Dua Pilot AS Diborgol karena Menolak Terbangkan Pesawat ke Israel</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-dua-pilot-as-diborgol-karena-menolak-terbangkan-pesawat-ke-israel-2074835</link>
+      <guid>2</guid>
+      <pubDate>Tue, 30 Sep 2025 17:54:58 +0700</pubDate>
+      <description>Dua sosok yang diborgol bukan pilot, melainkan veteran militer AS yang protes dalam sidang Senat.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/30/id_1431703/1431703_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Megawati Diperiksa KPK pada September 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-megawati-diperiksa-kpk-pada-september-2025-2074720</link>
+      <guid>3</guid>
+      <pubDate>Tue, 30 Sep 2025 12:58:02 +0700</pubDate>
+      <description>Video yang beredar hasil gabungan berbagai gambar yang tidak saling terkait dan ditambah rekayasa AI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/09/30/id_1431633/1431633_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Nelayan Protes Larangan Membeli BBM dengan Jerigen pada September 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-nelayan-protes-larangan-membeli-bbm-dengan-jerigen-pada-september-2025-2074442</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Mon, 29 Sep 2025 15:51:55 +0700</pubDate>
       <description>Video yang beredar adalah rekaman tahun 2023 dan tidak terkait larangan membeli BBM menggunakan jerigen.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/29/id_1431395/1431395_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Demonstrasi Menolak Aturan Pembatasan BBM di SPBU</title>
       <link>https://www.tempo.co/cekfakta/keliru-demonstrasi-menolak-aturan-pembatasan-bbm-di-spbu-2074420</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Mon, 29 Sep 2025 14:54:40 +0700</pubDate>
       <description>Peristiwa dalam video merupakan perkelahian peserta karnaval di Lumajang, Jawa Timur.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/29/id_1431380/1431380_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: SPBU Dibakar Massa akibat Aturan Baru Pertamina</title>
       <link>https://www.tempo.co/cekfakta/keliru-spbu-dibakar-massa-akibat-aturan-baru-pertamina-2073677</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Fri, 26 Sep 2025 19:04:39 +0700</pubDate>
       <description>Kebakaran SPBU itu tidak terkait protes warga atas kebijakan baru Pertamina.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430876/1430876_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Prabowo Berencana Hapus Jabatan Kepala Desa</title>
       <link>https://www.tempo.co/cekfakta/keliru-prabowo-berencana-hapus-jabatan-kepala-desa-2073672</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Fri, 26 Sep 2025 18:48:38 +0700</pubDate>
       <description>Prabowo tidak pernah mengeluarkan pernyataan soal rencana menghapus jabatan kepala desa.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430869/1430869_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Tautan Bantuan Bibit Gratis dari Kementerian Kehutanan</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-bantuan-bibit-gratis-dari-kementerian-kehutanan-2073547</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Fri, 26 Sep 2025 12:50:09 +0700</pubDate>
       <description>Tautan yang dicantumkan palsu, bukan resmi dari Kementerian Kehutanan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/26/id_1430735/1430735_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: BGN Akui Ompreng MBG Mengandung Minyak Babi</title>
       <link>https://www.tempo.co/cekfakta/keliru-bgn-akui-ompreng-mbg-mengandung-minyak-babi-2073179</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Thu, 25 Sep 2025 13:04:31 +0700</pubDate>
       <description>BGN tidak pernah menyebut penggunaan lemak babi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430459/1430459_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Ajakan Demo Hari Tani 24 September 2025 Hanya Hoaks</title>
-      <link>https://www.tempo.co/cekfakta/keliru-ajakan-demo-hari-tani-24-september-2025-hanya-hoaks-2073170</link>
-      <guid>7</guid>
-      <pubDate>Thu, 25 Sep 2025 12:36:07 +0700</pubDate>
-      <description>Ajakan itu nyata, begitu pula pelaksanaan aksinya.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430451/1430451_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Ada Aturan Baru Pembelian BBM di SPBU</title>
-      <link>https://www.tempo.co/cekfakta/keliru-ada-aturan-baru-pembelian-bbm-di-spbu-2073160</link>
-      <guid>8</guid>
-      <pubDate>Thu, 25 Sep 2025 12:15:54 +0700</pubDate>
-      <description>Pertamina menegaskan, tidak ada aturan-aturan seperti klaim dalam video.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/25/id_1430446/1430446_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: George Soros Biayai Media untuk Provokasi Demo Agustus 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-george-soros-biayai-media-untuk-provokasi-demo-agustus-2025-2072817</link>
-      <guid>9</guid>
-      <pubDate>Wed, 24 Sep 2025 11:28:39 +0700</pubDate>
-      <description>Tidak ada bukti 27 media lokal dibiayai George Soros untuk melemahkan Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/09/24/id_1430181/1430181_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
