@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 04 Oct 2025 05:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 05:13:00 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Ahli Gizi Tan Shot Yen: MBG Mencerminkan Dekadensi Moral Gizi Kita</title>
+      <link>https://www.tempo.co/wawancara/ahli-gizi-tan-shot-yen-perbaikan-mbg-2076449</link>
+      <guid>1</guid>
+      <pubDate>Sun, 05 Oct 2025 12:00:00 +0700</pubDate>
+      <description>Ahli gizi Tan Shot Yen menyampaikan catatan kritis tentang program makan bergizi gratis. Melenceng dari tujuan.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/04/897074/897074_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>MBG Melenceng dari Tujuan Edukasi Gizi</title>
+      <link>https://www.tempo.co/wawancara/keracunan-mbg-dan-tan-shot-yen-2076450</link>
+      <guid>2</guid>
+      <pubDate>Sun, 05 Oct 2025 12:00:00 +0700</pubDate>
+      <description>Dokter sekaligus ahli gizi Tan Shot Yen mencatat program makan bergizi gratis (MBG) melenceng jauh dari tujuan edukasi gizi.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/04/897085/897085_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Francesca Albanese: Para Pemimpin Enggan Mengakui Genosida di Palestina</title>
+      <link>https://www.tempo.co/wawancara/francesca-albanese-genosida-palestina-2076371</link>
+      <guid>3</guid>
+      <pubDate>Sun, 05 Oct 2025 08:30:00 +0700</pubDate>
+      <description>Pelapor Khusus PBB untuk Palestina, Francesca Albanese, menjelaskan genosida yang dilakukan Israel di Palestina.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/09/30/896756/896756_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Ketua Komnas Perempuan: Perempuan Tak Sekadar Ikut-ikutan Demo</title>
       <link>https://www.tempo.co/wawancara/stigma-perempuan-dalam-demonstrasi-2074134</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 28 Sep 2025 15:00:00 +0700</pubDate>
       <description>Ketua Komnas Perempuan Maria Ulfah Anshor menjelaskan perihal penangkapan perempuan pasca-demonstrasi Agustus 2025.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/27/896586/896586_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Perempuan Masih Mendapat Stigma</title>
       <link>https://www.tempo.co/wawancara/komnas-perempuan-bicara-demo-agustus-2074135</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Sun, 28 Sep 2025 15:00:00 +0700</pubDate>
       <description>Ketua Komnas Perempuan Maria Ulfa Anshor menyatakan perempuan berperan penting dalam dunia aktivisme.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/27/896574/896574_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Kepala BGN: Kami Lalai, karena Itu Mohon Maaf</title>
       <link>https://www.tempo.co/wawancara/dadan-hindayana-keracunan-massal-mbg-2073996</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Sat, 27 Sep 2025 22:30:00 +0700</pubDate>
       <description>Kepala BGN Dadan Hindayana menjawab isu persaingan internal di balik keracunan massal makan bergizi gratis. Blok tentara vs IPB.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/26/896447/896447_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Laksmi Pamuntjak, Kitab Kawin, dan Kemajemukan Perempuan</title>
       <link>https://www.tempo.co/wawancara/kitab-kawin-laksmi-pamuntjak-2071885</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 21 Sep 2025 15:00:00 +0700</pubDate>
       <description>Kumpulan cerpen Kitab Kawin karya Laksmi Pamuntjak yang diterjemahkan ke bahasa Inggris meraih penghargaan di Amerika Serikat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/20/896053/896053_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Ragam Kisah Perempuan dalam The Book of Mating</title>
       <link>https://www.tempo.co/wawancara/laksmi-pamuntjak-the-book-of-mating-2071884</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 21 Sep 2025 15:00:00 +0700</pubDate>
       <description>Lewat Kitab Kawin—diterjemahkan menjadi The Book of Mating—Laksmi Pamuntjak mengangkat keragaman kisah perempuan Indonesia.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/20/896071/896071_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Yusril Ihza Mahendra: Tak Mungkin Kami Menerapkan Darurat Militer</title>
       <link>https://www.tempo.co/wawancara/yusril-ihza-mahendra-darurat-militer-2071586</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Sat, 20 Sep 2025 14:00:00 +0700</pubDate>
       <description>Yusril Ihza Mahendra menjelaskan urgensi pembentukan TGPF demonstrasi pembubaran DPR. Juga isu penerapan darurat militer.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/18/895885/895885_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Andhyta F. Utami Menjawab Kritik 17+8 Tuntutan Rakyat</title>
-      <link>https://www.tempo.co/wawancara/andhyta-f-utami-gerakan-tuntutan-17-8-2069543</link>
-      <guid>7</guid>
-      <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
-      <description>Pendiri Think Policy Indonesia, Andhyta Firselly Utami, menyatakan gerakan 17+8 Tuntutan Rakyat sebagai gerakan jangka panjang.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895538/895538_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Tuntutan 17+8 Adalah Gerakan Jangka Panjang</title>
-      <link>https://www.tempo.co/wawancara/andhyta-f-utami-tuntutan-17-8-2069544</link>
-      <guid>8</guid>
-      <pubDate>Sun, 14 Sep 2025 06:00:00 +0700</pubDate>
-      <description>Anggota Kolektif 17+8 Indonesia Berbenah, Andhyta F. Utami, menjelaskan latar belakang penyusunan tuntutan 17+8.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/13/895551/895551_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>KPK: Kasus Hasto Kristiyanto Bisa Diproses Lagi</title>
-      <link>https://www.tempo.co/wawancara/kpk-amnesti-hasto-kristiyanto-2069398</link>
-      <guid>9</guid>
-      <pubDate>Sat, 13 Sep 2025 14:00:00 +0700</pubDate>
-      <description>Wakil Ketua KPK Johanis Tanak amnesti kepada Hasto Kristiyanto. Penyidik bisa menyidiknya lagi jika Harun Masiku tertangkap.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/10/895275/895275_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
