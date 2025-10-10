@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 09 Oct 2025 05:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:14:53 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Aksi Polisi Prancis Lempar Borgol untuk Dukung Demonstran</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-aksi-polisi-prancis-lempar-borgol-untuk-dukung-demonstran-2078009</link>
+      <guid>1</guid>
+      <pubDate>Thu, 09 Oct 2025 19:43:51 +0700</pubDate>
+      <description>Aksi itu merupakan respon dari keputusan mengenai aturan tindakan polisi Prancis terhadap demonstran.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/10/09/id_1433874/1433874_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Prabowo Menyatakan Gaji DPR dan BUMN Seharusnya Setara PNS</title>
+      <link>https://www.tempo.co/cekfakta/keliru-prabowo-menyatakan-gaji-dpr-dan-bumn-seharusnya-setara-pns-2078002</link>
+      <guid>2</guid>
+      <pubDate>Thu, 09 Oct 2025 19:21:29 +0700</pubDate>
+      <description>Prabowo Subianto tidak pernah mengeluarkan penyataan soal itu.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/10/09/id_1433870/1433870_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Kebakaran di Jalan Tol Cirebon karena Meteor Jatuh</title>
       <link>https://www.tempo.co/cekfakta/keliru-kebakaran-di-jalan-tol-cirebon-karena-meteor-jatuh-2077624</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 08 Oct 2025 19:36:01 +0700</pubDate>
       <description>Kebakaran yang terjadi bukan disebabkan oleh meteor jatuh.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/08/id_1433579/1433579_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Menyesatkan: Baliho Prabowo di Israel untuk Mendukung Abraham Shield</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-baliho-prabowo-di-israel-untuk-mendukung-abraham-shield-2077618</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 08 Oct 2025 19:21:55 +0700</pubDate>
       <description>Foto baliho benar terpasang, namun foto Prabowo dengan para pemimpin Timur Tengah lainnya dicatut dan dibuat menggunakan teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/08/id_1433561/1433561_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Menteri Keuangan Purbaya Umumkan Layanan Pinjaman Online</title>
       <link>https://www.tempo.co/cekfakta/keliru-menteri-keuangan-purbaya-umumkan-layanan-pinjaman-online-2077553</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 08 Oct 2025 16:34:56 +0700</pubDate>
       <description>Koperasi Desa Merah Putih tidak menyediakan layanan pinjaman online</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/08/id_1433505/1433505_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Kartu Prakerja 2025 dan Insentif Rp 4,2 Juta</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-kartu-prakerja-2025-dan-insentif-rp-4-2-juta-2077207</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 07 Oct 2025 17:20:49 +0700</pubDate>
       <description>Tautan yang dicantumkan bukan situs resmi untuk mengakses program Kartu Prakerja 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/07/id_1433288/1433288_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Harga LPG di Indonesia Lebih Mahal dibandingkan Malaysia dan Amerika Serikat</title>
       <link>https://www.tempo.co/cekfakta/keliru-harga-lpg-di-indonesia-lebih-mahal-dibandingkan-malaysia-dan-amerika-serikat-2077201</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Tue, 07 Oct 2025 17:10:47 +0700</pubDate>
       <description>Data yang dicantumkan dalam infografik tidak akurat.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/07/id_1433283/1433283_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Presiden India Draupadi Murmu Masuk Islam</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-india-draupadi-murmu-masuk-islam-2076767</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 06 Oct 2025 14:13:34 +0700</pubDate>
       <description>Tidak ditemukan berita dan informasi apapun yang mendukung klaim tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/06/id_1433040/1433040_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Video Jet Tempur Siluman Canggih Buatan Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-jet-tempur-siluman-canggih-buatan-indonesia-2076752</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Mon, 06 Oct 2025 13:35:35 +0700</pubDate>
       <description>Tidak ada satu pun pesawat tempur dalam video itu yang diproduksi di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/06/id_1433033/1433033_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Oregano dapat Menyembuhkan Penyakit Mata</title>
-      <link>https://www.tempo.co/cekfakta/keliru-oregano-dapat-menyembuhkan-penyakit-mata-2075836</link>
-      <guid>8</guid>
-      <pubDate>Fri, 03 Oct 2025 11:11:50 +0700</pubDate>
-      <description>Pengobatan mata dengan ramuan tetes mata yang tidak steril, bisa berisiko pada kebutaan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/03/id_1432389/1432389_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Jurnalis CNN Dapat Hadiah Supercar dari Prabowo setelah Tanya Soal MBG</title>
-      <link>https://www.tempo.co/cekfakta/keliru-jurnalis-cnn-dapat-hadiah-supercar-dari-prabowo-setelah-tanya-soal-mbg-2075828</link>
-      <guid>9</guid>
-      <pubDate>Fri, 03 Oct 2025 10:56:11 +0700</pubDate>
-      <description>Tangkapan layar menyerupai unggahan Bangka Pos itu diedit dari unggahan asli oleh pihak yang tidak bertanggung jawab.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/03/id_1432376/1432376_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
