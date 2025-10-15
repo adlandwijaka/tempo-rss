@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 14 Oct 2025 05:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 05:14:34 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Ustaz Adi Hidayat Mempromosikan Obat Nyeri Sendi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-ustaz-adi-hidayat-mempromosikan-obat-nyeri-sendi-2079419</link>
+      <guid>1</guid>
+      <pubDate>Tue, 14 Oct 2025 13:53:31 +0700</pubDate>
+      <description>Video Adi Hidayat tersebut hasil manipulasi akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/10/14/id_1434760/1434760_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Jus Detoks Membersihkan Bakteri dalam Tubuh</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-jus-detoks-membersihkan-bakteri-dalam-tubuh-2079386</link>
+      <guid>2</guid>
+      <pubDate>Tue, 14 Oct 2025 12:48:51 +0700</pubDate>
+      <description>Meski lemon dan seledri mengandung ekstrak antibakteri, jus campuran bahan itu belum terbukti membersihkan bakteri dalam tubuh.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/10/14/id_1434746/1434746_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Pernyataan Presiden Uganda soal Hukuman bagi Pasangan Sejenis</title>
       <link>https://www.tempo.co/cekfakta/keliru-pernyataan-presiden-uganda-soal-hukuman-bagi-pasangan-sejenis-2079141</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Mon, 13 Oct 2025 17:40:36 +0700</pubDate>
       <description>Pernyataan tersebut bukan berasal dari Presiden Museveni.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/13/id_1434613/1434613_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Polisi Melarang Warga Isi BBM Jika STNK Mati</title>
       <link>https://www.tempo.co/cekfakta/keliru-polisi-melarang-warga-isi-bbm-jika-stnk-mati-2079130</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Mon, 13 Oct 2025 17:22:12 +0700</pubDate>
       <description>Polisi bukan merazia STNK, tapi menertibkan antrean pembeli BBM.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/13/id_1434607/1434607_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Presiden Israel Dilempar Telur Busuk saat Keluar dari Forum PBB</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-israel-dilempar-telur-busuk-saat-keluar-dari-forum-pbb-2078388</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Fri, 10 Oct 2025 20:34:44 +0700</pubDate>
       <description>Pria dalam video tersebut bukan Presiden Israel Isaac Herzog.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/10/id_1434151/1434151_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Raja Salman Kucurkan 500 Juta Dolar AS untuk Palestina</title>
       <link>https://www.tempo.co/cekfakta/keliru-raja-salman-kucurkan-500-juta-dolar-as-untuk-palestina-2078330</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Fri, 10 Oct 2025 17:12:56 +0700</pubDate>
       <description>Video dibuat menggunakan klip lama yang digabungkan dengan buatan AI.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/10/id_1434089/1434089_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Menyesatkan: Aksi Polisi Prancis Lempar Borgol untuk Dukung Demonstran</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-aksi-polisi-prancis-lempar-borgol-untuk-dukung-demonstran-2078009</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Thu, 09 Oct 2025 19:43:51 +0700</pubDate>
       <description>Aksi itu merupakan respon dari keputusan mengenai aturan tindakan polisi Prancis terhadap demonstran.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/09/id_1433874/1433874_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Prabowo Menyatakan Gaji DPR dan BUMN Seharusnya Setara PNS</title>
       <link>https://www.tempo.co/cekfakta/keliru-prabowo-menyatakan-gaji-dpr-dan-bumn-seharusnya-setara-pns-2078002</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Thu, 09 Oct 2025 19:21:29 +0700</pubDate>
       <description>Prabowo Subianto tidak pernah mengeluarkan penyataan soal itu.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/09/id_1433870/1433870_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Video Gelombang Tsunami yang Menghantam Pemukiman Desa</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-gelombang-tsunami-yang-menghantam-pemukiman-desa-2077996</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Thu, 09 Oct 2025 19:07:54 +0700</pubDate>
       <description>Video dibuat dengan akal imitasi (AI).</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/09/id_1433860/1433860_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Kebakaran di Jalan Tol Cirebon karena Meteor Jatuh</title>
-      <link>https://www.tempo.co/cekfakta/keliru-kebakaran-di-jalan-tol-cirebon-karena-meteor-jatuh-2077624</link>
-      <guid>8</guid>
-      <pubDate>Wed, 08 Oct 2025 19:36:01 +0700</pubDate>
-      <description>Kebakaran yang terjadi bukan disebabkan oleh meteor jatuh.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/08/id_1433579/1433579_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Baliho Prabowo di Israel untuk Mendukung Abraham Shield</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-baliho-prabowo-di-israel-untuk-mendukung-abraham-shield-2077618</link>
-      <guid>9</guid>
-      <pubDate>Wed, 08 Oct 2025 19:21:55 +0700</pubDate>
-      <description>Foto baliho benar terpasang, namun foto Prabowo dengan para pemimpin Timur Tengah lainnya dicatut dan dibuat menggunakan teknologi akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/08/id_1433561/1433561_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
