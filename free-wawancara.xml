@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 18 Oct 2025 05:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 05:13:57 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Pater Edu: Pendidikan Itu Memerdekakan</title>
+      <link>https://www.tempo.co/wawancara/demonstrasi-pelajar-kebebasan-berekspresi-2081047</link>
+      <guid>1</guid>
+      <pubDate>Sun, 19 Oct 2025 09:00:00 +0700</pubDate>
+      <description>Kepala SMA Kolese Gonzaga Eduard Calistus Ratu Dopo menyampaikan pandangannya soal kebebasan pelajar menyampaikan sikap.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898028/898028_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Jaminan Kebebasan Berekspresi Pelajar</title>
+      <link>https://www.tempo.co/wawancara/kebebasan-berpendapat-demonstrasi-pelajar-2081048</link>
+      <guid>2</guid>
+      <pubDate>Sun, 19 Oct 2025 09:00:00 +0700</pubDate>
+      <description>Di balik sikap SMA Kolese Gonzaga yang menolak larangan pelajar menyampaikan pendapat di ruang publik.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898041/898041_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Fadli Zon: Presiden Punya Banyak Mata dan Telinga</title>
+      <link>https://www.tempo.co/wawancara/fadli-zon-setahun-pemerintahan-prabowo-2081009</link>
+      <guid>3</guid>
+      <pubDate>Sun, 19 Oct 2025 08:30:00 +0700</pubDate>
+      <description>Menteri Kebudayaan Fadli Zon menjawab berbagai kritik terhadap pemerintahan Prabowo. Juga kontroversi kebijakannya.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898003/898003_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Stigma Terhadap Disabilitas</title>
       <link>https://www.tempo.co/wawancara/segudang-masalah-disabilitas-2078784</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 12 Oct 2025 12:00:00 +0700</pubDate>
       <description>Disabilitas mendapat stigma negatif di banyak tempat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/11/897558/897558_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Komnas Disabilitas: Idealnya Kami di Bawah Kementerian HAM</title>
       <link>https://www.tempo.co/wawancara/hak-setara-orang-dengan-disabilitas-2078783</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Sun, 12 Oct 2025 12:00:00 +0700</pubDate>
       <description>Pemangkasan anggaran berdampak pada kinerja Komisi Nasional Disabilitas. Tak banyak orang tahu lembaga ini.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/11/897540/897540_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Menteri Hukum: Soal Royalti, Kita Enggak Menikmati Apa-apa</title>
       <link>https://www.tempo.co/wawancara/proposal-jakarta-royalti-musik-2078722</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Sun, 12 Oct 2025 08:30:00 +0700</pubDate>
       <description>Wawancara Menteri Hukum Supratman Andi Agtas soal Protokol Jakarta, konflik PPP, naturalisasi, dan amnesti Hasto Kristiyanto.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/10/897428/897428_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Ahli Gizi Tan Shot Yen: MBG Mencerminkan Dekadensi Moral Gizi Kita</title>
       <link>https://www.tempo.co/wawancara/ahli-gizi-tan-shot-yen-perbaikan-mbg-2076449</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 05 Oct 2025 12:00:00 +0700</pubDate>
       <description>Ahli gizi Tan Shot Yen menyampaikan catatan kritis tentang program makan bergizi gratis. Melenceng dari tujuan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/04/897074/897074_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>MBG Melenceng dari Tujuan Edukasi Gizi</title>
       <link>https://www.tempo.co/wawancara/keracunan-mbg-dan-tan-shot-yen-2076450</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 05 Oct 2025 12:00:00 +0700</pubDate>
       <description>Dokter sekaligus ahli gizi Tan Shot Yen mencatat program makan bergizi gratis (MBG) melenceng jauh dari tujuan edukasi gizi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/04/897085/897085_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Francesca Albanese: Para Pemimpin Enggan Mengakui Genosida di Palestina</title>
       <link>https://www.tempo.co/wawancara/francesca-albanese-genosida-palestina-2076371</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Sun, 05 Oct 2025 08:30:00 +0700</pubDate>
       <description>Pelapor Khusus PBB untuk Palestina, Francesca Albanese, menjelaskan genosida yang dilakukan Israel di Palestina.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/09/30/896756/896756_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Ketua Komnas Perempuan: Perempuan Tak Sekadar Ikut-ikutan Demo</title>
-      <link>https://www.tempo.co/wawancara/stigma-perempuan-dalam-demonstrasi-2074134</link>
-      <guid>7</guid>
-      <pubDate>Sun, 28 Sep 2025 15:00:00 +0700</pubDate>
-      <description>Ketua Komnas Perempuan Maria Ulfah Anshor menjelaskan perihal penangkapan perempuan pasca-demonstrasi Agustus 2025.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/27/896586/896586_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Perempuan Masih Mendapat Stigma</title>
-      <link>https://www.tempo.co/wawancara/komnas-perempuan-bicara-demo-agustus-2074135</link>
-      <guid>8</guid>
-      <pubDate>Sun, 28 Sep 2025 15:00:00 +0700</pubDate>
-      <description>Ketua Komnas Perempuan Maria Ulfa Anshor menyatakan perempuan berperan penting dalam dunia aktivisme.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/27/896574/896574_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Kepala BGN: Kami Lalai, karena Itu Mohon Maaf</title>
-      <link>https://www.tempo.co/wawancara/dadan-hindayana-keracunan-massal-mbg-2073996</link>
-      <guid>9</guid>
-      <pubDate>Sat, 27 Sep 2025 22:30:00 +0700</pubDate>
-      <description>Kepala BGN Dadan Hindayana menjawab isu persaingan internal di balik keracunan massal makan bergizi gratis. Blok tentara vs IPB.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/26/896447/896447_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
