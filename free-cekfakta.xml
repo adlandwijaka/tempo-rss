@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 31 Oct 2025 05:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 05:13:37 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: FIFA Umumkan Pertandingan Indonesia-Oman untuk Tiket Piala Dunia 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-fifa-umumkan-pertandingan-indonesia-oman-untuk-tiket-piala-dunia-2026-2085067</link>
+      <guid>1</guid>
+      <pubDate>Fri, 31 Oct 2025 13:37:46 +0700</pubDate>
+      <description>Video yang beredar sebenarnya hasil suntingan dan dibuat sebagai satire. Namun, banyak pengguna membagikannya ulang tanpa memahami konteks aslinya.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/10/31/id_1438276/1438276_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Warga Gaza Rayakan HUT RI ke-80</title>
       <link>https://www.tempo.co/cekfakta/keliru-warga-gaza-rayakan-hut-ri-ke-80-2084717</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Thu, 30 Oct 2025 12:06:57 +0700</pubDate>
       <description>Empat video yang diperiksa Tempo tidak berkaitan dengan perayaan kemerdekaan Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/30/id_1438057/1438057_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Belum Ada Bukti: Kerja Sama Nuklir Indonesia dan Rusia di Melawi</title>
       <link>https://www.tempo.co/cekfakta/belum-ada-bukti-kerja-sama-nuklir-indonesia-dan-rusia-di-melawi-2084710</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Thu, 30 Oct 2025 11:46:03 +0700</pubDate>
       <description>Belum ada pernyataan resmi dari pemerintah mengenai implementasi kerja sama pembangunan PLTN dengan Rusia di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/30/id_1438050/1438050_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Keliru: Mandi setelah Makan Menyebabkan Asam Urat pada Anak-anak</title>
       <link>https://www.tempo.co/cekfakta/keliru-mandi-setelah-makan-menyebabkan-asam-urat-pada-anak-anak-2084487</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Wed, 29 Oct 2025 17:15:26 +0700</pubDate>
       <description>Kebiasaan mandi setelah makan tidak berhubungan dengan penyebab asam urat pada anak.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/29/id_1437888/1437888_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Keliru: TNI Lumpuhkan Tujuh Pos Militer Israel di Jalur Gaza</title>
       <link>https://www.tempo.co/cekfakta/keliru-tni-lumpuhkan-tujuh-pos-militer-israel-di-jalur-gaza-2084060</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Tue, 28 Oct 2025 14:33:27 +0700</pubDate>
       <description>Video dibuat dari potongan-potongan video dengan konteks berbeda-beda.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437600/1437600_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Menyesatkan: Haji Terakhir di Musim Panas karena Mekkah Akan Hadapi Musim Dingin dan Salju</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-haji-terakhir-di-musim-panas-karena-mekkah-akan-hadapi-musim-dingin-dan-salju-2084049</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Tue, 28 Oct 2025 14:09:53 +0700</pubDate>
       <description>Mekkah mustahil akan memperoleh salju. Video saat area Ka’bah di Masjidil Haram bersalju merupakan hasil suntingan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437596/1437596_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Menyesatkan: Satu Juta WNI Daftar Pasukan Tanpa Bayaran</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-satu-juta-wni-daftar-pasukan-tanpa-bayaran-2084043</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Tue, 28 Oct 2025 13:49:19 +0700</pubDate>
       <description>Warga yang lolos menjadi Komcad TNI tetap memperoleh imbalan, berbeda dengan wajib militer di negara lain.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437590/1437590_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Keliru: Pesan WhatsApp Bantuan Dana Prabowo Rp 58 Juta</title>
       <link>https://www.tempo.co/cekfakta/keliru-pesan-whatsapp-bantuan-dana-prabowo-rp-58-juta-2083772</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Mon, 27 Oct 2025 17:57:16 +0700</pubDate>
       <description>Tidak ada nama Yosef Tanujaya dalam struktur pemerintahan. Jabatan Manajer Pelaksana Bantuan Presiden Prabowo Subianto juga tidak ada.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/27/id_1437431/1437431_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Menyesatkan: Danau Susu di Cina yang Bisa Diminum</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-danau-susu-di-cina-yang-bisa-diminum-2083628</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Mon, 27 Oct 2025 10:35:24 +0700</pubDate>
       <description>Danau Susu benar ada di Mongolia, namun susu yang keluar dari keran di dekatnya bukan berasal dari danau itu.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/27/id_1437334/1437334_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Coca-Cola Lebih Berbahaya daripada Alkohol</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-coca-cola-lebih-berbahaya-daripada-alkohol-2082873</link>
-      <guid>9</guid>
-      <pubDate>Fri, 24 Oct 2025 14:26:56 +0700</pubDate>
-      <description>Tidak ditemukan penelitian seperti yang disebutkan dalam klaim.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/24/id_1436868/1436868_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
