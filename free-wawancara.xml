@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 01 Nov 2025 05:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 05:14:11 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Dandhy Dwi Laksono: Penonton Punya Waktu 4 Tahun Menonton Dirty Vote</title>
+      <link>https://www.tempo.co/wawancara/cerita-di-balik-layar-dirty-vote-2085533</link>
+      <guid>1</guid>
+      <pubDate>Sun, 02 Nov 2025 09:00:00 +0700</pubDate>
+      <description>Dandhy Laksono tentang di balik layar film Dirty Vote II O3. Mengingatkan dampak rezim bermasalah.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/11/01/899021/899021_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Indonesia Sedang Tidak Baik-baik Saja</title>
+      <link>https://www.tempo.co/wawancara/dirty-vote-demokrasi-indonesia-gelap-2085535</link>
+      <guid>2</guid>
+      <pubDate>Sun, 02 Nov 2025 09:00:00 +0700</pubDate>
+      <description>Lewat film, Dandhy Laksono ingin menyadarkan publik soal dampak memiliki pemimpin yang terpilih secara curang dan nepotisme.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/11/01/899022/899022_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Yassierli: Kenaikan Upah Tidak Hanya untuk Menyenangkan Buruh</title>
+      <link>https://www.tempo.co/wawancara/kenaikan-ump-tahun-depan-2085512</link>
+      <guid>3</guid>
+      <pubDate>Sun, 02 Nov 2025 08:30:00 +0700</pubDate>
+      <description>Menteri Ketenagakerjaan Yassierli menjelaskan badai PHK dalam setahun pemerintahan Prsabowo. Juga rencana menaikkan UMP.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/29/898787/898787_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Makin Bobrok Negara, Jurnalisnya Makin Menderita</title>
       <link>https://www.tempo.co/wawancara/kebebasan-pers-era-prabowo-2083398</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
       <description>Presiden IFJ Asia-Pasifik Nany Afrida tentang ancaman kebebasan pers. Dari kekerasan hingga gugatan Amran Sulaiman.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/25/898534/898534_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Kebebasan Pers Makin Menyempit</title>
       <link>https://www.tempo.co/wawancara/kebebasan-pers-makin-menyempit-2083397</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Sun, 26 Oct 2025 12:00:00 +0700</pubDate>
       <description>Berbagai kasus yang mengancam kebebasan pers terus terjadi. Negara punya peran besar.</description>
       <thumbnail>https://images-tm.tempo.co/all/2023/05/05/830493/830493_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Menteri Lingkungan: Tahap Awal Penertiban Hutan Harus Memakai Tentara</title>
       <link>https://www.tempo.co/wawancara/tni-penerbitan-kawasan-hutan-tesso-nilo-2083289</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Sat, 25 Oct 2025 20:30:00 +0700</pubDate>
       <description>Menteri Lingkungan Hidup Hanif Faisol Nurofiq soal penertiban kawasan hutan yang menjadi kebun kelapa sawit. Mengandalkan TNI.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/16/897842/897842_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Pater Edu: Pendidikan Itu Memerdekakan</title>
       <link>https://www.tempo.co/wawancara/demonstrasi-pelajar-kebebasan-berekspresi-2081047</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 19 Oct 2025 09:00:00 +0700</pubDate>
       <description>Kepala SMA Kolese Gonzaga Eduard Calistus Ratu Dopo menyampaikan pandangannya soal kebebasan pelajar menyampaikan sikap.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898028/898028_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Jaminan Kebebasan Berekspresi Pelajar</title>
       <link>https://www.tempo.co/wawancara/kebebasan-berpendapat-demonstrasi-pelajar-2081048</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 19 Oct 2025 09:00:00 +0700</pubDate>
       <description>Di balik sikap SMA Kolese Gonzaga yang menolak larangan pelajar menyampaikan pendapat di ruang publik.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898041/898041_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Fadli Zon: Presiden Punya Banyak Mata dan Telinga</title>
       <link>https://www.tempo.co/wawancara/fadli-zon-setahun-pemerintahan-prabowo-2081009</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Sun, 19 Oct 2025 08:30:00 +0700</pubDate>
       <description>Menteri Kebudayaan Fadli Zon menjawab berbagai kritik terhadap pemerintahan Prabowo. Juga kontroversi kebijakannya.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/18/898003/898003_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Stigma Terhadap Disabilitas</title>
-      <link>https://www.tempo.co/wawancara/segudang-masalah-disabilitas-2078784</link>
-      <guid>7</guid>
-      <pubDate>Sun, 12 Oct 2025 12:00:00 +0700</pubDate>
-      <description>Disabilitas mendapat stigma negatif di banyak tempat.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/10/11/897558/897558_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Komnas Disabilitas: Idealnya Kami di Bawah Kementerian HAM</title>
-      <link>https://www.tempo.co/wawancara/hak-setara-orang-dengan-disabilitas-2078783</link>
-      <guid>8</guid>
-      <pubDate>Sun, 12 Oct 2025 12:00:00 +0700</pubDate>
-      <description>Pemangkasan anggaran berdampak pada kinerja Komisi Nasional Disabilitas. Tak banyak orang tahu lembaga ini.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/10/11/897540/897540_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menteri Hukum: Soal Royalti, Kita Enggak Menikmati Apa-apa</title>
-      <link>https://www.tempo.co/wawancara/proposal-jakarta-royalti-musik-2078722</link>
-      <guid>9</guid>
-      <pubDate>Sun, 12 Oct 2025 08:30:00 +0700</pubDate>
-      <description>Wawancara Menteri Hukum Supratman Andi Agtas soal Protokol Jakarta, konflik PPP, naturalisasi, dan amnesti Hasto Kristiyanto.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/10/10/897428/897428_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
