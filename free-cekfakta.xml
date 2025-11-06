@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 04 Nov 2025 05:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 05:15:23 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Air Rebusan Tanaman Ciplukan Sembuhkan Stroke</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-air-rebusan-tanaman-ciplukan-sembuhkan-stroke-2086620</link>
+      <guid>1</guid>
+      <pubDate>Wed, 05 Nov 2025 14:00:23 +0700</pubDate>
+      <description>Air rebusan ciplukan sama sekali tidak bisa menggantikan terapi medis untuk stroke.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/05/id_1439322/1439322_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: TNI Tembak Tentara Israel di Perbatasan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tni-tembak-tentara-israel-di-perbatasan-2086612</link>
+      <guid>2</guid>
+      <pubDate>Wed, 05 Nov 2025 13:19:57 +0700</pubDate>
+      <description>Video merupakan kolase dari peristiwa yang berbeda konteks dan tidak ada hubungannya dengan tentara Israel.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/05/id_1439313/1439313_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Israel Merobek Bendera Indonesia di Forum Perdamaian PBB</title>
+      <link>https://www.tempo.co/cekfakta/keliru-israel-merobek-bendera-indonesia-di-forum-perdamaian-pbb-2086337</link>
+      <guid>3</guid>
+      <pubDate>Tue, 04 Nov 2025 16:48:33 +0700</pubDate>
+      <description>Tidak ada diplomat Israel yang merobek bendera Indonesia. Indonesia juga tidak pernah menembakkan rudal ke Tel Aviv. Gambar-gambar dalam video itu dibuat dengan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/04/id_1439159/1439159_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Muhammad Qodari Usulkan Gibran Sebagai Pahlawan Nasional</title>
+      <link>https://www.tempo.co/cekfakta/keliru-muhammad-qodari-usulkan-gibran-sebagai-pahlawan-nasional-2086321</link>
+      <guid>4</guid>
+      <pubDate>Tue, 04 Nov 2025 16:02:50 +0700</pubDate>
+      <description>Qodari tidak pernah mengusulkan Gibran sebagai calon pahlawan nasional.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/04/id_1439137/1439137_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Stadion Pencakar Langit Arab Saudi untuk Piala Dunia 2034</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-stadion-pencakar-langit-arab-saudi-untuk-piala-dunia-2034-2086313</link>
+      <guid>5</guid>
+      <pubDate>Tue, 04 Nov 2025 15:37:06 +0700</pubDate>
+      <description>Arab Saudi memang merencanakan stadion futuristik di NEOM, tetapi bentuknya berbeda dari video viral karena proyek NEOM Stadium masih berada pada tahap konsep dan desain awal.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/04/id_1439123/1439123_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Serangan Katak dan Belalang di Brasil pada Oktober 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-serangan-katak-dan-belalang-di-brasil-pada-oktober-2025-2085997</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Mon, 03 Nov 2025 19:22:01 +0700</pubDate>
       <description>Video tidak memperlihatkan peristiwa nyata karena dibuat menggunakan teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/03/id_1438939/1438939_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Keliru: FIFA Umumkan Pertandingan Indonesia-Oman untuk Tiket Piala Dunia 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-fifa-umumkan-pertandingan-indonesia-oman-untuk-tiket-piala-dunia-2026-2085067</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Fri, 31 Oct 2025 13:37:46 +0700</pubDate>
       <description>Video yang beredar sebenarnya hasil suntingan dan dibuat sebagai satire. Namun, banyak pengguna membagikannya ulang tanpa memahami konteks aslinya.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/31/id_1438276/1438276_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Warga Gaza Rayakan HUT RI ke-80</title>
       <link>https://www.tempo.co/cekfakta/keliru-warga-gaza-rayakan-hut-ri-ke-80-2084717</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Thu, 30 Oct 2025 12:06:57 +0700</pubDate>
       <description>Empat video yang diperiksa Tempo tidak berkaitan dengan perayaan kemerdekaan Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/30/id_1438057/1438057_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Belum Ada Bukti: Kerja Sama Nuklir Indonesia dan Rusia di Melawi</title>
       <link>https://www.tempo.co/cekfakta/belum-ada-bukti-kerja-sama-nuklir-indonesia-dan-rusia-di-melawi-2084710</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Thu, 30 Oct 2025 11:46:03 +0700</pubDate>
       <description>Belum ada pernyataan resmi dari pemerintah mengenai implementasi kerja sama pembangunan PLTN dengan Rusia di Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/10/30/id_1438050/1438050_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Mandi setelah Makan Menyebabkan Asam Urat pada Anak-anak</title>
-      <link>https://www.tempo.co/cekfakta/keliru-mandi-setelah-makan-menyebabkan-asam-urat-pada-anak-anak-2084487</link>
-      <guid>5</guid>
-      <pubDate>Wed, 29 Oct 2025 17:15:26 +0700</pubDate>
-      <description>Kebiasaan mandi setelah makan tidak berhubungan dengan penyebab asam urat pada anak.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/29/id_1437888/1437888_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: TNI Lumpuhkan Tujuh Pos Militer Israel di Jalur Gaza</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tni-lumpuhkan-tujuh-pos-militer-israel-di-jalur-gaza-2084060</link>
-      <guid>6</guid>
-      <pubDate>Tue, 28 Oct 2025 14:33:27 +0700</pubDate>
-      <description>Video dibuat dari potongan-potongan video dengan konteks berbeda-beda.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437600/1437600_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Haji Terakhir di Musim Panas karena Mekkah Akan Hadapi Musim Dingin dan Salju</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-haji-terakhir-di-musim-panas-karena-mekkah-akan-hadapi-musim-dingin-dan-salju-2084049</link>
-      <guid>7</guid>
-      <pubDate>Tue, 28 Oct 2025 14:09:53 +0700</pubDate>
-      <description>Mekkah mustahil akan memperoleh salju. Video saat area Ka’bah di Masjidil Haram bersalju merupakan hasil suntingan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437596/1437596_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Satu Juta WNI Daftar Pasukan Tanpa Bayaran</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-satu-juta-wni-daftar-pasukan-tanpa-bayaran-2084043</link>
-      <guid>8</guid>
-      <pubDate>Tue, 28 Oct 2025 13:49:19 +0700</pubDate>
-      <description>Warga yang lolos menjadi Komcad TNI tetap memperoleh imbalan, berbeda dengan wajib militer di negara lain.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/28/id_1437590/1437590_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Pesan WhatsApp Bantuan Dana Prabowo Rp 58 Juta</title>
-      <link>https://www.tempo.co/cekfakta/keliru-pesan-whatsapp-bantuan-dana-prabowo-rp-58-juta-2083772</link>
-      <guid>9</guid>
-      <pubDate>Mon, 27 Oct 2025 17:57:16 +0700</pubDate>
-      <description>Tidak ada nama Yosef Tanujaya dalam struktur pemerintahan. Jabatan Manajer Pelaksana Bantuan Presiden Prabowo Subianto juga tidak ada.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/10/27/id_1437431/1437431_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
