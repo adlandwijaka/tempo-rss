@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 12 Nov 2025 05:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 05:15:21 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Pejabat Militer Israel Tanggapi Rencana Indonesia Kirim 20 Ribu Tentara ke Gaza</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-pejabat-militer-israel-tanggapi-rencana-indonesia-kirim-20-ribu-tentara-ke-gaza-2088972</link>
+      <guid>1</guid>
+      <pubDate>Wed, 12 Nov 2025 19:47:43 +0700</pubDate>
+      <description>Video dibuat dengan bantuan Akal Imitasi (AI).</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/12/id_1440906/1440906_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: BI dan Menteri Keuangan Rilis Desain Uang Redenominasi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-bi-dan-menteri-keuangan-rilis-desain-uang-redenominasi-2088953</link>
+      <guid>2</guid>
+      <pubDate>Wed, 12 Nov 2025 18:41:29 +0700</pubDate>
+      <description>Pemerintah memang mewacanakan kebijakan redenominasi, belum ada desain uang kertas baru yang diterbitkan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/12/id_1440866/1440866_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Gubernur Riau Abdul Wahid Kabur dari KPK saat Gempa Melanda Jakarta</title>
+      <link>https://www.tempo.co/cekfakta/keliru-gubernur-riau-abdul-wahid-kabur-dari-kpk-saat-gempa-melanda-jakarta-2088933</link>
+      <guid>3</guid>
+      <pubDate>Wed, 12 Nov 2025 17:55:08 +0700</pubDate>
+      <description>Video yang beredar merupakan gabungan dari beberapa gambar yang berbeda konteks.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/12/id_1440850/1440850_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Sebagian Benar: Kompres Kaki dengan Bawang Merah dan Minyak Kayu Putih Redakan Flu Anak</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-kompres-kaki-dengan-bawang-merah-dan-minyak-kayu-putih-redakan-flu-anak-2088513</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Tue, 11 Nov 2025 15:25:58 +0700</pubDate>
       <description>Bawang merah memiliki efek menghangatkan tubuh yang dapat membantu meredakan demam, flu, dan kembung, tetapi belum terbukti efektif secara klinis.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/11/id_1440551/1440551_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Menyesatkan: Menkeu Purbaya Umumkan Pinjaman Bank Tanpa Bunga</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-menkeu-purbaya-umumkan-pinjaman-bank-tanpa-bunga-2088480</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Tue, 11 Nov 2025 14:13:41 +0700</pubDate>
       <description>Purbaya memang membahas soal transfer dana ke Himbara untuk penyaluran kredit, tapi tidak ada program pinjaman tanpa bunga seperti yang diklaim.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/11/id_1440525/1440525_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: Foto Bahlil Sambut Ahli Gizi MBG Asal India</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-bahlil-sambut-ahli-gizi-mbg-asal-india-2088237</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Mon, 10 Nov 2025 18:15:14 +0700</pubDate>
       <description>Foto Bahlil dan ahli gizi India yang beredar merupakan hasil buatan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/10/id_1440383/1440383_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Desi Anwar Promosikan Air Garam untuk Nyeri Sendi</title>
       <link>https://www.tempo.co/cekfakta/keliru-desi-anwar-promosikan-air-garam-untuk-nyeri-sendi-2088217</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Mon, 10 Nov 2025 17:21:45 +0700</pubDate>
       <description>CNN Indonesia tidak pernah menayangkan program Desi Anwar seperti yang terlihat dalam video yang beredar.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/10/id_1440369/1440369_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Video Dedi Mulyadi Bagi-Bagi Uang Ratusan Juta Lewat Tebak Kata Berhadiah</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-dedi-mulyadi-bagi-bagi-uang-ratusan-juta-lewat-tebak-kata-berhadiah-2087300</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Fri, 07 Nov 2025 13:51:23 +0700</pubDate>
       <description>Dalam video aslinya Dedi Mulyadi tidak membagikan uang ratusan juta melalui permainan tebak kata berhadiah</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/07/id_1439808/1439808_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: Tautan Pengurusan Sertifikat Tanah Gratis 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pengurusan-sertifikat-tanah-gratis-2025-2087282</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Fri, 07 Nov 2025 13:09:53 +0700</pubDate>
       <description>Tautan yang tercantum bukan tautan resmi dari Kementerian ATR/BPN. Tautan yang tidak resmi bisa menjadi celah kejahatan phishing.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/07/id_1439793/1439793_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran Bantuan Bibit Ayam dari Kementerian Pertanian</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-bantuan-bibit-ayam-dari-kementerian-pertanian-2087065</link>
-      <guid>7</guid>
-      <pubDate>Thu, 06 Nov 2025 17:47:32 +0700</pubDate>
-      <description>Informasi sah soal bantuan ternak hanya dipublikasikan melalui kanal resmi Kementerian Pertanian, termasuk situs www.pertanian.go.id</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/06/id_1439655/1439655_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Menkeu Purbaya Sebut Utang Pemerintah Rp 24 Ribu Triliun</title>
-      <link>https://www.tempo.co/cekfakta/keliru-menkeu-purbaya-sebut-utang-pemerintah-rp-24-ribu-triliun-2087042</link>
-      <guid>8</guid>
-      <pubDate>Thu, 06 Nov 2025 17:16:30 +0700</pubDate>
-      <description>Purbaya tidak pernah mengatakan hal tersebut. Pernyataan soal angka Rp 24 triliun disampaikan oleh mantan Sekretaris BUMN, Said Didu.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/06/id_1439643/1439643_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Benar: Video Makam Keluarga Kerajaan Arab Saudi</title>
-      <link>https://www.tempo.co/cekfakta/benar-video-makam-keluarga-kerajaan-arab-saudi-2087036</link>
-      <guid>9</guid>
-      <pubDate>Thu, 06 Nov 2025 16:59:35 +0700</pubDate>
-      <description>Pemakaman Umum Al Oud di Riyadh, yang memang digunakan untuk memakamkan keluarga kerajaan Arab Saudi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/06/id_1439632/1439632_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
