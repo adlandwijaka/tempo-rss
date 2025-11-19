@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 18 Nov 2025 05:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 05:15:52 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Presiden Rusia Vladimir Putin Melepas Pasukan ke Indonesia</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-presiden-rusia-vladimir-putin-melepas-pasukan-ke-indonesia-2091035</link>
+      <guid>1</guid>
+      <pubDate>Wed, 19 Nov 2025 11:00:27 +0700</pubDate>
+      <description>Video itu merupakan kolase dari beberapa video yang berbeda konteks.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/19/id_1442211/1442211_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Vaksin PCV Meningkatkan Risiko Penularan Pneumonia dan Kematian</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-vaksin-pcv-meningkatkan-risiko-penularan-pneumonia-dan-kematian-2090685</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Tue, 18 Nov 2025 12:15:03 +0700</pubDate>
       <description>Studi efektivitas vaksin PCV pada orang dewasa ini bias dan tidak bisa digeneralisasi pada anak-anak.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/18/id_1442024/1442024_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Sebagian Benar: Makanan Penyembuh Alami Untuk Sejumlah Penyakit</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-makanan-penyembuh-alami-untuk-sejumlah-penyakit-2090674</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Tue, 18 Nov 2025 11:55:29 +0700</pubDate>
       <description>Makanan yang disebutkan dalam klaim memang bermanfaat bagi tubuh, tetapi efeknya hanya meredakan gejala atau membantu pemulihan ringan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/18/id_1442014/1442014_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Menyesatkan: Gibran Mengundurkan Diri Sebagai Wapres</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-gibran-mengundurkan-diri-sebagai-wapres-2090403</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Mon, 17 Nov 2025 15:29:00 +0700</pubDate>
       <description>Video yang beredar menggunakan video lama saat Gibran mengundurkan diri dari jabatannya sebagai Wali Kota Solo</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/17/id_1441840/1441840_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Keliru: Pernyataan Purbaya soal Siap Ditembak atau Diracun dalam Wawancara</title>
       <link>https://www.tempo.co/cekfakta/keliru-pernyataan-purbaya-soal-siap-ditembak-atau-diracun-dalam-wawancara-2090388</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Mon, 17 Nov 2025 14:50:27 +0700</pubDate>
       <description>Video yang beredar merupakan hasil suntingan menggunakan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/17/id_1441818/1441818_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Menyesatkan: BPOM Rilis Dua Merek Roti Beracun pada November 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-bpom-rilis-dua-merek-roti-beracun-pada-november-2025-2090352</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Mon, 17 Nov 2025 13:57:57 +0700</pubDate>
       <description>BPOM memang pernah menemukan kandungan pengawet berbahaya pada Roti Okko, tetapi produk tersebut sudah ditarik pada 2024.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/17/id_1441803/1441803_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Keliru: Berita KPK Menyatakan Duit Korupsi Gubernur Riau Mengalir ke Jokowi</title>
       <link>https://www.tempo.co/cekfakta/keliru-berita-kpk-menyatakan-duit-korupsi-gubernur-riau-mengalir-ke-jokowi-2089638</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Fri, 14 Nov 2025 17:25:57 +0700</pubDate>
       <description>Judul dalam tangkapan layar artikel tersebut telah disunting dari versi asli oleh pihak yang tidak bertanggung jawab.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/14/id_1441338/1441338_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Keliru: Video Pengesahan Hukuman Mati Bagi Koruptor</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pengesahan-hukuman-mati-bagi-koruptor-2089629</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Fri, 14 Nov 2025 17:02:44 +0700</pubDate>
       <description>Hukuman mati memang tercantum sebagai pemberatan dalam UU tindak pidana korupsi, tetapi video tersebut tidak berkaitan dengan pengesahan hukuman mati bagi koruptor.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/14/id_1441321/1441321_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Sebagian Benar: Meletakkan Es di Tengkuk untuk Meredakan Sakit Kepala</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-meletakkan-es-di-tengkuk-untuk-meredakan-sakit-kepala-2089176</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Thu, 13 Nov 2025 13:59:47 +0700</pubDate>
       <description>Kompres es di tengkuk memang bisa meredakan nyeri seperti sakit kepala dan migrain, tapi tidak menyembuhkan penyebabnya.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/13/id_1441008/1441008_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Banjir Rob di Tarakan Disebabkan Gempa Bumi</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-banjir-rob-di-tarakan-disebabkan-gempa-bumi-2088475</link>
-      <guid>9</guid>
-      <pubDate>Thu, 13 Nov 2025 13:46:00 +0700</pubDate>
-      <description>Gempa bumi memang melanda Kota Tarakan pada tanggal 5 dan 8 November 2025. Namun gempa tersebut tidak menyebabkan naiknya permukaan laut ke daratan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/11/id_1440520/1440520_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
