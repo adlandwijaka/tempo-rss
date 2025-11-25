@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 24 Nov 2025 05:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 05:15:54 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran BLT Kesra 2025 Sebesar Rp 900 Ribu</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-blt-kesra-2025-sebesar-rp-900-ribu-2092766</link>
+      <guid>1</guid>
+      <pubDate>Tue, 25 Nov 2025 08:18:12 +0700</pubDate>
+      <description>Tautan itu bukan situs resmi yang digunakan untuk mendaftar BLT.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/25/id_1443342/1443342_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Jokowi Menunjukkan Ijazah Asli</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-jokowi-menunjukkan-ijazah-asli-2092561</link>
+      <guid>2</guid>
+      <pubDate>Mon, 24 Nov 2025 13:53:07 +0700</pubDate>
+      <description>Kedua video dan foto Jokowi bersama ijazahnya dibuat dengan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/24/id_1443186/1443186_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Eropa Kacau setelah Indonesia Stop Ekspor Bahan Makanan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-eropa-kacau-setelah-indonesia-stop-ekspor-bahan-makanan-2092555</link>
+      <guid>3</guid>
+      <pubDate>Mon, 24 Nov 2025 13:29:18 +0700</pubDate>
+      <description>Sebagian visual dalam video dibuat dengan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/24/id_1443167/1443167_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Prabowo Resmi Menampung 2 Ribu Warga Gaza di Pulau Galang</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-prabowo-resmi-menampung-2-ribu-warga-gaza-di-pulau-galang-2091734</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Fri, 21 Nov 2025 12:16:16 +0700</pubDate>
       <description>Prabowo memang pernah mewacanakan pusat pengobatan bagi warga Gaza di Pulau Galang, namun rencana ini belum mendapat persetujuan resmi dari Palestina.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/21/id_1442697/1442697_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Indonesia Mengerahkan Militer ke Ambalat untuk Perangi Malaysia</title>
       <link>https://www.tempo.co/cekfakta/keliru-indonesia-mengerahkan-militer-ke-ambalat-untuk-perangi-malaysia-2091715</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Fri, 21 Nov 2025 11:10:03 +0700</pubDate>
       <description>Visual konten dibuat menggunakan akal imitasi. Sementara itu, kliam yang dituliskan juga tidak terbukti.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/21/id_1442665/1442665_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: Video Kapal Pesiar The Grand Aurelian Membuang Sampah ke Laut</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-kapal-pesiar-the-grand-aurelian-membuang-sampah-ke-laut-2091410</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Thu, 20 Nov 2025 12:26:47 +0700</pubDate>
       <description>Video yang beredar merupakan hasil buatan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/20/id_1442477/1442477_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Banyaknya Kasus Keracunan MBG untuk Menjatuhkan Prabowo</title>
       <link>https://www.tempo.co/cekfakta/keliru-banyaknya-kasus-keracunan-mbg-untuk-menjatuhkan-prabowo-2091399</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Thu, 20 Nov 2025 12:10:42 +0700</pubDate>
       <description>Lonjakan kasus MBG tidak terkait pidato Prabowo di PBB maupun skenario politik.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/20/id_1442468/1442468_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Video Presiden Rusia Vladimir Putin Melepas Pasukan ke Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-presiden-rusia-vladimir-putin-melepas-pasukan-ke-indonesia-2091035</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Wed, 19 Nov 2025 11:00:27 +0700</pubDate>
       <description>Video itu merupakan kolase dari beberapa video yang berbeda konteks.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/19/id_1442211/1442211_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Menyesatkan: Vaksin PCV Meningkatkan Risiko Penularan Pneumonia dan Kematian</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-vaksin-pcv-meningkatkan-risiko-penularan-pneumonia-dan-kematian-2090685</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Tue, 18 Nov 2025 12:15:03 +0700</pubDate>
       <description>Studi efektivitas vaksin PCV pada orang dewasa ini bias dan tidak bisa digeneralisasi pada anak-anak.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/18/id_1442024/1442024_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Makanan Penyembuh Alami Untuk Sejumlah Penyakit</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-makanan-penyembuh-alami-untuk-sejumlah-penyakit-2090674</link>
-      <guid>7</guid>
-      <pubDate>Tue, 18 Nov 2025 11:55:29 +0700</pubDate>
-      <description>Makanan yang disebutkan dalam klaim memang bermanfaat bagi tubuh, tetapi efeknya hanya meredakan gejala atau membantu pemulihan ringan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/18/id_1442014/1442014_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Gibran Mengundurkan Diri Sebagai Wapres</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-gibran-mengundurkan-diri-sebagai-wapres-2090403</link>
-      <guid>8</guid>
-      <pubDate>Mon, 17 Nov 2025 15:29:00 +0700</pubDate>
-      <description>Video yang beredar menggunakan video lama saat Gibran mengundurkan diri dari jabatannya sebagai Wali Kota Solo</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/17/id_1441840/1441840_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Pernyataan Purbaya soal Siap Ditembak atau Diracun dalam Wawancara</title>
-      <link>https://www.tempo.co/cekfakta/keliru-pernyataan-purbaya-soal-siap-ditembak-atau-diracun-dalam-wawancara-2090388</link>
-      <guid>9</guid>
-      <pubDate>Mon, 17 Nov 2025 14:50:27 +0700</pubDate>
-      <description>Video yang beredar merupakan hasil suntingan menggunakan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/17/id_1441818/1441818_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
