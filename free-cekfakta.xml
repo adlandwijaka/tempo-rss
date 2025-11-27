@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 26 Nov 2025 05:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 05:16:15 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Indonesia Tembakkan Rudal ke Malaysia</title>
+      <link>https://www.tempo.co/cekfakta/keliru-indonesia-tembakkan-rudal-ke-malaysia-2093551</link>
+      <guid>1</guid>
+      <pubDate>Thu, 27 Nov 2025 12:09:12 +0700</pubDate>
+      <description>Tidak ada serangan rudal dari Indonesia ke Malaysia karena sengketa Blok Ambalat.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/27/id_1443868/1443868_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Penolak Gelar Pahlawan Nasional Soeharto adalah Keturunan PKI</title>
+      <link>https://www.tempo.co/cekfakta/keliru-penolak-gelar-pahlawan-nasional-soeharto-adalah-keturunan-pki-2093529</link>
+      <guid>2</guid>
+      <pubDate>Thu, 27 Nov 2025 11:06:27 +0700</pubDate>
+      <description>Masyarakat menolak gelar pahlawan nasional Soeharto karena pelanggaran hak asasi manusia berat yang terjadi selama ia berkuasa 32 tahun.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/11/27/id_1443847/1443847_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Produk Non-Halal akan Dianggap Ilegal Per 2026</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-produk-non-halal-akan-dianggap-ilegal-per-2026-2093200</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 26 Nov 2025 11:13:25 +0700</pubDate>
       <description>Produk non-halal tidak dianggap ilegal melainkan harus mencantumkan tanda atau keterangan non-halal.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/26/id_1443592/1443592_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Menyesatkan: Malaysia Tidak Punya Pasokan Beras</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-malaysia-tidak-punya-pasokan-beras-2093185</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 26 Nov 2025 10:21:22 +0700</pubDate>
       <description>Kekurangan pasokan beras dari petani dalam negeri Malaysia dapat dipenuhi dengan mengimpor dari negara lain</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/26/id_1443573/1443573_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Konten Presiden Prabowo Bagikan Bantuan untuk Pelajar</title>
       <link>https://www.tempo.co/cekfakta/keliru-konten-presiden-prabowo-bagikan-bantuan-untuk-pelajar-2092887</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Tue, 25 Nov 2025 13:56:25 +0700</pubDate>
       <description>Foto Prabowo dalam poster tersebut tidak terkait dengan pembagian bantuan jenis apa pun.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/25/id_1443403/1443403_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran BLT Kesra 2025 Sebesar Rp 900 Ribu</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-blt-kesra-2025-sebesar-rp-900-ribu-2092766</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 25 Nov 2025 08:18:12 +0700</pubDate>
       <description>Tautan itu bukan situs resmi yang digunakan untuk mendaftar BLT.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/25/id_1443342/1443342_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Foto Jokowi Menunjukkan Ijazah Asli</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-jokowi-menunjukkan-ijazah-asli-2092561</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Mon, 24 Nov 2025 13:53:07 +0700</pubDate>
       <description>Kedua video dan foto Jokowi bersama ijazahnya dibuat dengan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/24/id_1443186/1443186_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Eropa Kacau setelah Indonesia Stop Ekspor Bahan Makanan</title>
       <link>https://www.tempo.co/cekfakta/keliru-eropa-kacau-setelah-indonesia-stop-ekspor-bahan-makanan-2092555</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 24 Nov 2025 13:29:18 +0700</pubDate>
       <description>Sebagian visual dalam video dibuat dengan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/24/id_1443167/1443167_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Menyesatkan: Prabowo Resmi Menampung 2 Ribu Warga Gaza di Pulau Galang</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-prabowo-resmi-menampung-2-ribu-warga-gaza-di-pulau-galang-2091734</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Fri, 21 Nov 2025 12:16:16 +0700</pubDate>
       <description>Prabowo memang pernah mewacanakan pusat pengobatan bagi warga Gaza di Pulau Galang, namun rencana ini belum mendapat persetujuan resmi dari Palestina.</description>
       <thumbnail>https://statik.tempo.co/data/2025/11/21/id_1442697/1442697_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Indonesia Mengerahkan Militer ke Ambalat untuk Perangi Malaysia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-indonesia-mengerahkan-militer-ke-ambalat-untuk-perangi-malaysia-2091715</link>
-      <guid>8</guid>
-      <pubDate>Fri, 21 Nov 2025 11:10:03 +0700</pubDate>
-      <description>Visual konten dibuat menggunakan akal imitasi. Sementara itu, kliam yang dituliskan juga tidak terbukti.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/21/id_1442665/1442665_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Kapal Pesiar The Grand Aurelian Membuang Sampah ke Laut</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-kapal-pesiar-the-grand-aurelian-membuang-sampah-ke-laut-2091410</link>
-      <guid>9</guid>
-      <pubDate>Thu, 20 Nov 2025 12:26:47 +0700</pubDate>
-      <description>Video yang beredar merupakan hasil buatan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/20/id_1442477/1442477_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
