@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 29 Nov 2025 05:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 05:15:02 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Karen Hao: Akal Imitasi Mengikis Demokrasi</title>
+      <link>https://www.tempo.co/wawancara/ancaman-ai-akal-imitasi-terhadap-demokrasi-2094360</link>
+      <guid>1</guid>
+      <pubDate>Sun, 30 Nov 2025 09:00:00 +0700</pubDate>
+      <description>Karen Hao mengungkap bahaya akal imitasi (AI) terhadap lingkungan dan ekspolitasi tenaga kerja. Seperti Empire of AI.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/11/29/900898/900898_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Akal Imitasi Ancaman Demokrasi</title>
+      <link>https://www.tempo.co/wawancara/ai-mengancam-demokrasi-2094361</link>
+      <guid>2</guid>
+      <pubDate>Sun, 30 Nov 2025 09:00:00 +0700</pubDate>
+      <description>Akal imitasi berpotensi merusak lingkungan. Juga mengikis demokrasi.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/11/29/900915/900915_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Saifullah Yusuf: Ada Penerima Bansos Rekeningnya Miliaran Rupiah</title>
+      <link>https://www.tempo.co/wawancara/saifullah-yusuf-bansos-pbnu-tambang-2094365</link>
+      <guid>3</guid>
+      <pubDate>Sun, 30 Nov 2025 08:30:00 +0700</pubDate>
+      <description>Penjelasan Menteri Sosial Saifullah Yusuf soal bantuan sosial yang tak tepat sasaran. Juga konflik PBNU berebut konsesi tambang.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/11/28/900774/900774_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Antony Loewenstein: Palestina Tempat Uji Coba Senjata Israel</title>
       <link>https://www.tempo.co/wawancara/temuan-jurnalis-yahudi-soal-palestina-2092297</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 23 Nov 2025 15:00:00 +0700</pubDate>
       <description>Bisnis senjata dan teknologi merupakan motif di balik invasi Israel ke wilayah Palestina.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/22/900413/900413_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Motif Invasi Israel ke Palestina</title>
       <link>https://www.tempo.co/wawancara/motif-invasi-israel-ke-palestina-2092296</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Sun, 23 Nov 2025 15:00:00 +0700</pubDate>
       <description>Invasi Israel ke Palestina menguntungkan sejumlah pihak. Konflik Israel-Palestina tak akan berakhir.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/22/900430/900430_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Sherly Tjoanda: Semua Bisnis Sudah Saya Lepas</title>
       <link>https://www.tempo.co/wawancara/bisnis-perusahaan-tambang-sherly-tjoanda-2092222</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Sun, 23 Nov 2025 08:30:00 +0700</pubDate>
       <description>Gubernur Maluku Utara Sherly Tjoanda menjelaskan aktivitas perusahaan tambang dan asal harta miliknya.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/20/900232/900232_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Tambang, Kepemimpinan, hingga Kekayaan Sherly Tjoanda</title>
       <link>https://www.tempo.co/wawancara/wawancara-gubernur-malut-sherly-tjoanda-2092255</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 23 Nov 2025 08:30:00 +0700</pubDate>
       <description>Wawancara Tempo dengan Gubernur Maluku Utara Sherly Tjoanda.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/10/899612/899612_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Anita Wahid: Gelar Pahlawan Gus Dur Murah karena Soeharto</title>
       <link>https://www.tempo.co/wawancara/soeharto-di-mata-putri-gus-dur-2090056</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 16 Nov 2025 12:00:00 +0700</pubDate>
       <description>Anita Wahid menceritakan bagaimana keluarganya dan Nahdlatul Ulama mengalami intimidasi pada zaman Orde Baru.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/15/899951/899951_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Pencucian Sejarah Kelam Soeharto</title>
       <link>https://www.tempo.co/wawancara/pencucian-sejarah-kelam-soeharto-2090057</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Sun, 16 Nov 2025 12:00:00 +0700</pubDate>
       <description>Anita menganggap pemberian gelar pahlawan untuk Soeharto sebagai upaya menggerus sejarah kelam rezim Orde Baru.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/15/899950/899950_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keribetan Reformasi Polri dan Gelar Pahlawan Soeharto</title>
-      <link>https://www.tempo.co/wawancara/jimly-asshiddique-reformasi-kepolisian-2090010</link>
-      <guid>7</guid>
-      <pubDate>Sun, 16 Nov 2025 08:30:00 +0700</pubDate>
-      <description>Wawancara dengan Ketua Komisi Reformasi Kepolisian Jimly Asshiddiqie.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/11/10/899656/899656_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Jimly Asshiddiqie: Masalah Kepolisian Ini Ribet</title>
-      <link>https://www.tempo.co/wawancara/reformasi-polri-jimly-asshiddique-2089886</link>
-      <guid>8</guid>
-      <pubDate>Sat, 15 Nov 2025 19:00:00 +0700</pubDate>
-      <description>Ketua Komisi Percepatan Reformasi Polri Jimly Asshiddiqie menjelaskan penunjukannya. Juga problem laten di kepolisian.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/11/12/899744/899744_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Nur Fauzi Ramadhan: Di Mata Media, Isu Disabilitas Enggak Seksi</title>
-      <link>https://www.tempo.co/wawancara/isu-disabilitas-media-massa-inklusif-2087860</link>
-      <guid>9</guid>
-      <pubDate>Sun, 09 Nov 2025 12:00:00 +0700</pubDate>
-      <description>Nur Fauzi Ramadhan sedang mengajukan uji materi UU Penyandang Disabilitas. Terpinggirkan sejak dari isu.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/11/08/899506/899506_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
