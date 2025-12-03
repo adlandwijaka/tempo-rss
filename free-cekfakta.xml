@@ -4,13 +4,67 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 02 Dec 2025 05:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 05:15:31 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Israel dan Amerika Serikat Kirim Bantuan ke Sibolga</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-israel-dan-amerika-serikat-kirim-bantuan-ke-sibolga-2095376</link>
+      <guid>1</guid>
+      <pubDate>Wed, 03 Dec 2025 12:02:18 +0700</pubDate>
+      <description>Rekaman helikopter yang beredar itu tak berkaitan dengan pengiriman bantuan ke Sibolga.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/03/id_1445156/1445156_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Harimau Muncul di Tengah Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-harimau-muncul-di-tengah-banjir-sumatera-2095135</link>
+      <guid>2</guid>
+      <pubDate>Tue, 02 Dec 2025 18:07:21 +0700</pubDate>
+      <description>Video-video harimau di tengah banjir Sumatera tersebut hasil buatan AI.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/02/id_1444958/1444958_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tsunami Setelah Banjir Bandang di Pesisir Pidie Jaya</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tsunami-setelah-banjir-bandang-di-pesisir-pidie-jaya-2095120</link>
+      <guid>3</guid>
+      <pubDate>Tue, 02 Dec 2025 17:02:09 +0700</pubDate>
+      <description>Tak ada gempa bumi yang berpotensi tsunami di Kabupaten Pidie Jaya di tengah bencana banjir dan longsor.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/02/id_1444940/1444940_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Medan Dilanda Puting Beliung 9.000 km/jam pada 29 November 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-medan-dilanda-puting-beliung-9-000-km-jam-pada-29-november-2025-2095111</link>
+      <guid>4</guid>
+      <pubDate>Tue, 02 Dec 2025 16:31:59 +0700</pubDate>
+      <description>Tidak ada peristiwa angin puting beliung berkecepatan angin 9.000 km/jam di Medan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/02/id_1444927/1444927_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Gunung Berapi di Sumatera Utara Erupsi Bersamaan dengan Bencana Banjir</title>
+      <link>https://www.tempo.co/cekfakta/keliru-gunung-berapi-di-sumatera-utara-erupsi-bersamaan-dengan-bencana-banjir-2095043</link>
+      <guid>5</guid>
+      <pubDate>Tue, 02 Dec 2025 13:39:43 +0700</pubDate>
+      <description>Tidak ada erupsi gunung berapi di Sumatera Utara saat banjir bandang menerjang wilayah itu.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/02/id_1444871/1444871_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Penyelamatan Kucing Saat Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-penyelamatan-kucing-saat-banjir-sumatera-2095034</link>
+      <guid>6</guid>
+      <pubDate>Tue, 02 Dec 2025 13:14:45 +0700</pubDate>
+      <description>Konten itu dibuat menggunakan akal imitasi (AI)</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/02/id_1444863/1444863_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Belum Ada Bukti: Minuman Herbal Bermanfaat untuk Detoksifikasi Darah</title>
       <link>https://www.tempo.co/cekfakta/belum-ada-bukti-minuman-herbal-bermanfaat-untuk-detoksifikasi-darah-2094711</link>
-      <guid>1</guid>
+      <guid>7</guid>
       <pubDate>Mon, 01 Dec 2025 13:25:27 +0700</pubDate>
       <description>Belum ada bukti ilmiah jika tiga ramuan herbal itu berkaitan dengan detoksifikasi darah.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/01/id_1444653/1444653_720.jpg</thumbnail>
@@ -19,7 +73,7 @@
     <item>
       <title>Keliru: Video Raffi Ahmad Kerja Bareng dengan Situs Mahjong</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-raffi-ahmad-kerja-bareng-dengan-situs-mahjong-2094695</link>
-      <guid>2</guid>
+      <guid>8</guid>
       <pubDate>Mon, 01 Dec 2025 12:28:52 +0700</pubDate>
       <description>Raffi Ahmad tidak sedang mengumumkan kerja sama dengan situs judi online.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/01/id_1444636/1444636_720.jpg</thumbnail>
@@ -28,64 +82,10 @@
     <item>
       <title>Keliru: Video Warga Papua Usir Imigran Asal Jawa</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-warga-papua-usir-imigran-asal-jawa-2094687</link>
-      <guid>3</guid>
+      <guid>9</guid>
       <pubDate>Mon, 01 Dec 2025 12:00:53 +0700</pubDate>
       <description>Unjuk rasa tersebut merupakan bentuk protes masyarakat Papua atas maraknya rasisme pada 2019, bukan menolak pendatang.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/01/id_1444631/1444631_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: BPOM Merazia Minuman Siap Saji karena Berbahaya</title>
-      <link>https://www.tempo.co/cekfakta/keliru-bpom-merazia-minuman-siap-saji-karena-berbahaya-2093894</link>
-      <guid>4</guid>
-      <pubDate>Fri, 28 Nov 2025 12:28:26 +0700</pubDate>
-      <description>Petugas yang merazia minuman dalam kemasan tersebut bukan berasal dari BPOM.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/28/id_1444095/1444095_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Harga Beras Dunia Anjlok karena Indonesia Swasembada Beras</title>
-      <link>https://www.tempo.co/cekfakta/keliru-harga-beras-dunia-anjlok-karena-indonesia-swasembada-beras-2093889</link>
-      <guid>5</guid>
-      <pubDate>Fri, 28 Nov 2025 12:10:34 +0700</pubDate>
-      <description>Indonesia juga tidak mengekspor beras hingga ribuan ton ke benua Afrika.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/28/id_1444092/1444092_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Campuran Daun Belimbing Wuluh dan Kulit Manggis Sembuhkan Pembesaran Getah Bening di Leher</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-campuran-daun-belimbing-wuluh-dan-kulit-manggis-sembuhkan-pembesaran-getah-bening-di-leher-2093885</link>
-      <guid>6</guid>
-      <pubDate>Fri, 28 Nov 2025 12:00:22 +0700</pubDate>
-      <description>Penyembuhan pembesaran getah bening di leher tidak dapat hanya menggunakan bahan-bahan herbal.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/28/id_1444089/1444089_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Indonesia Tembakkan Rudal ke Malaysia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-indonesia-tembakkan-rudal-ke-malaysia-2093551</link>
-      <guid>7</guid>
-      <pubDate>Thu, 27 Nov 2025 12:09:12 +0700</pubDate>
-      <description>Tidak ada serangan rudal dari Indonesia ke Malaysia karena sengketa Blok Ambalat.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/27/id_1443868/1443868_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Penolak Gelar Pahlawan Nasional Soeharto adalah Keturunan PKI</title>
-      <link>https://www.tempo.co/cekfakta/keliru-penolak-gelar-pahlawan-nasional-soeharto-adalah-keturunan-pki-2093529</link>
-      <guid>8</guid>
-      <pubDate>Thu, 27 Nov 2025 11:06:27 +0700</pubDate>
-      <description>Masyarakat menolak gelar pahlawan nasional Soeharto karena pelanggaran hak asasi manusia berat yang terjadi selama ia berkuasa 32 tahun.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/27/id_1443847/1443847_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Produk Non-Halal akan Dianggap Ilegal Per 2026</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-produk-non-halal-akan-dianggap-ilegal-per-2026-2093200</link>
-      <guid>9</guid>
-      <pubDate>Wed, 26 Nov 2025 11:13:25 +0700</pubDate>
-      <description>Produk non-halal tidak dianggap ilegal melainkan harus mencantumkan tanda atau keterangan non-halal.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/11/26/id_1443592/1443592_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
