@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 10 Dec 2025 05:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 05:18:38 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Masjid Tetap Berdiri Kokoh Meski Diterjang Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-masjid-tetap-berdiri-kokoh-meski-diterjang-banjir-sumatera-2097645</link>
+      <guid>1</guid>
+      <pubDate>Wed, 10 Dec 2025 13:48:42 +0700</pubDate>
+      <description>Meski terdapat sejumlah masjid yang selamat dari bencana Sumatera, namun video yang beredar buatan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/10/id_1446685/1446685_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video 11 Negara Kirim Bantuan untuk Korban Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-11-negara-kirim-bantuan-untuk-korban-banjir-sumatera-2097631</link>
+      <guid>2</guid>
+      <pubDate>Wed, 10 Dec 2025 13:09:34 +0700</pubDate>
+      <description>Sejumlah klip dalam video merupakan hasil buatan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/10/id_1446659/1446659_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Prabowo akan Mengganti Bantuan Sosial dengan Kebijakan Baru</title>
       <link>https://www.tempo.co/cekfakta/keliru-prabowo-akan-mengganti-bantuan-sosial-dengan-kebijakan-baru-2097393</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Tue, 09 Dec 2025 17:04:04 +0700</pubDate>
       <description>Presiden Prabowo Subianto tak pernah menyatakan bakal mengganti bantuan sosial Program Keluarga Harapan (PKH) dengan kebijakan baru.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/09/id_1446500/1446500_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran 500 Ribu Pekerja di Dapur MBG</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-500-ribu-pekerja-di-dapur-mbg-2097299</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Tue, 09 Dec 2025 12:04:21 +0700</pubDate>
       <description>Tautan yang dicantumkan palsu. Rekrutmen biasanya dilakukan secara mandiri oleh setiap SPPG.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/09/id_1446407/1446407_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Kementerian Agama Bagikan Bantuan untuk Warga Nonmuslim dan Gereja</title>
       <link>https://www.tempo.co/cekfakta/keliru-kementerian-agama-bagikan-bantuan-untuk-warga-nonmuslim-dan-gereja-2096948</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Mon, 08 Dec 2025 11:43:32 +0700</pubDate>
       <description>Kementerian Agama tidak pernah menyebarkan surat seperti yang beredar tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/08/id_1446179/1446179_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Sebagian Benar: Klaim KKB Minta Susi Pudjiastuti Tarik TNI Non-Organik dari Papua</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-klaim-kkb-minta-susi-pudjiastuti-tarik-tni-non-organik-dari-papua-2096940</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Mon, 08 Dec 2025 11:20:42 +0700</pubDate>
       <description>Permintaan dari KKB tersebut memang pernah terjadi, namun pada Mei 2023, bukan November 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/08/id_1446169/1446169_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Presiden Prabowo Tetapkan Bencana Sumatera Sebagai Bencana Nasional pada 3 Desember 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-prabowo-tetapkan-bencana-sumatera-sebagai-bencana-nasional-pada-3-desember-2025-2096208</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Fri, 05 Dec 2025 17:11:31 +0700</pubDate>
       <description>Pemerintah belum menetapkan banjir Sumatera sebagai bencana nasional hingga 5 Desember 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/05/id_1445714/1445714_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: BMKG Memprediksi Tsunami di Lampung pada 3-9 Desember 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-bmkg-memprediksi-tsunami-di-lampung-pada-3-9-desember-2025-2096180</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Fri, 05 Dec 2025 16:02:55 +0700</pubDate>
       <description>BMKG memang mengeluarkan peringatan potensi banjir rob, namun tak pernah memprediksi kedatangan tsunami pada periode tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/05/id_1445681/1445681_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Video Hiu Berenang di Banjir Bandang Sumatera Barat</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-hiu-berenang-di-banjir-bandang-sumatera-barat-2095789</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Thu, 04 Dec 2025 13:28:02 +0700</pubDate>
       <description>Video-video yang beredar tersebut merupakan hasil akal imitasi (AI).</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/04/id_1445460/1445460_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Jokowi Kunjungi Lokasi Bencana di Sumatera Barat 2025</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-jokowi-kunjungi-lokasi-bencana-di-sumatera-barat-2025-2095775</link>
-      <guid>8</guid>
-      <pubDate>Thu, 04 Dec 2025 12:47:34 +0700</pubDate>
-      <description>Kunjungan Jokowi dalam video itu terjadi pada 2024 saat masih menjadi Presiden RI.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/04/id_1445451/1445451_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Aceh Dilanda Gempa Berpotensi Tsunami pada 28 November 2025</title>
-      <link>https://www.tempo.co/cekfakta/keliru-aceh-dilanda-gempa-berpotensi-tsunami-pada-28-november-2025-2095386</link>
-      <guid>9</guid>
-      <pubDate>Wed, 03 Dec 2025 12:40:25 +0700</pubDate>
-      <description>BMKG Stasiun Geofisika Aceh Besar memastikan tak ada gempa bumi berpotensi tsunami di Aceh pada 28 November 2025.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/03/id_1445171/1445171_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
