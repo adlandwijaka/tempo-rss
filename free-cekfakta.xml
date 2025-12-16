@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 15 Dec 2025 05:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 05:18:23 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Cristiano Ronaldo Kunjungi dan Kirim Bantuan ke Sumatera 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-cristiano-ronaldo-kunjungi-dan-kirim-bantuan-ke-sumatera-2025-2099415</link>
+      <guid>1</guid>
+      <pubDate>Tue, 16 Dec 2025 12:04:29 +0700</pubDate>
+      <description>Sebagian video yang beredar berasal dari peristiwa yang berbeda dan hasil akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/16/id_1447941/1447941_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Benar: Penyintas Bencana Aceh Kibarkan Bendera Putih Mengharapkan Bantuan Luar Negeri</title>
+      <link>https://www.tempo.co/cekfakta/benar-penyintas-bencana-aceh-kibarkan-bendera-putih-mengharapkan-bantuan-luar-negeri-2099067</link>
+      <guid>2</guid>
+      <pubDate>Mon, 15 Dec 2025 13:51:08 +0700</pubDate>
+      <description>Warga Aceh mengibarkan bendera putih untuk mencari bantuan penanganan bencana.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/15/id_1447731/1447731_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video TNI Desak DPR Bentuk Pansus Usut Penyebab Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-tni-desak-dpr-bentuk-pansus-usut-penyebab-banjir-sumatera-2099061</link>
+      <guid>3</guid>
+      <pubDate>Mon, 15 Dec 2025 13:33:34 +0700</pubDate>
+      <description>Video-video yang beredar dibuat dengan akal imitasi (AI).</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/15/id_1447711/1447711_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video TNI Menyelidiki Illegal Logging Penyebab Banjir Sumatera</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-tni-menyelidiki-illegal-logging-penyebab-banjir-sumatera-2099038</link>
+      <guid>4</guid>
+      <pubDate>Mon, 15 Dec 2025 12:57:02 +0700</pubDate>
+      <description>Video-video yang beredar dibuat dengan akal imitasi (AI).</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/15/id_1447689/1447689_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Video Dedi Mulyadi Mengunjungi Korban Bencana di Aceh dan Padang</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-dedi-mulyadi-mengunjungi-korban-bencana-di-aceh-dan-padang-2099018</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Mon, 15 Dec 2025 11:55:48 +0700</pubDate>
       <description>Video yang beredar bukan momen kunjungan di Sumatera, melainkan di Tasikmalaya.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/15/id_1447663/1447663_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Penemuan Banyak Mayat di Dalam Mobil Setelah Bencana di Aceh Tamiang</title>
       <link>https://www.tempo.co/cekfakta/keliru-penemuan-banyak-mayat-di-dalam-mobil-setelah-bencana-di-aceh-tamiang-2098259</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Fri, 12 Dec 2025 13:00:47 +0700</pubDate>
       <description>BPBD Aceh dan Polres Aceh Tamiang membantah informasi tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/12/id_1447143/1447143_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Arang yang Ditumbuk Bisa Memutihkan Gigi Kuning</title>
       <link>https://www.tempo.co/cekfakta/keliru-arang-yang-ditumbuk-bisa-memutihkan-gigi-kuning-2098235</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Fri, 12 Dec 2025 11:49:18 +0700</pubDate>
       <description>Memutihkan gigi menggunakan arang yang ditumbuk hanya mitos.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/12/id_1447126/1447126_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Rebusan Daun Kelor dan Air Kelapa Membersihkan Paru-paru dari Asap Rokok</title>
       <link>https://www.tempo.co/cekfakta/keliru-rebusan-daun-kelor-dan-air-kelapa-membersihkan-paru-paru-dari-asap-rokok-2097984</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Thu, 11 Dec 2025 15:03:45 +0700</pubDate>
       <description>Penelitian mengenai efektivitas ekstrak daun kelor untuk memulihkan kerusakan paru-paru sejauh ini baru sebatas uji coba pada tikus, bukan manusia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/11/id_1446964/1446964_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Menyesatkan: Video Banjir Rendam Pemukiman di Provinsi Lampung</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-banjir-rendam-pemukiman-di-provinsi-lampung-2097949</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Thu, 11 Dec 2025 13:25:48 +0700</pubDate>
       <description>Peristiwa banjir bandang pada video itu terjadi di Kota Padang, Sumatera Barat.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/11/id_1446926/1446926_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Masjid Tetap Berdiri Kokoh Meski Diterjang Banjir Sumatera</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-masjid-tetap-berdiri-kokoh-meski-diterjang-banjir-sumatera-2097645</link>
-      <guid>6</guid>
-      <pubDate>Wed, 10 Dec 2025 13:48:42 +0700</pubDate>
-      <description>Meski terdapat sejumlah masjid yang selamat dari bencana Sumatera, namun video yang beredar buatan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/10/id_1446685/1446685_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video 11 Negara Kirim Bantuan untuk Korban Banjir Sumatera</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-11-negara-kirim-bantuan-untuk-korban-banjir-sumatera-2097631</link>
-      <guid>7</guid>
-      <pubDate>Wed, 10 Dec 2025 13:09:34 +0700</pubDate>
-      <description>Sejumlah klip dalam video merupakan hasil buatan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/10/id_1446659/1446659_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Prabowo akan Mengganti Bantuan Sosial dengan Kebijakan Baru</title>
-      <link>https://www.tempo.co/cekfakta/keliru-prabowo-akan-mengganti-bantuan-sosial-dengan-kebijakan-baru-2097393</link>
-      <guid>8</guid>
-      <pubDate>Tue, 09 Dec 2025 17:04:04 +0700</pubDate>
-      <description>Presiden Prabowo Subianto tak pernah menyatakan bakal mengganti bantuan sosial Program Keluarga Harapan (PKH) dengan kebijakan baru.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/09/id_1446500/1446500_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran 500 Ribu Pekerja di Dapur MBG</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-500-ribu-pekerja-di-dapur-mbg-2097299</link>
-      <guid>9</guid>
-      <pubDate>Tue, 09 Dec 2025 12:04:21 +0700</pubDate>
-      <description>Tautan yang dicantumkan palsu. Rekrutmen biasanya dilakukan secara mandiri oleh setiap SPPG.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/09/id_1446407/1446407_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
