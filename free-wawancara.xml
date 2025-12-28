@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 27 Dec 2025 05:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 05:19:40 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Ketua KPAI: Kita Sudah Butuh Satgas Nasional Perundungan</title>
+      <link>https://www.tempo.co/wawancara/satgas-nasional-perundungan-sekolah-kpai-2102608</link>
+      <guid>1</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Penjelasan Ketua KPAI Margaret Aliyatul Maimunah perihal tren kekerasan di sekolah serta penanganan anak korban bencana.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902775/902775_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Cerita Sheila Dara Aisha Menyelami Karakter Sore</title>
       <link>https://www.tempo.co/wawancara/sheila-dara-aisha-film-sore-2101006</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sun, 21 Dec 2025 15:00:00 +0700</pubDate>
       <description>Sheila Dara mengisahkan caranya memahami karakter Sore. Ia juga menjelaskan pandangannya soal eksploitasi pekerja film.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/21/900276/900276_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Pengalaman Berharga Sheila Dara di Kroasia</title>
       <link>https://www.tempo.co/wawancara/pengalaman-berharga-sheila-di-kroasia-2101008</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 21 Dec 2025 15:00:00 +0700</pubDate>
       <description>Cerita Sheila Dara Aisha tentang film Sore. Dua kali menang Piala Citra.</description>
       <thumbnail>https://images-tm.tempo.co/all/2023/02/25/824876/824876_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Ferry Juliantono: Apa Salahnya Melibatkan TNI?</title>
       <link>https://www.tempo.co/wawancara/model-bisnis-koperasi-desa-merah-putih-2100878</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 21 Dec 2025 08:30:00 +0700</pubDate>
       <description>Ferry Juliantono menjelaskan perkembangan koperasi desa merah putih yang menjadi program unggulan Presiden Prabowo.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/18/902272/902272_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Koperasi Merah Putih untuk Siapa</title>
       <link>https://www.tempo.co/wawancara/fakta-koperasi-desa-ferry-juliantono-2100910</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 21 Dec 2025 08:30:00 +0700</pubDate>
       <description>Selama lebih dari dua jam, Ferry Juliantono menjelaskan capaian Kementerian Koperasi. Seperti apa perkembangan koperasi merah putih?</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/18/902271/902271_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Masa Depan MK Setelah Putusan Nomor 90</title>
       <link>https://www.tempo.co/wawancara/cara-mahkamah-konstitusi-berbenah-2099448</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 14 Dec 2025 14:30:00 +0700</pubDate>
       <description>Dari putusan nomor 90 hingga hubungan dengan Anwar Usman, Ketua Mahkamah Konstitusi Suhartoyo menjawab pertanyaan Tempo.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/12/901788/901788_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Achmad Siddik Thoha: Krisis Iklim Benar-benar Sedang Terjadi</title>
       <link>https://www.tempo.co/wawancara/krisis-iklim-banjir-sumatera-2098746</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 14 Dec 2025 09:00:00 +0700</pubDate>
       <description>Achmad Siddik Thoha mengatakan banjir Sumatera terjadi akibat kerusakan hutan. Krisis iklim di depan mata.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/13/901895/901895_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Perubahan Iklim Benar-benar Sedang Terjadi</title>
       <link>https://www.tempo.co/wawancara/perubahan-iklim-deforestasi-banjir-sumatera-2098745</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 14 Dec 2025 09:00:00 +0700</pubDate>
       <description>Banjir Sumatera karena alih fungsi hutan menjadi industri ekstraktif. Tanda krisis iklim itu nyata.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/13/901906/901906_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Ketua MK Suhartoyo: Tidak Boleh Ada Hakim yang Menonjol</title>
       <link>https://www.tempo.co/wawancara/perubahan-mahkamah-konstitusi-2098733</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 14 Dec 2025 08:30:00 +0700</pubDate>
       <description>Ketua Mahkamah Konstitusi Suhartoyo menjelaskan berbagai putusan MK yang progresif serta hubungannya dengan Anwar Usman.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/12/901787/901787_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Tambang Emas Penjajahan Gaya Baru</title>
-      <link>https://www.tempo.co/wawancara/cerita-sutradara-film-tambang-trenggalek-2096676</link>
-      <guid>9</guid>
-      <pubDate>Sun, 07 Dec 2025 12:00:00 +0700</pubDate>
-      <description>Film Tambang Emas Ra Ritek memahamkan warga Trenggalek perihal ancaman tembang emas. Masyarakat mulai alergi tambang.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/12/06/901379/901379_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>

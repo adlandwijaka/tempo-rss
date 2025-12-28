@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 27 Dec 2025 05:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 05:19:41 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Kroni Prabowo dalam Proyek Makan Bergizi Gratis</title>
+      <link>https://www.tempo.co/investigasi/kalang-kabut-proyek-mbg-2102666</link>
+      <guid>1</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Sejumlah kroni dan pendukung Prabowo tercatat sebagai pengelola MBG. Proyek mercusuar itu berpotensi merugikan negara.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902747/902747_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Cerita Francesca Albanese tentang Genosida di Palestina</title>
+      <link>https://www.tempo.co/investigasi/francesca-albanese-genosida-palestina-2102663</link>
+      <guid>2</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Francesca Albanese membeberkan soal genosida di Palestina. Rencana Prabowo membawa warga Palestina ke Indonesia dinilai tak tepat.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902744/902744_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Kecemasan Janet Steele terhadap Prabowo</title>
+      <link>https://www.tempo.co/investigasi/ancaman-kebebasan-pers-di-indonesia-2102662</link>
+      <guid>3</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Janet Steele khawatir terhadap masa depan independensi media di Indonesia. Mengkritik Prabowo soal kebebasan pers.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902745/902745_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Dua Dasawarsa Perjanjian Helsinki</title>
+      <link>https://www.tempo.co/investigasi/dua-dasawarsa-aceh-perjanjian-helsinki-2102661</link>
+      <guid>4</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Perjanjian Helsinki masih menyimpan banyak persoalan di Aceh. Setelah dua dasawarsa, perjanjian tak dijalankan dengan benar.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902746/902746_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Buruk Rupa Tata Kelola MBG</title>
+      <link>https://www.tempo.co/investigasi/tata-kelola-buruk-makan-bergizi-gratis-2102612</link>
+      <guid>5</guid>
+      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
+      <description>Proyek makan bergizi gratis makin melenceng dari tujuan awal. Memicu inflasi pangan.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/12/26/902892/902892_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Investigasi: Jejak Pelacakan Nomor Telepon Aktivis dan Tokoh Publik</title>
       <link>https://www.tempo.co/investigasi/lacak-nomor-ponsel-aktivis-tokoh-publik-2079647</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0700</pubDate>
       <description>First Wap melacak belasan ribu nomor telepon aktivis dan tokoh publik. Kolaborasi Tempo dan Lighthouse Reports.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/14/897714/897714_1200.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Apa Itu Digital Hygiene yang Membentengi dari Upaya Peretasan?</title>
       <link>https://www.tempo.co/investigasi/digital-hygiene-tips-hindari-peretasan-2079651</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0700</pubDate>
       <description>Peretasan bisa dicegah dengan menerapkan digital hygiene. Pengguna tak boleh sembarangan memencet tautan dan terhubung ke Wi-Fi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/14/897729/897729_1200.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Profil Josef Fuchs, Pria Austria Pendiri First Wap</title>
       <link>https://www.tempo.co/investigasi/josef-fuchs-first-wap-2079649</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0700</pubDate>
       <description>Josef Fuchs asal Austria mendirikan First Wap dan ISCO Foundation. Merancang sistem komunikasi Bandar Udara Soekarno-Hatta.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/14/897714/897714_1200.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Waswas Perlindungan Data Pribadi</title>
       <link>https://www.tempo.co/investigasi/pelacakan-nomor-telepon-first-wap-2079655</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0700</pubDate>
       <description>Tempo bergabung dalam liputan investigasi bersama 14 media di 11 negara untuk mengungkap praktik pelacakan 14.000 nomor telepon.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/15/897734/897734_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Taktik Media Lokal Bertahan dalam Disrupsi Digital</title>
-      <link>https://www.tempo.co/investigasi/media-lokal-disrupsi-digital-2070173</link>
-      <guid>5</guid>
-      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
-      <description>Media lokal kesulitan menghadapi disrupsi digital. Mulai mencari model bisnis baru.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/16/895717/895717_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Cara Perusahaan Teknologi Menyiasati Publisher Rights di Negara Lain</title>
-      <link>https://www.tempo.co/investigasi/taktik-lobi-bigtech-negara-lain-2070174</link>
-      <guid>6</guid>
-      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
-      <description>Google menandatangani lebih dari 2.000 kontrak dengan media di seluruh dunia dalam lima tahun terakhir.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2023/07/02/835280/835280_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Komite Publisher Rights: Kami Tak Bisa Menjewer Platform Digital</title>
-      <link>https://www.tempo.co/investigasi/komite-publisher-rights--2070175</link>
-      <guid>7</guid>
-      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
-      <description>Ketua Komite Publisher Rights Suprapto Sastro Atmojo menjelaskan penerapan peraturan presiden mengenai jurnalisme berkualitas.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/15/895709/895709_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Cawe-cawe Perusahaan Teknologi dalam Pembuatan Regulasi</title>
-      <link>https://www.tempo.co/investigasi/lobi-lobi-perusahaan-teknologi-2070172</link>
-      <guid>8</guid>
-      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
-      <description>Perusahaan teknologi turut mengintervensi pembuatan regulasi di Indonesia. Lobi-lobi serupa terjadi di negara lain.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/09/16/895726/895726_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title> Lobi-lobi Perusahaan Teknologi</title>
-      <link>https://www.tempo.co/investigasi/alasan-investigasi-perusahaan-teknologi-2070192</link>
-      <guid>9</guid>
-      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
-      <description>Perusahaan teknologi menggunakan taktik lobi untuk mempengaruhi kebijakan. Liputan kolaborasi media di 13 negara.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2023/07/02/835279/835279_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
