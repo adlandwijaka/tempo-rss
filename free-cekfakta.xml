@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 29 Dec 2025 05:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 05:19:50 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Memakai Bra Warna Hitam dan Saat Tidur Menyebabkan Kanker Payudara</title>
+      <link>https://www.tempo.co/cekfakta/keliru-memakai-bra-warna-hitam-dan-saat-tidur-menyebabkan-kanker-payudara-2103096</link>
+      <guid>1</guid>
+      <pubDate>Tue, 30 Dec 2025 07:00:00 +0700</pubDate>
+      <description>Tidak ada bukti dan korelasi ilmiah yang menyatakan bahwa warna, jenis, dan pemakaian bra dapat menyebabkan kanker payudara.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450537/1450537_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran Kartu Prakerja 2025</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-kartu-prakerja-2025-2103093</link>
+      <guid>2</guid>
+      <pubDate>Tue, 30 Dec 2025 05:37:37 +0700</pubDate>
+      <description>Tautan yang beredar bukan tautan resmi untuk layanan prakerja.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450539/1450539_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Video Penyitaan Bandara Ilegal IMIP</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-video-penyitaan-bandara-ilegal-imip-2102951</link>
+      <guid>3</guid>
+      <pubDate>Mon, 29 Dec 2025 14:24:30 +0700</pubDate>
+      <description>Peristiwa dalam video itu bukan penyitaan Bandara IMIP</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/29/id_1450427/1450427_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran Internet Rakyat Gratis 3 Bulan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-internet-rakyat-gratis-3-bulan-2102941</link>
+      <guid>4</guid>
+      <pubDate>Mon, 29 Dec 2025 13:56:04 +0700</pubDate>
+      <description>PT Solusi Sinergi Digital Tbk (WIFI) atau Surge tidak menawarkan program gratis internet 3 bulan.</description>
+      <thumbnail>https://statik.tempo.co/data/2025/12/29/id_1450423/1450423_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Australia Minta Dana Bantuan Tsunami Aceh Rp 13 T Dikembalikan pada 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-australia-minta-dana-bantuan-tsunami-aceh-rp-13-t-dikembalikan-pada-2025-2101939</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Wed, 24 Dec 2025 18:05:25 +0700</pubDate>
       <description>Hingga saat ini, pemerintah Australia tidak pernah meminta bantuan gempa dan tsunami tersebut dikembalikan.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/24/id_1449684/1449684_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Video Langit Merah Disertai Tornado di Pandeglang, Banten</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-langit-merah-disertai-tornado-di-pandeglang-banten-2101925</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Wed, 24 Dec 2025 17:35:15 +0700</pubDate>
       <description>Fenomena langit merah memang sempat terjadi di Kabupaten Pandeglang, namun tidak ada badai tornado.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/24/id_1449667/1449667_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Wartawan CNN Indonesia TV Irine Wardhanie Ditangkap Polisi</title>
       <link>https://www.tempo.co/cekfakta/keliru-wartawan-cnn-indonesia-tv-irine-wardhanie-ditangkap-polisi-2101514</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Tue, 23 Dec 2025 11:52:29 +0700</pubDate>
       <description>Hingga saat ini Irine Wardhanie masih bekerja di CNN Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/23/id_1449373/1449373_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Tautan Voucher Subsidi Indomaret untuk Akhir Tahun</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-voucher-subsidi-indomaret-untuk-akhir-tahun-2101495</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Tue, 23 Dec 2025 11:10:38 +0700</pubDate>
       <description>Indomaret tidak memiliki program bagi-bagi voucher gratis atau subsidi akhir tahun.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/23/id_1449363/1449363_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: Ferdy Sambo Meninggal di Penjara</title>
       <link>https://www.tempo.co/cekfakta/keliru-ferdy-sambo-meninggal-di-penjara-2101250</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Mon, 22 Dec 2025 14:21:44 +0700</pubDate>
       <description>Hingga kini, Ferdy Sambo masih mendekam di Lembaga Pemasyarakatan Kelas IIA Cibinong.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/22/id_1449190/1449190_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tes Penyumbatan Otak Setelah Menerima Vaksin Covid-19</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tes-penyumbatan-otak-setelah-menerima-vaksin-covid-19-2101231</link>
-      <guid>6</guid>
-      <pubDate>Mon, 22 Dec 2025 13:45:14 +0700</pubDate>
-      <description>Pasien yang pernah divaksin Covid-19 tidak perlu menjalani tes D-dimer secara rutin.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/22/id_1449165/1449165_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tiga Imigran Gelap Ditangkap di Spanyol saat Menyamar sebagai Domba</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tiga-imigran-gelap-ditangkap-di-spanyol-saat-menyamar-sebagai-domba-2101207</link>
-      <guid>7</guid>
-      <pubDate>Mon, 22 Dec 2025 12:56:01 +0700</pubDate>
-      <description>Video itu dibuat oleh kreator konten Indonesia pada tahun 2024, bukan di Spanyol.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/22/id_1449147/1449147_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Mobil Mantan Menkes Siti Fadilah Supari Meledak karena Bom di Tol Jakarta-Cikampek</title>
-      <link>https://www.tempo.co/cekfakta/keliru-mobil-mantan-menkes-siti-fadilah-supari-meledak-karena-bom-di-tol-jakarta-cikampek-2100486</link>
-      <guid>8</guid>
-      <pubDate>Fri, 19 Dec 2025 13:30:39 +0700</pubDate>
-      <description>Video terdiri dari gabungan rekaman kecelakaan di lokasi berbeda dan hasil manipulasi menggunakan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/19/id_1448658/1448658_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video TNI dan Gajah Selamatkan Harimau di Tengah Banjir Sumatera</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-tni-dan-gajah-selamatkan-harimau-di-tengah-banjir-sumatera-2100469</link>
-      <guid>9</guid>
-      <pubDate>Fri, 19 Dec 2025 12:59:11 +0700</pubDate>
-      <description>Video yang beredar dibuat menggunakan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/19/id_1448650/1448650_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
