@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 04 Jan 2026 05:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 05:31:37 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Seorang Ibu di Kalimantan Ditangkap karena Mencuri Seekor Ikan</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-seorang-ibu-di-kalimantan-ditangkap-karena-mencuri-seekor-ikan-2104456</link>
+      <guid>1</guid>
+      <pubDate>Mon, 05 Jan 2026 10:26:15 +0700</pubDate>
+      <description>Pelaku pencurian ikan itu adalah remaja laki-laki dan telah diselesaikan secara adat.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/05/id_1451527/1451527_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Hotman Paris Merekomendasikan Situs Judi Rakyat JP</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-hotman-paris-merekomendasikan-situs-judi-rakyat-jp-2104416</link>
+      <guid>2</guid>
+      <pubDate>Mon, 05 Jan 2026 07:00:00 +0700</pubDate>
+      <description>Video yang beredar dibuat dengan akal imitasi, menggunakan klip asli Hotman Paris.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/04/id_1451423/1451423_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Rumah 3 Lantai Hanyut dalam Kondisi Utuh di Aceh</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-rumah-3-lantai-hanyut-dalam-kondisi-utuh-di-aceh-2103928</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Fri, 02 Jan 2026 16:51:32 +0700</pubDate>
       <description>Video dibuat menggunakan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/02/id_1451197/1451197_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: PBB Tetapkan Banjir Bandang Sumatera Sebagai Bencana Internasional</title>
       <link>https://www.tempo.co/cekfakta/keliru-pbb-tetapkan-banjir-bandang-sumatera-sebagai-bencana-internasional-2103916</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Fri, 02 Jan 2026 16:31:04 +0700</pubDate>
       <description>Tidak ada pernyataan PBB yang mengatakan banjir Sumatera sebagai bencana Internasional.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/02/id_1451188/1451188_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: TNI Bebaskan 600 Sandera Warga Palestina di Gaza</title>
       <link>https://www.tempo.co/cekfakta/keliru-tni-bebaskan-600-sandera-warga-palestina-di-gaza-2103780</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Fri, 02 Jan 2026 07:00:00 +0700</pubDate>
       <description>TNI tidak pernah melakukan operasi pembebasan sandera di Gaza</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450668/1450668_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Video Letusan Gunung Api Hayli Gubbi di Ethiopia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-letusan-gunung-api-hayli-gubbi-di-ethiopia-2103351</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Wed, 31 Dec 2025 07:10:00 +0700</pubDate>
       <description>Gunung Hayli Gubbi memang meletus pada 25 November 2025, tapi video yang beredar merupakan produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450656/1450656_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Sebagian Benar: Air Rebusan Mie Instan Berbahaya bagi Kesehatan</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-air-rebusan-mie-instan-berbahaya-bagi-kesehatan-2103350</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Wed, 31 Dec 2025 07:00:00 +0700</pubDate>
       <description>Air rebusan mie instan aman dikonsumsi dan tidak mengandung sisa lilin yang terlarut.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450637/1450637_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Memakai Bra Warna Hitam dan Saat Tidur Menyebabkan Kanker Payudara</title>
       <link>https://www.tempo.co/cekfakta/keliru-memakai-bra-warna-hitam-dan-saat-tidur-menyebabkan-kanker-payudara-2103096</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Tue, 30 Dec 2025 07:00:00 +0700</pubDate>
       <description>Tidak ada bukti dan korelasi ilmiah yang menyatakan bahwa warna, jenis, dan pemakaian bra dapat menyebabkan kanker payudara.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450537/1450537_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Kartu Prakerja 2025</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-kartu-prakerja-2025-2103093</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Tue, 30 Dec 2025 05:37:37 +0700</pubDate>
       <description>Tautan yang beredar bukan tautan resmi untuk layanan prakerja.</description>
       <thumbnail>https://statik.tempo.co/data/2025/12/30/id_1450539/1450539_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Penyitaan Bandara Ilegal IMIP</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-penyitaan-bandara-ilegal-imip-2102951</link>
-      <guid>8</guid>
-      <pubDate>Mon, 29 Dec 2025 14:24:30 +0700</pubDate>
-      <description>Peristiwa dalam video itu bukan penyitaan Bandara IMIP</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/29/id_1450427/1450427_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran Internet Rakyat Gratis 3 Bulan</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-internet-rakyat-gratis-3-bulan-2102941</link>
-      <guid>9</guid>
-      <pubDate>Mon, 29 Dec 2025 13:56:04 +0700</pubDate>
-      <description>PT Solusi Sinergi Digital Tbk (WIFI) atau Surge tidak menawarkan program gratis internet 3 bulan.</description>
-      <thumbnail>https://statik.tempo.co/data/2025/12/29/id_1450423/1450423_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
