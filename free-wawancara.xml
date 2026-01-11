@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 10 Jan 2026 05:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 05:21:10 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Wihaji: Jumlah Penduduk Indonesia Mentok pada 2070</title>
+      <link>https://www.tempo.co/wawancara/jumlah-penduduk-indonesia-2070-2106106</link>
+      <guid>1</guid>
+      <pubDate>Sun, 11 Jan 2026 08:05:00 +0700</pubDate>
+      <description>Kepala BKKBN Wihaji yakin jumlah penduduk Indonesia berhenti pada 2070. Laju pertumbuhan penduduk negatif.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/01/05/903590/903590_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>DJ Donny: Saya Mengkritik Pemerintah Berdasarkan Fakta</title>
       <link>https://www.tempo.co/wawancara/teror-bom-molotov-dj-donny-kritik-media-sosial-2104266</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
       <description>DJ Donny mendapatkan ancaman dan bom molotov. Rajin mengkritik kebijakan pemerintah lewat media sosial.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/03/903418/903418_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Yama Carlos: Teror Mengancam Kebebasan Berekspresi</title>
       <link>https://www.tempo.co/wawancara/yama-carlos-teror-parodi-bencana-sumatera-2104265</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
       <description>Yama Carlos mendapatkan ancaman setelah membuat konten parodi. Media sosial menjadi medium meluapkan keresahan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/03/903437/903437_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Teror Menguat di Media Sosial</title>
       <link>https://www.tempo.co/wawancara/teror-pengguna-media-sosial-kritik-kebijakan-2104267</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
       <description>Pembungkaman terhadap kebebasan berpendapat dan berekspresi makin marak. Teror akhir tahun bagi pengguna media sosial.</description>
       <thumbnail>https://images-tm.tempo.co/all/2019/03/09/715354/715354_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Setelah Reformasi, yang Utama Menjaga Supremasi Sipil</title>
       <link>https://www.tempo.co/wawancara/lemhannas-militerisasi-lembaga-sipil-2104219</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 04 Jan 2026 08:30:00 +0700</pubDate>
       <description>Menurut Gubernur Lemhannas, biaya pilkada langsung mahal. Ia juga setuju lembaga sipil dipegang tentara aktif.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/30/903167/903167_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Cara Gereja HKBP Menjaga Lingkungan</title>
       <link>https://www.tempo.co/wawancara/gereja-hkbp-menjaga-lingkungan-2102757</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 28 Dec 2025 15:00:00 +0700</pubDate>
       <description>Gereja HKBP berupaya memulihkan lingkungan rusak dengan reforestasi. Mendoktrin anggota jemaatnya untuk menjaga lingkungan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/27/902996/902996_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Ketua KPAI: Kita Sudah Butuh Satgas Nasional Perundungan</title>
       <link>https://www.tempo.co/wawancara/satgas-nasional-perundungan-sekolah-kpai-2102608</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
       <description>Penjelasan Ketua KPAI Margaret Aliyatul Maimunah perihal tren kekerasan di sekolah serta penanganan anak korban bencana.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902775/902775_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Eforus HKBP: Bencana Ekologi Berawal dari Krisis Spiritual</title>
       <link>https://www.tempo.co/wawancara/pandangan-hkbp-soal-bencana-sumatera-2102758</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0700</pubDate>
       <description>Eforus Huria Kristen Batak Protestan menyerukan penolakan bantuan dari perusak lingkungan. Tak mau menerima konsesi tambang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/27/902996/902996_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Cerita Sheila Dara Aisha Menyelami Karakter Sore</title>
       <link>https://www.tempo.co/wawancara/sheila-dara-aisha-film-sore-2101006</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 21 Dec 2025 15:00:00 +0700</pubDate>
       <description>Sheila Dara mengisahkan caranya memahami karakter Sore. Ia juga menjelaskan pandangannya soal eksploitasi pekerja film.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/11/21/900276/900276_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Pengalaman Berharga Sheila Dara di Kroasia</title>
-      <link>https://www.tempo.co/wawancara/pengalaman-berharga-sheila-di-kroasia-2101008</link>
-      <guid>9</guid>
-      <pubDate>Sun, 21 Dec 2025 15:00:00 +0700</pubDate>
-      <description>Cerita Sheila Dara Aisha tentang film Sore. Dua kali menang Piala Citra.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2023/02/25/824876/824876_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
