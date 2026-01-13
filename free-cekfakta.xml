@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 12 Jan 2026 05:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:21:27 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Video Erupsi Gunung Semeru Disertai Ledakan Api</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-video-erupsi-gunung-semeru-disertai-ledakan-api-2106643</link>
+      <guid>1</guid>
+      <pubDate>Tue, 13 Jan 2026 09:17:09 +0700</pubDate>
+      <description>Video yang beredar telah disunting menggunakan AI dari video aslinya.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453043/1453043_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Belum Ada Bukti: Campuran Daun Pegagan, Sirih, dan Kunyit Menyembuhkan Lumpuh Sebelah</title>
+      <link>https://www.tempo.co/cekfakta/belum-ada-bukti-campuran-daun-pegagan-sirih-dan-kunyit-menyembuhkan-lumpuh-sebelah-2106638</link>
+      <guid>2</guid>
+      <pubDate>Tue, 13 Jan 2026 08:52:55 +0700</pubDate>
+      <description>Kontribusi daun pegagan terhadap efek peningkatan kognitif masih perlu diteliti lebih lanjut.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453041/1453041_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tsunami Aceh 2004 Bagian dari Uji Coba Nuklir Amerika Serikat</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tsunami-aceh-2004-bagian-dari-uji-coba-nuklir-amerika-serikat-2106629</link>
+      <guid>3</guid>
+      <pubDate>Tue, 13 Jan 2026 08:32:12 +0700</pubDate>
+      <description>Seluruh klaim dalam narasi yang beredar terbantahkan dengan fakta dari sumber kredibel.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453038/1453038_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Video Pria yang Ditangkap karena Mencuri Susu untuk Anaknya</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-video-pria-yang-ditangkap-karena-mencuri-susu-untuk-anaknya-2106422</link>
+      <guid>4</guid>
+      <pubDate>Mon, 12 Jan 2026 15:09:29 +0700</pubDate>
+      <description>Pria dalam video itu ditangkap karena mencuri sepeda motor di Depok, bukan mencuri susu.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/12/id_1452890/1452890_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Warga Venezuela Turun ke Jalan Merayakan Penangkapan Presiden Maduro</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-warga-venezuela-turun-ke-jalan-merayakan-penangkapan-presiden-maduro-2106410</link>
+      <guid>5</guid>
+      <pubDate>Mon, 12 Jan 2026 14:44:36 +0700</pubDate>
+      <description>Video dibuat dengan manipulasi akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/12/id_1452876/1452876_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Virus Superflu Lebih Parah daripada Covid-19</title>
       <link>https://www.tempo.co/cekfakta/keliru-virus-superflu-lebih-parah-daripada-covid-19-2105728</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Fri, 09 Jan 2026 12:59:43 +0700</pubDate>
       <description>Gejala yang dialami penderita kasus positif Superflu di Indonesia tergolong ringan</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/09/id_1452424/1452424_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Keliru: Video Menteri Keuangan Purbaya Bagi-bagi Uang Rp50 Juta</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-menteri-keuangan-purbaya-bagi-bagi-uang-rp50-juta-2105722</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Fri, 09 Jan 2026 12:49:49 +0700</pubDate>
       <description>Video Menkeu Purbaya tersebut merupakan hasil manipulasi dengan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/09/id_1452414/1452414_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Foto Presiden Venezuela Berbaju Loreng dan Diborgol</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-presiden-venezuela-berbaju-loreng-dan-diborgol-2105395</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Thu, 08 Jan 2026 12:06:19 +0700</pubDate>
       <description>Foto Presiden Venezuela dengan tangan diborgol merupakan hasil suntingan.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/08/id_1452156/1452156_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Keliru: Video Tangis Haru Warga Venezuela Usai Presiden Maduro Ditangkap</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-tangis-haru-warga-venezuela-usai-presiden-maduro-ditangkap-2105385</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Thu, 08 Jan 2026 11:37:48 +0700</pubDate>
       <description>Video dibuat menggunakan manipulasi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/08/id_1452145/1452145_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Presiden Venezuela Nicolas Maduro di Dalam Pesawat Militer AS</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-presiden-venezuela-nicolas-maduro-di-dalam-pesawat-militer-as-2105382</link>
-      <guid>5</guid>
-      <pubDate>Thu, 08 Jan 2026 11:16:07 +0700</pubDate>
-      <description>Meski penculikan Maduro benar terjadi, tetapi foto yang beredar dibuat dengan teknologi AI.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/08/id_1452133/1452133_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Saat Pesawat Tempur Amerika Serang Venezuela</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-saat-pesawat-tempur-amerika-serang-venezuela-2105096</link>
-      <guid>6</guid>
-      <pubDate>Wed, 07 Jan 2026 11:44:54 +0700</pubDate>
-      <description>Video yang beredar berasal dari gim simulasi perang.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/07/id_1451945/1451945_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Salju Turun di Indonesia pada 18 Januari 2026</title>
-      <link>https://www.tempo.co/cekfakta/keliru-salju-turun-di-indonesia-pada-18-januari-2026-2105056</link>
-      <guid>7</guid>
-      <pubDate>Wed, 07 Jan 2026 11:13:54 +0700</pubDate>
-      <description>Indonesia merupakan negara tropis yang atmosfernya tidak mendukung terjadinya salju.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/07/id_1451936/1451936_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Penangkapan Presiden Venezuela yang Berjaket Putih dengan Bercak Darah</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-penangkapan-presiden-venezuela-yang-berjaket-putih-dengan-bercak-darah-2105047</link>
-      <guid>8</guid>
-      <pubDate>Wed, 07 Jan 2026 10:55:11 +0700</pubDate>
-      <description>Foto-foto yang beredar dibuat menggunakan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/07/id_1451927/1451927_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Penangkapan Presiden Venezuela Nicolas Maduro</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-penangkapan-presiden-venezuela-nicolas-maduro-2104840</link>
-      <guid>9</guid>
-      <pubDate>Tue, 06 Jan 2026 15:16:17 +0700</pubDate>
-      <description>Foto Presiden Venezuela yang beredar itu buatan AI.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/06/id_1451801/1451801_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
