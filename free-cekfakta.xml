@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 19 Jan 2026 05:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 05:24:36 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran CPNS Tahun 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-cpns-tahun-2026-2108418</link>
+      <guid>1</guid>
+      <pubDate>Tue, 20 Jan 2026 10:39:37 +0700</pubDate>
+      <description>Belum ada pengumuman resmi dari pemerintah soal formasi pendaftaran CPNS 2026.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454300/1454300_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Meletakkan Es Batu di Sela Jari Menyembuhkan Sakit Kepala</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-meletakkan-es-batu-di-sela-jari-menyembuhkan-sakit-kepala-2108411</link>
+      <guid>2</guid>
+      <pubDate>Tue, 20 Jan 2026 10:29:41 +0700</pubDate>
+      <description>Metode ini justru berisiko memicu nyeri kepala sebelah yang lebih hebat bagi sebagian orang.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454297/1454297_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Garuda Indonesia Angkat Khairun Nisa Menjadi Pramugari</title>
+      <link>https://www.tempo.co/cekfakta/keliru-garuda-indonesia-angkat-khairun-nisa-menjadi-pramugari-2108197</link>
+      <guid>3</guid>
+      <pubDate>Mon, 19 Jan 2026 14:05:48 +0700</pubDate>
+      <description>Garuda Indonesia membantah telah mengangkat Khairun Nisa sebagai pramugari di maskapainya.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454143/1454143_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: NASA Tak Lagi Meneliti Laut Sejak 1978</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-nasa-tak-lagi-meneliti-laut-sejak-1978-2108193</link>
+      <guid>4</guid>
+      <pubDate>Mon, 19 Jan 2026 13:54:36 +0700</pubDate>
+      <description>NASA tidak berhenti meneliti laut sebagai bagian observasi Bumi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454141/1454141_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Badai Tornado Berkecepatan 195 Km Melanda Sidoarjo 10 Januari 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-badai-tornado-berkecepatan-195-km-melanda-sidoarjo-10-januari-2026-2108181</link>
+      <guid>5</guid>
+      <pubDate>Mon, 19 Jan 2026 13:14:53 +0700</pubDate>
+      <description>Tidak ada badai tornado berkecepatan 195 kilometer di Sidoarjo pada 10 Januari 2026.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454131/1454131_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Jutaan Rakyat Berbaju Hitam Mendukung Rezim Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-jutaan-rakyat-berbaju-hitam-mendukung-rezim-iran-2107244</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Thu, 15 Jan 2026 09:28:19 +0700</pubDate>
       <description>Video tersebut dibuat dengan akal imitasi (AI).</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/15/id_1453449/1453449_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Menyesatkan: Nadiem Makarim Setor Uang Rp 450 T ke Jokowi</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-nadiem-makarim-setor-uang-rp-450-t-ke-jokowi-2107235</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Thu, 15 Jan 2026 09:05:17 +0700</pubDate>
       <description>Nadiem tidak pernah menyatakan pernah menyerahkan Rp 450 T ke Jokowi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/15/id_1453444/1453444_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Video Aksi Membawa Bendera Israel di Surabaya</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-aksi-membawa-bendera-israel-di-surabaya-2106974</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Wed, 14 Jan 2026 12:10:21 +0700</pubDate>
       <description>Video yang beredar tersebut dibuat dengan akal imitasi (AI).</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/14/id_1453260/1453260_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Keliru: Laut Natuna Utara Jadi Jaminan Utang Kereta Cepat Whoosh</title>
       <link>https://www.tempo.co/cekfakta/keliru-laut-natuna-utara-jadi-jaminan-utang-kereta-cepat-whoosh-2106970</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Wed, 14 Jan 2026 11:47:11 +0700</pubDate>
       <description>Laut Natuna Utara bukan sebagai jaminan proyek pembangunan kereta cepat Jakarta-Bandung Whoosh.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/14/id_1453250/1453250_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Erupsi Gunung Semeru Disertai Ledakan Api</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-erupsi-gunung-semeru-disertai-ledakan-api-2106643</link>
-      <guid>5</guid>
-      <pubDate>Tue, 13 Jan 2026 09:17:09 +0700</pubDate>
-      <description>Video yang beredar telah disunting menggunakan AI dari video aslinya.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453043/1453043_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Belum Ada Bukti: Campuran Daun Pegagan, Sirih, dan Kunyit Menyembuhkan Lumpuh Sebelah</title>
-      <link>https://www.tempo.co/cekfakta/belum-ada-bukti-campuran-daun-pegagan-sirih-dan-kunyit-menyembuhkan-lumpuh-sebelah-2106638</link>
-      <guid>6</guid>
-      <pubDate>Tue, 13 Jan 2026 08:52:55 +0700</pubDate>
-      <description>Kontribusi daun pegagan terhadap efek peningkatan kognitif masih perlu diteliti lebih lanjut.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453041/1453041_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tsunami Aceh 2004 Bagian dari Uji Coba Nuklir Amerika Serikat</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tsunami-aceh-2004-bagian-dari-uji-coba-nuklir-amerika-serikat-2106629</link>
-      <guid>7</guid>
-      <pubDate>Tue, 13 Jan 2026 08:32:12 +0700</pubDate>
-      <description>Seluruh klaim dalam narasi yang beredar terbantahkan dengan fakta dari sumber kredibel.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/13/id_1453038/1453038_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Pria yang Ditangkap karena Mencuri Susu untuk Anaknya</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-pria-yang-ditangkap-karena-mencuri-susu-untuk-anaknya-2106422</link>
-      <guid>8</guid>
-      <pubDate>Mon, 12 Jan 2026 15:09:29 +0700</pubDate>
-      <description>Pria dalam video itu ditangkap karena mencuri sepeda motor di Depok, bukan mencuri susu.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/12/id_1452890/1452890_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Warga Venezuela Turun ke Jalan Merayakan Penangkapan Presiden Maduro</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-warga-venezuela-turun-ke-jalan-merayakan-penangkapan-presiden-maduro-2106410</link>
-      <guid>9</guid>
-      <pubDate>Mon, 12 Jan 2026 14:44:36 +0700</pubDate>
-      <description>Video dibuat dengan manipulasi akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/12/id_1452876/1452876_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
