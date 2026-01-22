@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 21 Jan 2026 05:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 05:24:08 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Manusia Berbadan Kuda di Tengah Hutan Kalimantan</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-manusia-berbadan-kuda-di-tengah-hutan-kalimantan-2109001</link>
+      <guid>1</guid>
+      <pubDate>Thu, 22 Jan 2026 10:39:27 +0700</pubDate>
+      <description>Video dibuat dengan manipulasi akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/22/id_1454710/1454710_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Sebagian Benar: Foto-foto Pesawat Hilang 28 Tahun dan Ditemukan oleh Pencari Burung Walet</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-foto-foto-pesawat-hilang-28-tahun-dan-ditemukan-oleh-pencari-burung-walet-2108772</link>
+      <guid>2</guid>
+      <pubDate>Wed, 21 Jan 2026 13:25:38 +0700</pubDate>
+      <description>Sebagian foto tidak memiliki keterkaitan dengan peristiwa pesawat hilang dan berasal dari lokasi yang berbeda-beda.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454542/1454542_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Foto Korban Pesawat ATR 42-500 yang Ditemukan Selamat</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-korban-pesawat-atr-42-500-yang-ditemukan-selamat-2108724</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 21 Jan 2026 10:44:10 +0700</pubDate>
       <description>Foto itu merupakan korban kecelakaan pesawat di Binuang, Kalimantan Utara, pada Jumat, 8 Maret 2024.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454501/1454501_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Donald Trump Berencana Memindahkan 1 Juta Warga Israel ke Papua</title>
       <link>https://www.tempo.co/cekfakta/keliru-donald-trump-berencana-memindahkan-1-juta-warga-israel-ke-papua-2108468</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Tue, 20 Jan 2026 13:20:56 +0700</pubDate>
       <description>Tidak ada bukti valid yang mendukung rencana Donald Trump untuk merelokasi satu juta warga Israel ke Papua, Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454323/1454323_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran CPNS Tahun 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-cpns-tahun-2026-2108418</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Tue, 20 Jan 2026 10:39:37 +0700</pubDate>
       <description>Belum ada pengumuman resmi dari pemerintah soal formasi pendaftaran CPNS 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454300/1454300_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Menyesatkan: Meletakkan Es Batu di Sela Jari Menyembuhkan Sakit Kepala</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-meletakkan-es-batu-di-sela-jari-menyembuhkan-sakit-kepala-2108411</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 20 Jan 2026 10:29:41 +0700</pubDate>
       <description>Metode ini justru berisiko memicu nyeri kepala sebelah yang lebih hebat bagi sebagian orang.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454297/1454297_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Garuda Indonesia Angkat Khairun Nisa Menjadi Pramugari</title>
       <link>https://www.tempo.co/cekfakta/keliru-garuda-indonesia-angkat-khairun-nisa-menjadi-pramugari-2108197</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Mon, 19 Jan 2026 14:05:48 +0700</pubDate>
       <description>Garuda Indonesia membantah telah mengangkat Khairun Nisa sebagai pramugari di maskapainya.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454143/1454143_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Menyesatkan: NASA Tak Lagi Meneliti Laut Sejak 1978</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-nasa-tak-lagi-meneliti-laut-sejak-1978-2108193</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 19 Jan 2026 13:54:36 +0700</pubDate>
       <description>NASA tidak berhenti meneliti laut sebagai bagian observasi Bumi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454141/1454141_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Badai Tornado Berkecepatan 195 Km Melanda Sidoarjo 10 Januari 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-badai-tornado-berkecepatan-195-km-melanda-sidoarjo-10-januari-2026-2108181</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Mon, 19 Jan 2026 13:14:53 +0700</pubDate>
       <description>Tidak ada badai tornado berkecepatan 195 kilometer di Sidoarjo pada 10 Januari 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454131/1454131_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Jutaan Rakyat Berbaju Hitam Mendukung Rezim Iran</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-jutaan-rakyat-berbaju-hitam-mendukung-rezim-iran-2107244</link>
-      <guid>8</guid>
-      <pubDate>Thu, 15 Jan 2026 09:28:19 +0700</pubDate>
-      <description>Video tersebut dibuat dengan akal imitasi (AI).</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/15/id_1453449/1453449_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Nadiem Makarim Setor Uang Rp 450 T ke Jokowi</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-nadiem-makarim-setor-uang-rp-450-t-ke-jokowi-2107235</link>
-      <guid>9</guid>
-      <pubDate>Thu, 15 Jan 2026 09:05:17 +0700</pubDate>
-      <description>Nadiem tidak pernah menyatakan pernah menyerahkan Rp 450 T ke Jokowi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/15/id_1453444/1453444_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
