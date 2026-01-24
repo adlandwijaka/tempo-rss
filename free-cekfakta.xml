@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 23 Jan 2026 05:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 05:17:35 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Pemadaman Internet di Iran karena Serangan Siber dari Elite Global</title>
+      <link>https://www.tempo.co/cekfakta/keliru-pemadaman-internet-di-iran-karena-serangan-siber-dari-elite-global-2109402</link>
+      <guid>1</guid>
+      <pubDate>Fri, 23 Jan 2026 16:38:48 +0700</pubDate>
+      <description>Pemadaman internet di Iran merupakan respons pemerintah atas gelombang protes yang meluas.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454990/1454990_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: World Bank Menyatakan Indonesia Negara Termiskin Kedua di Dunia pada 2025</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-world-bank-menyatakan-indonesia-negara-termiskin-kedua-di-dunia-pada-2025-2109396</link>
+      <guid>2</guid>
+      <pubDate>Fri, 23 Jan 2026 16:21:07 +0700</pubDate>
+      <description>World Bank tidak pernah mengeluarkan peringkat negara termiskin secara resmi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454985/1454985_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Narasi Tidak Ada Demonstran Anti Pemerintah yang Tewas di Iran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-narasi-tidak-ada-demonstran-anti-pemerintah-yang-tewas-di-iran-2109375</link>
+      <guid>3</guid>
+      <pubDate>Fri, 23 Jan 2026 15:32:55 +0700</pubDate>
+      <description>Sumber-sumber langsung dari layanan kesehatan dan otoritas Iran menunjukkan jumlah mereka yang tewas saat demo di Iran.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454966/1454966_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: PBB akan Memindahkan Kantornya ke Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-pbb-akan-memindahkan-kantornya-ke-indonesia-2109055</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Thu, 22 Jan 2026 13:17:00 +0700</pubDate>
       <description>Tidak ada rencana pemindahan kantor pusat PBB ke Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/22/id_1454731/1454731_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Video Manusia Berbadan Kuda di Tengah Hutan Kalimantan</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-manusia-berbadan-kuda-di-tengah-hutan-kalimantan-2109001</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Thu, 22 Jan 2026 10:39:27 +0700</pubDate>
       <description>Video dibuat dengan manipulasi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/22/id_1454710/1454710_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Sebagian Benar: Foto-foto Pesawat Hilang 28 Tahun dan Ditemukan oleh Pencari Burung Walet</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-foto-foto-pesawat-hilang-28-tahun-dan-ditemukan-oleh-pencari-burung-walet-2108772</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Wed, 21 Jan 2026 13:25:38 +0700</pubDate>
       <description>Sebagian foto tidak memiliki keterkaitan dengan peristiwa pesawat hilang dan berasal dari lokasi yang berbeda-beda.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454542/1454542_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Foto Korban Pesawat ATR 42-500 yang Ditemukan Selamat</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-korban-pesawat-atr-42-500-yang-ditemukan-selamat-2108724</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Wed, 21 Jan 2026 10:44:10 +0700</pubDate>
       <description>Foto itu merupakan korban kecelakaan pesawat di Binuang, Kalimantan Utara, pada Jumat, 8 Maret 2024.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454501/1454501_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Donald Trump Berencana Memindahkan 1 Juta Warga Israel ke Papua</title>
       <link>https://www.tempo.co/cekfakta/keliru-donald-trump-berencana-memindahkan-1-juta-warga-israel-ke-papua-2108468</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Tue, 20 Jan 2026 13:20:56 +0700</pubDate>
       <description>Tidak ada bukti valid yang mendukung rencana Donald Trump untuk merelokasi satu juta warga Israel ke Papua, Indonesia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454323/1454323_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: Tautan Pendaftaran CPNS Tahun 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-cpns-tahun-2026-2108418</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Tue, 20 Jan 2026 10:39:37 +0700</pubDate>
       <description>Belum ada pengumuman resmi dari pemerintah soal formasi pendaftaran CPNS 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454300/1454300_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Meletakkan Es Batu di Sela Jari Menyembuhkan Sakit Kepala</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-meletakkan-es-batu-di-sela-jari-menyembuhkan-sakit-kepala-2108411</link>
-      <guid>7</guid>
-      <pubDate>Tue, 20 Jan 2026 10:29:41 +0700</pubDate>
-      <description>Metode ini justru berisiko memicu nyeri kepala sebelah yang lebih hebat bagi sebagian orang.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/20/id_1454297/1454297_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Garuda Indonesia Angkat Khairun Nisa Menjadi Pramugari</title>
-      <link>https://www.tempo.co/cekfakta/keliru-garuda-indonesia-angkat-khairun-nisa-menjadi-pramugari-2108197</link>
-      <guid>8</guid>
-      <pubDate>Mon, 19 Jan 2026 14:05:48 +0700</pubDate>
-      <description>Garuda Indonesia membantah telah mengangkat Khairun Nisa sebagai pramugari di maskapainya.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454143/1454143_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: NASA Tak Lagi Meneliti Laut Sejak 1978</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-nasa-tak-lagi-meneliti-laut-sejak-1978-2108193</link>
-      <guid>9</guid>
-      <pubDate>Mon, 19 Jan 2026 13:54:36 +0700</pubDate>
-      <description>NASA tidak berhenti meneliti laut sebagai bagian observasi Bumi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/19/id_1454141/1454141_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
