@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 27 Jan 2026 05:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:23:35 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Bumi Kehilangan Gravitasi Selama 7 Detik pada 12 Agustus 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-bumi-kehilangan-gravitasi-selama-7-detik-pada-12-agustus-2026-2110586</link>
+      <guid>1</guid>
+      <pubDate>Wed, 28 Jan 2026 10:50:42 +0700</pubDate>
+      <description>https://x.com/KangManto123/status/2014611552507462074</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455786/1455786_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Modifikasi Cuaca 2026 Sebarkan Racun Chemtrail</title>
+      <link>https://www.tempo.co/cekfakta/keliru-modifikasi-cuaca-2026-sebarkan-racun-chemtrail-2110583</link>
+      <guid>2</guid>
+      <pubDate>Wed, 28 Jan 2026 10:39:19 +0700</pubDate>
+      <description>https://www.instagram.com/p/DT1RlDfk7Rh/</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455780/1455780_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Menghilangkan Nyeri Gigi Berlubang dengan Bubuk Cengkeh Bakar</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-menghilangkan-nyeri-gigi-berlubang-dengan-bubuk-cengkeh-bakar-2110568</link>
+      <guid>3</guid>
+      <pubDate>Wed, 28 Jan 2026 09:57:50 +0700</pubDate>
+      <description>Penggunaan cengkeh secara langsung seperti yang dianjurkan dalam video tidak aman dan tidak tepat untuk mengobati sakit gigi berlubang.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455767/1455767_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Pasukan Inggris yang Diterjunkan Ke Iran 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-pasukan-inggris-yang-diterjunkan-ke-iran-2026-2110562</link>
+      <guid>4</guid>
+      <pubDate>Wed, 28 Jan 2026 09:35:06 +0700</pubDate>
+      <description>Konten yang beredar itu mencatut foto kunjungan resmi Raja Inggris untuk memalsukan narasi keterlibatan militer di Iran.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455755/1455755_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: AS Batal Serang Iran karena Ada 20 Ribu Personel TNI di Timur Tengah</title>
       <link>https://www.tempo.co/cekfakta/keliru-as-batal-serang-iran-karena-ada-20-ribu-personel-tni-di-timur-tengah-2109956</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Mon, 26 Jan 2026 11:04:18 +0700</pubDate>
       <description>Sebagian visual dibuat menggunakan AI.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/26/id_1455343/1455343_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: Konvoi Kapal Perang Eropa untuk Amankan Greenland dari Serangan AS</title>
       <link>https://www.tempo.co/cekfakta/keliru-konvoi-kapal-perang-eropa-untuk-amankan-greenland-dari-serangan-as-2109909</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Mon, 26 Jan 2026 09:13:45 +0700</pubDate>
       <description>Konten yang beredar merupakan hasil manipulasi AI menggunakan foto pawai alutsista Rusia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/26/id_1455302/1455302_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Keliru: Pemadaman Internet di Iran karena Serangan Siber dari Elite Global</title>
       <link>https://www.tempo.co/cekfakta/keliru-pemadaman-internet-di-iran-karena-serangan-siber-dari-elite-global-2109402</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Fri, 23 Jan 2026 16:38:48 +0700</pubDate>
       <description>Pemadaman internet di Iran merupakan respons pemerintah atas gelombang protes yang meluas.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454990/1454990_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Menyesatkan: World Bank Menyatakan Indonesia Negara Termiskin Kedua di Dunia pada 2025</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-world-bank-menyatakan-indonesia-negara-termiskin-kedua-di-dunia-pada-2025-2109396</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Fri, 23 Jan 2026 16:21:07 +0700</pubDate>
       <description>World Bank tidak pernah mengeluarkan peringkat negara termiskin secara resmi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454985/1454985_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: Narasi Tidak Ada Demonstran Anti Pemerintah yang Tewas di Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-narasi-tidak-ada-demonstran-anti-pemerintah-yang-tewas-di-iran-2109375</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Fri, 23 Jan 2026 15:32:55 +0700</pubDate>
       <description>Sumber-sumber langsung dari layanan kesehatan dan otoritas Iran menunjukkan jumlah mereka yang tewas saat demo di Iran.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454966/1454966_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: PBB akan Memindahkan Kantornya ke Indonesia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-pbb-akan-memindahkan-kantornya-ke-indonesia-2109055</link>
-      <guid>6</guid>
-      <pubDate>Thu, 22 Jan 2026 13:17:00 +0700</pubDate>
-      <description>Tidak ada rencana pemindahan kantor pusat PBB ke Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/22/id_1454731/1454731_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Manusia Berbadan Kuda di Tengah Hutan Kalimantan</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-manusia-berbadan-kuda-di-tengah-hutan-kalimantan-2109001</link>
-      <guid>7</guid>
-      <pubDate>Thu, 22 Jan 2026 10:39:27 +0700</pubDate>
-      <description>Video dibuat dengan manipulasi akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/22/id_1454710/1454710_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Foto-foto Pesawat Hilang 28 Tahun dan Ditemukan oleh Pencari Burung Walet</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-foto-foto-pesawat-hilang-28-tahun-dan-ditemukan-oleh-pencari-burung-walet-2108772</link>
-      <guid>8</guid>
-      <pubDate>Wed, 21 Jan 2026 13:25:38 +0700</pubDate>
-      <description>Sebagian foto tidak memiliki keterkaitan dengan peristiwa pesawat hilang dan berasal dari lokasi yang berbeda-beda.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454542/1454542_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Korban Pesawat ATR 42-500 yang Ditemukan Selamat</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-korban-pesawat-atr-42-500-yang-ditemukan-selamat-2108724</link>
-      <guid>9</guid>
-      <pubDate>Wed, 21 Jan 2026 10:44:10 +0700</pubDate>
-      <description>Foto itu merupakan korban kecelakaan pesawat di Binuang, Kalimantan Utara, pada Jumat, 8 Maret 2024.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/21/id_1454501/1454501_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
