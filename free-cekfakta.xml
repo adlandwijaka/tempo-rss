@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 30 Jan 2026 05:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:34:34 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Foto Reza Arap Ditangkap Polisi Atas Kematian Lula Lahfah</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-foto-reza-arap-ditangkap-polisi-atas-kematian-lula-lahfah-2111261</link>
+      <guid>1</guid>
+      <pubDate>Fri, 30 Jan 2026 12:55:26 +0700</pubDate>
+      <description>Foto yang beredar merupakan hasil manipulasi menggunakan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/01/30/id_1456188/1456188_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Bagian Kepala hingga Kaki Ayam Tidak Boleh Dikonsumsi</title>
       <link>https://www.tempo.co/cekfakta/keliru-bagian-kepala-hingga-kaki-ayam-tidak-boleh-dikonsumsi-2111258</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Fri, 30 Jan 2026 12:39:02 +0700</pubDate>
       <description>Semua bagian ayam yang disebut dalam konten beredar tersebut, aman dikonsumsi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/30/id_1456185/1456185_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Menyesatkan: Amerika Serikat Ingin Menghapus Sertifikat Halal di Indonesia</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-amerika-serikat-ingin-menghapus-sertifikat-halal-di-indonesia-2111004</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Thu, 29 Jan 2026 15:40:36 +0700</pubDate>
       <description>Amerika Serikat memang sempat memprotes aturan halal Indonesia, namun kini kedua negara menyepakati kerja sama transparan.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/29/id_1456030/1456030_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Keliru: Bumi Kehilangan Gravitasi Selama 7 Detik pada 12 Agustus 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-bumi-kehilangan-gravitasi-selama-7-detik-pada-12-agustus-2026-2110586</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Wed, 28 Jan 2026 10:50:42 +0700</pubDate>
       <description>NASA memastikan bahwa bumi tidak akan kehilangan gravitasi pada 12 Agustus 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455786/1455786_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Keliru: Modifikasi Cuaca 2026 Sebarkan Racun Chemtrail</title>
       <link>https://www.tempo.co/cekfakta/keliru-modifikasi-cuaca-2026-sebarkan-racun-chemtrail-2110583</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Wed, 28 Jan 2026 10:39:19 +0700</pubDate>
       <description>https://www.instagram.com/p/DT1RlDfk7Rh/</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455780/1455780_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Menyesatkan: Menghilangkan Nyeri Gigi Berlubang dengan Bubuk Cengkeh Bakar</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-menghilangkan-nyeri-gigi-berlubang-dengan-bubuk-cengkeh-bakar-2110568</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Wed, 28 Jan 2026 09:57:50 +0700</pubDate>
       <description>Penggunaan cengkeh secara langsung seperti yang dianjurkan dalam video tidak aman dan tidak tepat untuk mengobati sakit gigi berlubang.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455767/1455767_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Keliru: Foto Pasukan Inggris yang Diterjunkan Ke Iran 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-pasukan-inggris-yang-diterjunkan-ke-iran-2026-2110562</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Wed, 28 Jan 2026 09:35:06 +0700</pubDate>
       <description>Konten yang beredar itu mencatut foto kunjungan resmi Raja Inggris untuk memalsukan narasi keterlibatan militer di Iran.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455755/1455755_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Keliru: AS Batal Serang Iran karena Ada 20 Ribu Personel TNI di Timur Tengah</title>
       <link>https://www.tempo.co/cekfakta/keliru-as-batal-serang-iran-karena-ada-20-ribu-personel-tni-di-timur-tengah-2109956</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Mon, 26 Jan 2026 11:04:18 +0700</pubDate>
       <description>Sebagian visual dibuat menggunakan AI.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/26/id_1455343/1455343_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Keliru: Konvoi Kapal Perang Eropa untuk Amankan Greenland dari Serangan AS</title>
       <link>https://www.tempo.co/cekfakta/keliru-konvoi-kapal-perang-eropa-untuk-amankan-greenland-dari-serangan-as-2109909</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Mon, 26 Jan 2026 09:13:45 +0700</pubDate>
       <description>Konten yang beredar merupakan hasil manipulasi AI menggunakan foto pawai alutsista Rusia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/01/26/id_1455302/1455302_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Pemadaman Internet di Iran karena Serangan Siber dari Elite Global</title>
-      <link>https://www.tempo.co/cekfakta/keliru-pemadaman-internet-di-iran-karena-serangan-siber-dari-elite-global-2109402</link>
-      <guid>9</guid>
-      <pubDate>Fri, 23 Jan 2026 16:38:48 +0700</pubDate>
-      <description>Pemadaman internet di Iran merupakan respons pemerintah atas gelombang protes yang meluas.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/23/id_1454990/1454990_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
