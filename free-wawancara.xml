@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 01 Feb 2026 05:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 05:59:27 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>PDIP yang Tak Galak Lagi</title>
+      <link>https://www.tempo.co/wawancara/alasan-pdip-tidak-jadi-partai-oposisi-2111696</link>
+      <guid>1</guid>
+      <pubDate>Sun, 01 Feb 2026 18:00:00 +0700</pubDate>
+      <description>Kenapa PDIP ogah menjadi partai oposisi? Sekretaris Jenderal PDIP Hasto Kristiyanto menjelaskannya dalam wawancara khusus.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2025/10/17/897868/897868_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Hasto Kristiyanto: Saya Keluar dengan Lebih Merunduk</title>
       <link>https://www.tempo.co/wawancara/amnesti-hasto-kristiyanto-pdip-2111540</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sat, 31 Jan 2026 14:30:00 +0700</pubDate>
       <description>PDIP memutuskan jadi partai penyeimbang pemerintah. Penjelasan Sekretaris Jenderal Hasto Kristiyanto menolak pilkada tak langsung.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/29/905365/905365_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Seandainya Saya Menjadi CPNS</title>
       <link>https://www.tempo.co/wawancara/wawancara-zudan-arif-fakrulloh-cpns-2109750</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 25 Jan 2026 10:30:00 +0700</pubDate>
       <description>Pemerintah akan membuka setidaknya 200 ribu posisi aparatur sipil negara tahun ini. Usia pensiun ASN akan diperpanjang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/21/904695/904695_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Kepala BKN Zudan Arif Fakrulloh: Banyak Sekali Titipan CPNS</title>
       <link>https://www.tempo.co/wawancara/kepala-bkn-cpns-titipan-2109635</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sat, 24 Jan 2026 17:00:00 +0700</pubDate>
       <description>Kepala BKN Zudan Arif Fakrulloh menjelaskan formasi pembukaan CPNS 2026 dan rencana perpanjangan usia pensiun ASN.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/21/904694/904694_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Setelah Pandji Pragiwaksono Dilaporkan ke Polisi</title>
       <link>https://www.tempo.co/wawancara/pandji-pragiwaksono-mens-rea-komedi-2107934</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 18 Jan 2026 08:30:00 +0700</pubDate>
       <description>Pandji dituding menista agama oleh sekelompok orang. Perlu memelihara akal sehat dan tertawa.</description>
       <thumbnail>https://images-tm.tempo.co/all/2024/12/22/877289/877289_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Pandji Pragiwaksono: Gue Cuma Ngelawak</title>
       <link>https://www.tempo.co/wawancara/wawancara-pandji-pragiwaksono-mens-rea-2107728</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sat, 17 Jan 2026 20:00:00 +0700</pubDate>
       <description>Cerita Pandji Pragiwaksono menyiapkan Mens Rea. &quot;Kalau kita merawat pelawak, pelawak akan merawat negeri ini,&quot; katanya.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/15/904259/904259_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Wihaji: Jumlah Penduduk Indonesia Mentok pada 2070</title>
       <link>https://www.tempo.co/wawancara/jumlah-penduduk-indonesia-2070-2106106</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 11 Jan 2026 08:05:00 +0700</pubDate>
       <description>Kepala BKKBN Wihaji yakin jumlah penduduk Indonesia berhenti pada 2070. Laju pertumbuhan penduduk negatif.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/05/903590/903590_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>DJ Donny: Saya Mengkritik Pemerintah Berdasarkan Fakta</title>
       <link>https://www.tempo.co/wawancara/teror-bom-molotov-dj-donny-kritik-media-sosial-2104266</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
       <description>DJ Donny mendapatkan ancaman dan bom molotov. Rajin mengkritik kebijakan pemerintah lewat media sosial.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/03/903418/903418_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Yama Carlos: Teror Mengancam Kebebasan Berekspresi</title>
       <link>https://www.tempo.co/wawancara/yama-carlos-teror-parodi-bencana-sumatera-2104265</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
       <description>Yama Carlos mendapatkan ancaman setelah membuat konten parodi. Media sosial menjadi medium meluapkan keresahan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/03/903437/903437_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Teror Menguat di Media Sosial</title>
-      <link>https://www.tempo.co/wawancara/teror-pengguna-media-sosial-kritik-kebijakan-2104267</link>
-      <guid>9</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0700</pubDate>
-      <description>Pembungkaman terhadap kebebasan berpendapat dan berekspresi makin marak. Teror akhir tahun bagi pengguna media sosial.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2019/03/09/715354/715354_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
