@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 04 Feb 2026 05:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 05:51:51 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Pembuatan Telur Palsu yang Dipasarkan sebagai Telur Asli</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-pembuatan-telur-palsu-yang-dipasarkan-sebagai-telur-asli-2112785</link>
+      <guid>1</guid>
+      <pubDate>Thu, 05 Feb 2026 12:19:04 +0700</pubDate>
+      <description>Video itu merupakan kompilasi proses pembuatan mainan menyerupai telur, pengawetan telur, dan pengepakan telur.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/05/id_1457161/1457161_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Sebagian Benar: Berkumur Secara Rutin Bisa Mencegah ISPA</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-berkumur-secara-rutin-bisa-mencegah-ispa-2112779</link>
+      <guid>2</guid>
+      <pubDate>Thu, 05 Feb 2026 11:49:46 +0700</pubDate>
+      <description>Selain berkumur, menyikat gigi dan membersihkan karang gigi secara rutin turut menjaga kesehatan mulut.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/05/id_1457157/1457157_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Menteri Keuangan Purbaya Bagikan Bansos untuk UMKM</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-menteri-keuangan-purbaya-bagikan-bansos-untuk-umkm-2112591</link>
+      <guid>3</guid>
+      <pubDate>Wed, 04 Feb 2026 17:10:00 +0700</pubDate>
+      <description>Video-video Menkeu Purbaya tersebut merupakan hasil manipulasi dengan akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1457055/1457055_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Klaim Daftar Barang Rumah Tangga yang dapat Sebabkan Kanker</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-daftar-barang-rumah-tangga-yang-dapat-sebabkan-kanker-2112592</link>
+      <guid>4</guid>
+      <pubDate>Wed, 04 Feb 2026 17:00:00 +0700</pubDate>
+      <description>Minimnya paparan membuat kaitan peralatan rumah tangga sebagai pemicu kanker nirmukti.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1457029/1457029_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Klaim Jaringan Listrik dan ATM Mati Serentak pada 20-27 Februari 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-klaim-jaringan-listrik-dan-atm-mati-serentak-pada-20-27-februari-2026-2112577</link>
+      <guid>5</guid>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 +0700</pubDate>
+      <description>Klaim penarikan uang dan kelumpuhan listrik selama tujuh hari terbukti nirmukti.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1456986/1456986_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Tiga Perempuan Ditahan karena Memperkosa Pria</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-tiga-perempuan-ditahan-karena-memperkosa-pria-2112198</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Tue, 03 Feb 2026 12:40:00 +0700</pubDate>
       <description>Tiga Perempuan dalam video itu ditahan karena terlibat kasus narkoba di Malaysia, bukan karena memperkosa laki-laki.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/03/id_1456765/1456765_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Keliru: Presiden Iran Tewas karena Ledakan Bom pada Januari 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-iran-tewas-karena-ledakan-bom-pada-januari-2026-2112196</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Tue, 03 Feb 2026 12:35:00 +0700</pubDate>
       <description>Presiden Iran Masoud dilaporkan masih beraktivitas hingga 2 Februari 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/03/id_1456763/1456763_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Mandi Pada Waktu Tertentu Bisa Sebabkan Penyakit</title>
       <link>https://www.tempo.co/cekfakta/keliru-mandi-pada-waktu-tertentu-bisa-sebabkan-penyakit-2111936</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Mon, 02 Feb 2026 13:54:51 +0700</pubDate>
       <description>Mandi pada jam-jam tersebut tidak memicu timbulnya penyakit tertentu.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/02/id_1456593/1456593_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Undian Berhadiah Bank BPD Jateng 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-undian-berhadiah-bank-bpd-jateng-2026-2111931</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Mon, 02 Feb 2026 13:45:18 +0700</pubDate>
       <description>Bank Jateng tidak pernah membuka pendaftaran program undian berhadiah secara daring</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/02/id_1456586/1456586_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Foto Reza Arap Ditangkap Polisi Atas Kematian Lula Lahfah</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-foto-reza-arap-ditangkap-polisi-atas-kematian-lula-lahfah-2111261</link>
-      <guid>5</guid>
-      <pubDate>Fri, 30 Jan 2026 12:55:26 +0700</pubDate>
-      <description>Foto yang beredar merupakan hasil manipulasi menggunakan akal imitasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/30/id_1456188/1456188_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Bagian Kepala hingga Kaki Ayam Tidak Boleh Dikonsumsi</title>
-      <link>https://www.tempo.co/cekfakta/keliru-bagian-kepala-hingga-kaki-ayam-tidak-boleh-dikonsumsi-2111258</link>
-      <guid>6</guid>
-      <pubDate>Fri, 30 Jan 2026 12:39:02 +0700</pubDate>
-      <description>Semua bagian ayam yang disebut dalam konten beredar tersebut, aman dikonsumsi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/30/id_1456185/1456185_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Amerika Serikat Ingin Menghapus Sertifikat Halal di Indonesia</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-amerika-serikat-ingin-menghapus-sertifikat-halal-di-indonesia-2111004</link>
-      <guid>7</guid>
-      <pubDate>Thu, 29 Jan 2026 15:40:36 +0700</pubDate>
-      <description>Amerika Serikat memang sempat memprotes aturan halal Indonesia, namun kini kedua negara menyepakati kerja sama transparan.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/29/id_1456030/1456030_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Bumi Kehilangan Gravitasi Selama 7 Detik pada 12 Agustus 2026</title>
-      <link>https://www.tempo.co/cekfakta/keliru-bumi-kehilangan-gravitasi-selama-7-detik-pada-12-agustus-2026-2110586</link>
-      <guid>8</guid>
-      <pubDate>Wed, 28 Jan 2026 10:50:42 +0700</pubDate>
-      <description>NASA memastikan bahwa bumi tidak akan kehilangan gravitasi pada 12 Agustus 2026.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455786/1455786_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Modifikasi Cuaca 2026 Sebarkan Racun Chemtrail</title>
-      <link>https://www.tempo.co/cekfakta/keliru-modifikasi-cuaca-2026-sebarkan-racun-chemtrail-2110583</link>
-      <guid>9</guid>
-      <pubDate>Wed, 28 Jan 2026 10:39:19 +0700</pubDate>
-      <description>Jejak putih pesawat saat prosedur modifikasi cuaca adalah contrails, bukan chemtrail.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/01/28/id_1455780/1455780_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
