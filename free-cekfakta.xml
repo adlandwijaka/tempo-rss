@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 05 Feb 2026 05:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 05:49:14 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Jokowi Berziarah ke Kuil Tirumala di India</title>
+      <link>https://www.tempo.co/cekfakta/keliru-jokowi-berziarah-ke-kuil-tirumala-di-india-2113107</link>
+      <guid>1</guid>
+      <pubDate>Fri, 06 Feb 2026 12:41:18 +0700</pubDate>
+      <description>Pria yang berziarah ke Kuil Tirumala tersebut bukan Jokowi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/06/id_1457377/1457377_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Pemerintah Bagikan Bantuan Melalui Situs Judi Gacor25</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-pemerintah-bagikan-bantuan-melalui-situs-judi-gacor25-2113101</link>
+      <guid>2</guid>
+      <pubDate>Fri, 06 Feb 2026 12:21:29 +0700</pubDate>
+      <description>Video tersebut telah disunting menggunakan akal imitasi (AI).</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/06/id_1457368/1457368_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Pembuatan Telur Palsu yang Dipasarkan sebagai Telur Asli</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pembuatan-telur-palsu-yang-dipasarkan-sebagai-telur-asli-2112785</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Thu, 05 Feb 2026 12:19:04 +0700</pubDate>
       <description>Video itu merupakan kompilasi proses pembuatan mainan menyerupai telur, pengawetan telur, dan pengepakan telur.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/05/id_1457161/1457161_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Sebagian Benar: Berkumur Secara Rutin Bisa Mencegah ISPA</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-berkumur-secara-rutin-bisa-mencegah-ispa-2112779</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Thu, 05 Feb 2026 11:49:46 +0700</pubDate>
       <description>Selain berkumur, menyikat gigi dan membersihkan karang gigi secara rutin turut menjaga kesehatan mulut.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/05/id_1457157/1457157_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Video Menteri Keuangan Purbaya Bagikan Bansos untuk UMKM</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-menteri-keuangan-purbaya-bagikan-bansos-untuk-umkm-2112591</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 04 Feb 2026 17:10:00 +0700</pubDate>
       <description>Video-video Menkeu Purbaya tersebut merupakan hasil manipulasi dengan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1457055/1457055_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Menyesatkan: Klaim Daftar Barang Rumah Tangga yang dapat Sebabkan Kanker</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-daftar-barang-rumah-tangga-yang-dapat-sebabkan-kanker-2112592</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0700</pubDate>
       <description>Minimnya paparan membuat kaitan peralatan rumah tangga sebagai pemicu kanker nirmukti.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1457029/1457029_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Klaim Jaringan Listrik dan ATM Mati Serentak pada 20-27 Februari 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-klaim-jaringan-listrik-dan-atm-mati-serentak-pada-20-27-februari-2026-2112577</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Wed, 04 Feb 2026 14:00:00 +0700</pubDate>
       <description>Klaim penarikan uang dan kelumpuhan listrik selama tujuh hari terbukti nirmukti.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/04/id_1456986/1456986_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Menyesatkan: Tiga Perempuan Ditahan karena Memperkosa Pria</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-tiga-perempuan-ditahan-karena-memperkosa-pria-2112198</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Tue, 03 Feb 2026 12:40:00 +0700</pubDate>
       <description>Tiga Perempuan dalam video itu ditahan karena terlibat kasus narkoba di Malaysia, bukan karena memperkosa laki-laki.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/03/id_1456765/1456765_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Presiden Iran Tewas karena Ledakan Bom pada Januari 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-iran-tewas-karena-ledakan-bom-pada-januari-2026-2112196</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Tue, 03 Feb 2026 12:35:00 +0700</pubDate>
       <description>Presiden Iran Masoud dilaporkan masih beraktivitas hingga 2 Februari 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/03/id_1456763/1456763_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Mandi Pada Waktu Tertentu Bisa Sebabkan Penyakit</title>
-      <link>https://www.tempo.co/cekfakta/keliru-mandi-pada-waktu-tertentu-bisa-sebabkan-penyakit-2111936</link>
-      <guid>8</guid>
-      <pubDate>Mon, 02 Feb 2026 13:54:51 +0700</pubDate>
-      <description>Mandi pada jam-jam tersebut tidak memicu timbulnya penyakit tertentu.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/02/id_1456593/1456593_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran Undian Berhadiah Bank BPD Jateng 2026</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-undian-berhadiah-bank-bpd-jateng-2026-2111931</link>
-      <guid>9</guid>
-      <pubDate>Mon, 02 Feb 2026 13:45:18 +0700</pubDate>
-      <description>Bank Jateng tidak pernah membuka pendaftaran program undian berhadiah secara daring</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/02/id_1456586/1456586_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
