@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 07 Feb 2026 05:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 05:57:37 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>PGI: Food Estate Mengorbankan Lumbung Pangan Orang Papua</title>
+      <link>https://www.tempo.co/wawancara/pgi-food-estate-merauke-konflik-papua-2113502</link>
+      <guid>1</guid>
+      <pubDate>Sun, 08 Feb 2026 08:30:00 +0700</pubDate>
+      <description>Ketua Umum PGI Jacklevyn Manuputty menjelaskan penolakannya terhadap food estate Merauke. Juga penanganan konflik Papua.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/02/07/906027/906027_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Bayu Risanto: Iman dan Ilmu Pengetahuan Berjalan Beriringan</title>
       <link>https://www.tempo.co/wawancara/nama-asteroid-bayu-risanto-vatikan-2111895</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Mon, 02 Feb 2026 13:00:00 +0700</pubDate>
       <description>Bayu Risanto menjadi peneliti atmosfer di Vatikan. Namanya diabadikan di salah satu asteorid.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/01/905620/905620_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Di Balik Nama Asteroid Bayu Risanto</title>
       <link>https://www.tempo.co/wawancara/bayu-risanto-riset-atmosfer-vatikan-2111896</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Mon, 02 Feb 2026 13:00:00 +0700</pubDate>
       <description>Bayu Risanto tak terlibat dalam riset asteroid yang dilabeli namanya. Mengkritik sikap uskup yang mendukung deforestasi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/01/905616/905616_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>PDIP yang Tak Galak Lagi</title>
       <link>https://www.tempo.co/wawancara/alasan-pdip-tidak-jadi-partai-oposisi-2111696</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 01 Feb 2026 18:00:00 +0700</pubDate>
       <description>Kenapa PDIP ogah menjadi partai oposisi? Sekretaris Jenderal PDIP Hasto Kristiyanto menjelaskannya dalam wawancara khusus.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/10/17/897868/897868_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Hasto Kristiyanto: Saya Keluar dengan Lebih Merunduk</title>
       <link>https://www.tempo.co/wawancara/amnesti-hasto-kristiyanto-pdip-2111540</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sat, 31 Jan 2026 14:30:00 +0700</pubDate>
       <description>PDIP memutuskan jadi partai penyeimbang pemerintah. Penjelasan Sekretaris Jenderal Hasto Kristiyanto menolak pilkada tak langsung.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/29/905365/905365_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Seandainya Saya Menjadi CPNS</title>
       <link>https://www.tempo.co/wawancara/wawancara-zudan-arif-fakrulloh-cpns-2109750</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 25 Jan 2026 10:30:00 +0700</pubDate>
       <description>Pemerintah akan membuka setidaknya 200 ribu posisi aparatur sipil negara tahun ini. Usia pensiun ASN akan diperpanjang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/21/904695/904695_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Kepala BKN Zudan Arif Fakrulloh: Banyak Sekali Titipan CPNS</title>
       <link>https://www.tempo.co/wawancara/kepala-bkn-cpns-titipan-2109635</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sat, 24 Jan 2026 17:00:00 +0700</pubDate>
       <description>Kepala BKN Zudan Arif Fakrulloh menjelaskan formasi pembukaan CPNS 2026 dan rencana perpanjangan usia pensiun ASN.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/21/904694/904694_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Setelah Pandji Pragiwaksono Dilaporkan ke Polisi</title>
       <link>https://www.tempo.co/wawancara/pandji-pragiwaksono-mens-rea-komedi-2107934</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 18 Jan 2026 08:30:00 +0700</pubDate>
       <description>Pandji dituding menista agama oleh sekelompok orang. Perlu memelihara akal sehat dan tertawa.</description>
       <thumbnail>https://images-tm.tempo.co/all/2024/12/22/877289/877289_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Pandji Pragiwaksono: Gue Cuma Ngelawak</title>
       <link>https://www.tempo.co/wawancara/wawancara-pandji-pragiwaksono-mens-rea-2107728</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sat, 17 Jan 2026 20:00:00 +0700</pubDate>
       <description>Cerita Pandji Pragiwaksono menyiapkan Mens Rea. &quot;Kalau kita merawat pelawak, pelawak akan merawat negeri ini,&quot; katanya.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/01/15/904259/904259_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Wihaji: Jumlah Penduduk Indonesia Mentok pada 2070</title>
-      <link>https://www.tempo.co/wawancara/jumlah-penduduk-indonesia-2070-2106106</link>
-      <guid>9</guid>
-      <pubDate>Sun, 11 Jan 2026 08:05:00 +0700</pubDate>
-      <description>Kepala BKKBN Wihaji yakin jumlah penduduk Indonesia berhenti pada 2070. Laju pertumbuhan penduduk negatif.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/01/05/903590/903590_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
