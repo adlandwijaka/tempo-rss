@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 19 Feb 2026 05:55:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 05:49:40 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran Bansos di Dalam KTP Senilai Rp 2,5 Juta</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-bansos-di-dalam-ktp-senilai-rp-2-5-juta-2116455</link>
+      <guid>1</guid>
+      <pubDate>Fri, 20 Feb 2026 10:46:00 +0700</pubDate>
+      <description>Kemensos tidak pernah mengeluarkan informasi bansos KTP.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/20/id_1459824/1459824_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Klaim Pandemi Covid-19 Tidak Pernah Terjadi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-klaim-pandemi-covid-19-tidak-pernah-terjadi-2116449</link>
+      <guid>2</guid>
+      <pubDate>Fri, 20 Feb 2026 10:25:28 +0700</pubDate>
+      <description>Pernyataan yang mencatut mantan Wakil Presiden Direktur Pfizer itu tidak sesuai fakta ilmiah.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/20/id_1459810/1459810_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Epstein Files Ungkap Joe Biden Meninggal Tahun 2019</title>
       <link>https://www.tempo.co/cekfakta/keliru-epstein-files-ungkap-joe-biden-meninggal-tahun-2019-2116170</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Thu, 19 Feb 2026 10:54:01 +0700</pubDate>
       <description>Tidak ada bukti Joe Biden telah dieksekusi pada 2019. Dokumen Epstein Files hanya memuat ulasan pemilihan presiden Amerika Serikat 2019.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/19/id_1459615/1459615_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Video Menteri Keuangan Purbaya Minta Pengesahan RUU Perampasan Aset</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-menteri-keuangan-purbaya-minta-pengesahan-ruu-perampasan-aset-2115911</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 18 Feb 2026 12:08:05 +0700</pubDate>
       <description>Video yang beredar dibuat menggunakan akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/18/id_1459450/1459450_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Video Serangan TNI Menyebabkan 170 Tentara Israel Tewas</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-serangan-tni-menyebabkan-170-tentara-israel-tewas-2115907</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 18 Feb 2026 11:51:45 +0700</pubDate>
       <description>Video yang beredar hasil rekayasa akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/18/id_1459441/1459441_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Arti Nama Vaksin AstraZeneca adalah Jalan Menuju Kematian</title>
       <link>https://www.tempo.co/cekfakta/keliru-arti-nama-vaksin-astrazeneca-adalah-jalan-menuju-kematian-2115010</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Fri, 13 Feb 2026 17:40:33 +0700</pubDate>
       <description>Kamus bahasa Latin mementahkan terjemahan jalan menuju kematian karena frasa a stra ze neca tidak dikenal.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/13/id_1458726/1458726_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Uang Logam Rupiah Bernilai Ratusan Juta Rupiah</title>
       <link>https://www.tempo.co/cekfakta/keliru-uang-logam-rupiah-bernilai-ratusan-juta-rupiah-2114946</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Fri, 13 Feb 2026 14:34:05 +0700</pubDate>
       <description>Waspada modus pencurian data pribadi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/13/id_1458682/1458682_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: OJK Resmikan Program Pelunasan Pinjol Gagal Bayar Tahun 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-ojk-resmikan-program-pelunasan-pinjol-gagal-bayar-tahun-2026-2114944</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Fri, 13 Feb 2026 14:17:25 +0700</pubDate>
       <description>OJK tidak pernah meluncurkan program pemutihan pinjaman online pada 4 Februari 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/13/id_1458673/1458673_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Video Prabowo Keluarkan UU Hukuman Mati Bagi Koruptor</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-prabowo-keluarkan-uu-hukuman-mati-bagi-koruptor-2114602</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Thu, 12 Feb 2026 08:26:32 +0700</pubDate>
       <description>Video tersebut adalah suasana sidang pemilihan pimpinan DPR dan DPD RI.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/12/id_1458387/1458387_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Konten Pembuatan Sosis dan Hamburger dari Daging Manusia</title>
-      <link>https://www.tempo.co/cekfakta/keliru-konten-pembuatan-sosis-dan-hamburger-dari-daging-manusia-2114599</link>
-      <guid>8</guid>
-      <pubDate>Thu, 12 Feb 2026 08:14:20 +0700</pubDate>
-      <description>Rabi Zionis bernama Abe Finkelstein dalam rekaman suara yang beredar adalah sosok fiktif.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/12/id_1458384/1458384_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Video Kedatangan PBB untuk Meresmikan IKN</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-kedatangan-pbb-untuk-meresmikan-ikn-2114357</link>
-      <guid>9</guid>
-      <pubDate>Wed, 11 Feb 2026 11:13:43 +0700</pubDate>
-      <description>Tamu-tamu Internasional tersebut datang ke Indonesia untuk menghadiri KTT G20 di Nusa Dua, Bali, pada November 2022</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/11/id_1458219/1458219_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
