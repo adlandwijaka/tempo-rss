@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 23 Feb 2026 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 05:55:28 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Semua Rezim Punya Panggilan untuk Pengkritik</title>
+      <link>https://www.tempo.co/investigasi/pelobi-asing-di-sekitar-prabowo--2117306</link>
+      <guid>1</guid>
+      <pubDate>Mon, 23 Feb 2026 23:00:00 +0700</pubDate>
+      <description>Penelusuran Tempo menunjukkan bagaimana orang asing mempengaruhi kebijakan Presiden Prabowo Subianto.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/02/21/907099/907099_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Lobi Karen Brooks Hingga Prabowo Mengubah Aturan Karbon</title>
       <link>https://www.tempo.co/investigasi/lobi-karen-brooks-prabowo-way-kambas-2116878</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Sun, 22 Feb 2026 15:05:00 +0700</pubDate>
       <description>Karen Brooks ditengarai melobi Presiden Prabowo Subianto untuk berbisnis di Taman Nasional Way Kambas. Mengubah berbagai aturan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/21/907150/907150_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Lucian Despoiu: Perancang &apos;Gemoy&apos; Prabowo</title>
       <link>https://www.tempo.co/investigasi/lucian-despoiu-gemoy-kebijakan-prabowo-2116871</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Sun, 22 Feb 2026 13:15:00 +0700</pubDate>
       <description>Lucian Despoiu memberi nasihat politik kepada Prabowo Subianto dan sejumlah menteri. Jaringannya luas.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/21/907090/907090_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Siapa Karen Brooks, Pelobi Asing di Sekitar Prabowo</title>
       <link>https://www.tempo.co/investigasi/profil-karen-brooks-pelobi-asing-prabowo-2116872</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 22 Feb 2026 13:03:00 +0700</pubDate>
       <description>Karen Brooks memahami seluk-beluk politik-ekonomi Indonesia. Dekat dengan Megawati Soekarnoputri dan Prabowo Subianto.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/21/907100/907100_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Direktur Konservasi: Kenapa yang Dilihat Cuma Karen Brooks?</title>
       <link>https://www.tempo.co/investigasi/perubahan-zonasi-way-kambas-karen-brooks-2116870</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 22 Feb 2026 12:00:00 +0700</pubDate>
       <description>Penjelasan Direktur Konservasi Spesies dan Genetik Ahmad Munawir soal bisnis Karen Brooks di Taman Nasional Way Kambas.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/20/907045/907045_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Ekspatriat di Kursi BUMN</title>
       <link>https://www.tempo.co/investigasi/direksi-bumn-orang-asing-2116867</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Sun, 22 Feb 2026 11:15:00 +0700</pubDate>
       <description>Peluang ekspatriat menempati kursi direktur BUMN makin terbuka. Dalih erekspansi hingga memberantas korupsi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/20/907042/907042_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Jika Masyarakat Mengelola Hutan Taman Nasional Way Kambas</title>
       <link>https://www.tempo.co/investigasi/peran-masyarakat-menjaga-tn-way-kambas-2116868</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 22 Feb 2026 10:30:00 +0700</pubDate>
       <description>Kelompok tani di Taman Nasional Way Kambas melawan kebakaran hutan dan perburuan ilegal. Berhadapan dengan teman sendiri.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/20/906990/906990_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Antek Asing di Pemerintahan Prabowo</title>
       <link>https://www.tempo.co/investigasi/antek-asing-pemerintahan-prabowo-2116694</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 22 Feb 2026 09:30:00 +0700</pubDate>
       <description>Presiden Prabowo Subianto kian gencar melabeli pengkritiknya sebagai antek asing. Pemerintahannya malah ramah kepada pihak asing.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/20/907013/907013_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Buruk Rupa Tata Kelola MBG</title>
       <link>https://www.tempo.co/investigasi/tata-kelola-buruk-makan-bergizi-gratis-2102612</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
       <description>Proyek makan bergizi gratis makin melenceng dari tujuan awal. Memicu inflasi pangan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2025/12/26/902892/902892_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Dua Dasawarsa Perjanjian Helsinki</title>
-      <link>https://www.tempo.co/investigasi/dua-dasawarsa-aceh-perjanjian-helsinki-2102661</link>
-      <guid>9</guid>
-      <pubDate>Sun, 28 Dec 2025 08:30:00 +0700</pubDate>
-      <description>Perjanjian Helsinki masih menyimpan banyak persoalan di Aceh. Setelah dua dasawarsa, perjanjian tak dijalankan dengan benar.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2025/12/24/902746/902746_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
