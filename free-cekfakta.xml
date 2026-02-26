@@ -4,13 +4,58 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 25 Feb 2026 05:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:54:20 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Sebagian Benar: Kondisi Kuku Mengindikasikan Penyakit Tertentu</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-kondisi-kuku-mengindikasikan-penyakit-tertentu-2117959</link>
+      <guid>1</guid>
+      <pubDate>Thu, 26 Feb 2026 12:01:45 +0700</pubDate>
+      <description>Kelainan pada warna dan bentuk kuku bisa jadi petunjuk gejala penyakit tertentu, tapi dibutuhkan pemeriksaan medis untuk memastikannya.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460817/1460817_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Pendaftaran Kartu Prakerja 2026</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-kartu-prakerja-2026-2117953</link>
+      <guid>2</guid>
+      <pubDate>Thu, 26 Feb 2026 11:41:31 +0700</pubDate>
+      <description>Hingga saat ini pemerintah belum membuka kembali pendaftaran program Kartu Prakerja untuk tahun 2026.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460814/1460814_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Agenda Aceh Merdeka di Sidang PBB</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-agenda-aceh-merdeka-di-sidang-pbb-2117949</link>
+      <guid>3</guid>
+      <pubDate>Thu, 26 Feb 2026 11:21:07 +0700</pubDate>
+      <description>Video tersebut dibuat menggunakan akal imitasi meskipun aspirasi Free Aceh pernah disampaikan di forum PBB pada Juni 2025.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460805/1460805_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Epstein Files Ungkap Leonardo DiCaprio Terapkan Diet Kanibal</title>
+      <link>https://www.tempo.co/cekfakta/keliru-epstein-files-ungkap-leonardo-dicaprio-terapkan-diet-kanibal-2117939</link>
+      <guid>4</guid>
+      <pubDate>Thu, 26 Feb 2026 10:40:28 +0700</pubDate>
+      <description>Tidak ada arsip mengenai diet kanibal Leonardo DiCaprio dalam Epstein Files.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460800/1460800_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Tautan Perpanjangan SIM Online Nasional Presisi</title>
+      <link>https://www.tempo.co/cekfakta/keliru-tautan-perpanjangan-sim-online-nasional-presisi-2117711</link>
+      <guid>5</guid>
+      <pubDate>Wed, 25 Feb 2026 13:31:43 +0700</pubDate>
+      <description>Tautan yang beredar tidak resmi dan berisiko pada phishing.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/02/25/id_1460646/1460646_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Vaksinasi HPV Membahayakan Nyawa Anak-anak</title>
       <link>https://www.tempo.co/cekfakta/keliru-vaksinasi-hpv-membahayakan-nyawa-anak-anak-2117694</link>
-      <guid>1</guid>
+      <guid>6</guid>
       <pubDate>Wed, 25 Feb 2026 12:51:25 +0700</pubDate>
       <description>Vaksin HPV bertujuan melindungi anak dari kanker, bukan untuk membahayakan nyawa mereka.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/25/id_1460634/1460634_720.jpg</thumbnail>
@@ -19,7 +64,7 @@
     <item>
       <title>Keliru: Obat dan Vaksin Kanker Ditemukan Setelah Amerika Keluar dari WHO</title>
       <link>https://www.tempo.co/cekfakta/keliru-obat-dan-vaksin-kanker-ditemukan-setelah-amerika-keluar-dari-who-2117472</link>
-      <guid>2</guid>
+      <guid>7</guid>
       <pubDate>Tue, 24 Feb 2026 15:24:16 +0700</pubDate>
       <description>Tidak ada kaitan antara penemuan pengobatan dan vaksin kanker dengan keluarnya AS dari WHO.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/24/id_1460484/1460484_720.jpg</thumbnail>
@@ -28,7 +73,7 @@
     <item>
       <title>Keliru: Pidato Donald Trump Terhenti Akibat Teriakan Takbir</title>
       <link>https://www.tempo.co/cekfakta/keliru-pidato-donald-trump-terhenti-akibat-teriakan-takbir-2117469</link>
-      <guid>3</guid>
+      <guid>8</guid>
       <pubDate>Tue, 24 Feb 2026 15:05:56 +0700</pubDate>
       <description>Video Trump mengalami manipulasi suara sehingga tak sesuai peristiwa aslinya.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/24/id_1460474/1460474_720.jpg</thumbnail>
@@ -37,55 +82,10 @@
     <item>
       <title>Keliru: Epstein Files Ungkap McDonald’s Menggunakan Daging Manusia</title>
       <link>https://www.tempo.co/cekfakta/keliru-epstein-files-ungkap-mcdonald-s-menggunakan-daging-manusia-2117460</link>
-      <guid>4</guid>
+      <guid>9</guid>
       <pubDate>Tue, 24 Feb 2026 14:47:05 +0700</pubDate>
       <description>Epstein Files tidak memiliki arsip mengenai penggunaan daging manusia oleh McDonald’s.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/24/id_1460469/1460469_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Tiga Presiden Penolak Vaksin Covid-19 Meninggal Misterius</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-tiga-presiden-penolak-vaksin-covid-19-meninggal-misterius-2117213</link>
-      <guid>5</guid>
-      <pubDate>Mon, 23 Feb 2026 15:09:39 +0700</pubDate>
-      <description>Kematian presiden Haiti, Tanzania, dan Zambia tidak terkait dengan penolakan mereka terhadap vaksin Covid-19</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/23/id_1460319/1460319_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Prabowo Subianto Resmikan Dana Pinjaman KUR BRI Tanpa Jaminan</title>
-      <link>https://www.tempo.co/cekfakta/keliru-prabowo-subianto-resmikan-dana-pinjaman-kur-bri-tanpa-jaminan-2117187</link>
-      <guid>6</guid>
-      <pubDate>Mon, 23 Feb 2026 14:18:47 +0700</pubDate>
-      <description>Prabowo tak pernah meresmikan secara khusus program pinjaman Kredit Usaha Rakyat.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/23/id_1460309/1460309_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Pendaftaran Bansos di Dalam KTP Senilai Rp 2,5 Juta</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-bansos-di-dalam-ktp-senilai-rp-2-5-juta-2116455</link>
-      <guid>7</guid>
-      <pubDate>Fri, 20 Feb 2026 10:46:00 +0700</pubDate>
-      <description>Kemensos tidak pernah mengeluarkan informasi bansos KTP.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/20/id_1459824/1459824_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Klaim Pandemi Covid-19 Tidak Pernah Terjadi</title>
-      <link>https://www.tempo.co/cekfakta/keliru-klaim-pandemi-covid-19-tidak-pernah-terjadi-2116449</link>
-      <guid>8</guid>
-      <pubDate>Fri, 20 Feb 2026 10:25:28 +0700</pubDate>
-      <description>Pernyataan yang mencatut mantan Wakil Presiden Direktur Pfizer itu tidak sesuai fakta ilmiah.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/20/id_1459810/1459810_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Epstein Files Ungkap Joe Biden Meninggal Tahun 2019</title>
-      <link>https://www.tempo.co/cekfakta/keliru-epstein-files-ungkap-joe-biden-meninggal-tahun-2019-2116170</link>
-      <guid>9</guid>
-      <pubDate>Thu, 19 Feb 2026 10:54:01 +0700</pubDate>
-      <description>Tidak ada bukti Joe Biden telah dieksekusi pada 2019. Dokumen Epstein Files hanya memuat ulasan pemilihan presiden Amerika Serikat 2019.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/19/id_1459615/1459615_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
