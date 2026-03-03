@@ -4,13 +4,49 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 02 Mar 2026 05:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 05:44:04 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Evakuasi Penumpang Pesawat di Bandara Israel setelah Pembalasan Iran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-evakuasi-penumpang-pesawat-di-bandara-israel-setelah-pembalasan-iran-2119144</link>
+      <guid>1</guid>
+      <pubDate>Tue, 03 Mar 2026 11:48:32 +0700</pubDate>
+      <description>Rekaman tersebut tak berkaitan dengan konflik Iran-Israel.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/03/id_1461625/1461625_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Pernyataan Jenderal Israel Jacoob Ariel Ashaabi agar Indonesia Tidak Ikut Campur</title>
+      <link>https://www.tempo.co/cekfakta/keliru-pernyataan-jenderal-israel-jacoob-ariel-ashaabi-agar-indonesia-tidak-ikut-campur-2119142</link>
+      <guid>2</guid>
+      <pubDate>Tue, 03 Mar 2026 11:32:44 +0700</pubDate>
+      <description>Tidak ada nama Jacoob Ariel Ashaabi maupun kesatuan Batalyon Infiltrasi Serangan Senyap Global dalam struktur militer Israel Defense Forces (IDF).</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/03/id_1461619/1461619_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto-foto Jenazah Pemimpin Iran Ayatollah Ali Khamenei Usai Serangan Israel dan Amerika Serikat</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-foto-jenazah-pemimpin-iran-ayatollah-ali-khamenei-usai-serangan-israel-dan-amerika-serikat-2119131</link>
+      <guid>3</guid>
+      <pubDate>Tue, 03 Mar 2026 10:52:44 +0700</pubDate>
+      <description>Foto-foto kondisi terakhir Ayatollah Ali Khamenei dibuat dengan manipulasi AI.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/03/id_1461612/1461612_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Uang Logam Rupiah Bernilai Miliaran Rupiah</title>
+      <link>https://www.tempo.co/cekfakta/keliru-uang-logam-rupiah-bernilai-miliaran-rupiah-2118968</link>
+      <guid>4</guid>
+      <pubDate>Mon, 02 Mar 2026 17:32:04 +0700</pubDate>
+      <description>Koin-koin tersebut tidak bernilai miliaran rupiah karena sebagian koin tersebut masih menjadi alat tukar resmi</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/02/id_1461522/1461522_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Pendaftaran Bansos 2026 dengan Komentar “Hadir” di Facebook</title>
       <link>https://www.tempo.co/cekfakta/keliru-pendaftaran-bansos-2026-dengan-komentar-hadir-di-facebook-2118209</link>
-      <guid>1</guid>
+      <guid>5</guid>
       <pubDate>Fri, 27 Feb 2026 11:00:27 +0700</pubDate>
       <description>Informasi resmi bantuan sosial hanya dipublikasikan melalui kanal resmi Kementerian Sosial.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/27/id_1460971/1460971_720.jpg</thumbnail>
@@ -19,7 +55,7 @@
     <item>
       <title>Keliru: BMKG Umumkan Gempa Megathrust 2026 di Semua Pulau Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-bmkg-umumkan-gempa-megathrust-2026-di-semua-pulau-indonesia-2118204</link>
-      <guid>2</guid>
+      <guid>6</guid>
       <pubDate>Fri, 27 Feb 2026 10:35:58 +0700</pubDate>
       <description>BMKG tidak pernah mengeluarkan peringatan datangnya gempa besar di seluruh wilayah pada 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/27/id_1460966/1460966_720.jpg</thumbnail>
@@ -28,7 +64,7 @@
     <item>
       <title>Sebagian Benar: Kondisi Kuku Mengindikasikan Penyakit Tertentu</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-kondisi-kuku-mengindikasikan-penyakit-tertentu-2117959</link>
-      <guid>3</guid>
+      <guid>7</guid>
       <pubDate>Thu, 26 Feb 2026 12:01:45 +0700</pubDate>
       <description>Kelainan pada warna dan bentuk kuku bisa jadi petunjuk gejala penyakit tertentu, tapi dibutuhkan pemeriksaan medis untuk memastikannya.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460817/1460817_720.jpg</thumbnail>
@@ -37,7 +73,7 @@
     <item>
       <title>Keliru: Tautan Pendaftaran Kartu Prakerja 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-tautan-pendaftaran-kartu-prakerja-2026-2117953</link>
-      <guid>4</guid>
+      <guid>8</guid>
       <pubDate>Thu, 26 Feb 2026 11:41:31 +0700</pubDate>
       <description>Hingga saat ini pemerintah belum membuka kembali pendaftaran program Kartu Prakerja untuk tahun 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460814/1460814_720.jpg</thumbnail>
@@ -46,46 +82,10 @@
     <item>
       <title>Keliru: Video Agenda Aceh Merdeka di Sidang PBB</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-agenda-aceh-merdeka-di-sidang-pbb-2117949</link>
-      <guid>5</guid>
+      <guid>9</guid>
       <pubDate>Thu, 26 Feb 2026 11:21:07 +0700</pubDate>
       <description>Video tersebut dibuat menggunakan akal imitasi meskipun aspirasi Free Aceh pernah disampaikan di forum PBB pada Juni 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460805/1460805_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Epstein Files Ungkap Leonardo DiCaprio Terapkan Diet Kanibal</title>
-      <link>https://www.tempo.co/cekfakta/keliru-epstein-files-ungkap-leonardo-dicaprio-terapkan-diet-kanibal-2117939</link>
-      <guid>6</guid>
-      <pubDate>Thu, 26 Feb 2026 10:40:28 +0700</pubDate>
-      <description>Tidak ada arsip mengenai diet kanibal Leonardo DiCaprio dalam Epstein Files.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/26/id_1460800/1460800_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Perpanjangan SIM Online Nasional Presisi</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-perpanjangan-sim-online-nasional-presisi-2117711</link>
-      <guid>7</guid>
-      <pubDate>Wed, 25 Feb 2026 13:31:43 +0700</pubDate>
-      <description>Tautan yang beredar tidak resmi dan berisiko pada phishing.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/25/id_1460646/1460646_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Vaksinasi HPV Membahayakan Nyawa Anak-anak</title>
-      <link>https://www.tempo.co/cekfakta/keliru-vaksinasi-hpv-membahayakan-nyawa-anak-anak-2117694</link>
-      <guid>8</guid>
-      <pubDate>Wed, 25 Feb 2026 12:51:25 +0700</pubDate>
-      <description>Vaksin HPV bertujuan melindungi anak dari kanker, bukan untuk membahayakan nyawa mereka.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/25/id_1460634/1460634_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Obat dan Vaksin Kanker Ditemukan Setelah Amerika Keluar dari WHO</title>
-      <link>https://www.tempo.co/cekfakta/keliru-obat-dan-vaksin-kanker-ditemukan-setelah-amerika-keluar-dari-who-2117472</link>
-      <guid>9</guid>
-      <pubDate>Tue, 24 Feb 2026 15:24:16 +0700</pubDate>
-      <description>Tidak ada kaitan antara penemuan pengobatan dan vaksin kanker dengan keluarnya AS dari WHO.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/02/24/id_1460484/1460484_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>

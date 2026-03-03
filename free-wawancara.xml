@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 02 Mar 2026 05:48:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 05:44:06 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Tiyo Ardianto: Teror Tak Membuat Kami Takut</title>
+      <link>https://www.tempo.co/wawancara/tiyo-ardianto-bem-ugm-teror-kritik-kebijakan-prabowo-2118903</link>
+      <guid>1</guid>
+      <pubDate>Mon, 02 Mar 2026 14:00:00 +0700</pubDate>
+      <description>Ketua BEM UGM Tiyo Ardianto bercerita tentang teror setelah mengkritik dengan tajam kebijakan-kebijakan pemerintah. Ia menyebutnya &quot;bodoh&quot;.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/01/907765/907765_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Tiyo dan Dinamika Gerakan Mahasiswa</title>
+      <link>https://www.tempo.co/wawancara/tiyo-ardianto-dinamika-gerakan-mahasiswa-2118902</link>
+      <guid>2</guid>
+      <pubDate>Mon, 02 Mar 2026 14:00:00 +0700</pubDate>
+      <description>Ketua BEM UGM Tiyo Ardianto membangun kembali budaya mahasiswa tak takut mengkritik kebijakan pemerintah. Siapa dia?</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/02/907829/907829_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Depresi Senyum Yohanes Bastian Roja</title>
       <link>https://www.tempo.co/wawancara/bunuh-diri-kekerasan-anak-indonesia-2118760</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Sun, 01 Mar 2026 22:15:00 +0700</pubDate>
       <description>Menteri Perlindungan Anak Arifah Choiri Fauzi menjelaskan temuannya soal peristiwa bunuh diri Yohanes Bastian Roja di Ngada.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/27/907549/907549_1200.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Menteri Perempuan: Anak-anak Bingung Curhat kepada Siapa</title>
       <link>https://www.tempo.co/wawancara/kesehatan-mental-bunuh-diri-anak-2118537</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Sat, 28 Feb 2026 22:00:00 +0700</pubDate>
       <description>Menteri Pemberdayaan Perempuan Arifatul Choiri Fauzi membeberkan temuan bunuh diri anak di Ngada. Juga kesehatan mental anak-anak.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/26/907498/907498_1200.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Persamaan Presiden Prabowo dengan Donald Trump</title>
       <link>https://www.tempo.co/wawancara/tom-pepinsky-prabowo-dan-donald-trump-2117307</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Mon, 23 Feb 2026 23:30:00 +0700</pubDate>
       <description>Profesor Cornell University, Tom Pepinsky, menjelaskan persamaan dan perbedaan Presiden Prabowo Subianto dengan Donald Trump.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/17/906806/906806_1200.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Data Virus Nipah Terbatas karena Anggaran Minim</title>
       <link>https://www.tempo.co/wawancara/peneliti-brin-virus-nipah-2117265</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Mon, 23 Feb 2026 19:00:00 +0700</pubDate>
       <description>Peneliti BRIN, Ni Luh Putu Indi Dharmayanti, mengatakan virus nipah berpotensi menjadi wabah jika tak diantisipasi dengan baik.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/22/907226/907226_1200.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Potensi Virus Nipah Mewabah</title>
       <link>https://www.tempo.co/wawancara/peneliti-brin-potensi-wabah-virus-nipah-2117264</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Mon, 23 Feb 2026 19:00:00 +0700</pubDate>
       <description>Peneliti BRIN menjelaskan potensi virus nipah mewabah di Indonesia. Seperti apa penjelasannya?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/23/907314/907314_1200.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Thomas B. Pepinsky: Kebebasan Sipil dalam Bahaya</title>
       <link>https://www.tempo.co/wawancara/tom-pepinsky-antek-asing-prabowo-2116695</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Sat, 21 Feb 2026 21:00:00 +0700</pubDate>
       <description>Tom Pepinsky membandingkan Prabowo Subianto dengan Donald Trump. Prabowo lebih suka mengucapkan ketimbang melakukan perbaikan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/17/906776/906776_1200.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Ali Ghufron Mukti dan Pejabat Pembuat Lagu</title>
       <link>https://www.tempo.co/wawancara/bpjs-kesehatan-ali-ghufron-mukti-2115381</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Sun, 15 Feb 2026 17:30:00 +0700</pubDate>
       <description>Sejumlah pejabat doyan membuat lagu. Direktur Utama BPJS Kesehatan Ali Ghufron Mukti salah satunya.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/12/906404/906404_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Ali Ghufron: Masalah BPJS Banyak, Bukan Cuma PBI</title>
-      <link>https://www.tempo.co/wawancara/direktur-utama-bpjs-kesehatan-data-pbi-2115131</link>
-      <guid>8</guid>
-      <pubDate>Sat, 14 Feb 2026 21:00:00 +0700</pubDate>
-      <description>Direktur Utama BPJS Kesehatan Ali Ghufron Mukti membeberkan mengapa jutaan peserta PBI dinonaktifkan. Potensi fraud klaim rumah sakit.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/02/12/906405/906405_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Max Lane: Rakyat Indonesia Tak Sadar Negerinya Miskin</title>
-      <link>https://www.tempo.co/wawancara/akar-kemiskinan-indonesia-kolonialisme-2113851</link>
-      <guid>9</guid>
-      <pubDate>Mon, 09 Feb 2026 19:00:00 +0700</pubDate>
-      <description>Max Lane berbicara tentang Prabowo serta warisan kolonialisme dan hubungannya dengan kemiskinan di Indonesia.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/02/08/906105/906105_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
