@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 09 Mar 2026 05:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 05:41:15 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Pemerintah Enggan Mengungkap Dalang Kerusuhan Demo Agustus</title>
+      <link>https://www.tempo.co/wawancara/dalang-kerusuhan-demonstrasi-agustus-2025-2120704</link>
+      <guid>1</guid>
+      <pubDate>Mon, 09 Mar 2026 16:00:00 +0700</pubDate>
+      <description>Temuan komisi pencari fakta bentukan masyarakat sipil kerusuhan dalam demonstrasi Agustus 2025. Apa saja?</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/08/908270/908270_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Fakta-Fakta Kerusuhan Demonstrasi Agustus 2025</title>
+      <link>https://www.tempo.co/wawancara/fakta-kerusuhan-demonstrasi-agustus-2025-2120702</link>
+      <guid>2</guid>
+      <pubDate>Mon, 09 Mar 2026 16:00:00 +0700</pubDate>
+      <description>Komisi pencari fakta bentukan Koalisi Masyarakat Sipil membeberkan temuan mereka di balik kerusuhan Agustus 2025.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/09/908336/908336_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Duka Lama Wiwin Suryadinata</title>
       <link>https://www.tempo.co/wawancara/duka-wiwin-suryadinata-pemerkosaan-1998-2120415</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Sun, 08 Mar 2026 09:40:00 +0700</pubDate>
       <description>Cerita duka Wiwin Suryadinata, ibu korban pemerkosaan massal dalam kerusuhan Mei 1998, Ita Martadinata.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/05/908030/908030_1200.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Kita Perlu Berbicara agar Pemerkosaan 1998 Tidak Terulang</title>
       <link>https://www.tempo.co/wawancara/wiwin-suryadinata-pemerkosaan-massal-2120235</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Sat, 07 Mar 2026 20:00:00 +0700</pubDate>
       <description>Wiwin Suryadinata hadir di pengadilan. Ia bersaksi untuk membantah penyangkalan pemerintah terhadap pemerkosaan 1998.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/05/908029/908029_1200.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Tiyo Ardianto: Teror Tak Membuat Kami Takut</title>
       <link>https://www.tempo.co/wawancara/tiyo-ardianto-bem-ugm-teror-kritik-kebijakan-prabowo-2118903</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Mon, 02 Mar 2026 14:00:00 +0700</pubDate>
       <description>Ketua BEM UGM Tiyo Ardianto bercerita tentang teror setelah mengkritik dengan tajam kebijakan-kebijakan pemerintah. Ia menyebutnya &quot;bodoh&quot;.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/01/907765/907765_1200.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Tiyo dan Dinamika Gerakan Mahasiswa</title>
       <link>https://www.tempo.co/wawancara/tiyo-ardianto-dinamika-gerakan-mahasiswa-2118902</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Mon, 02 Mar 2026 14:00:00 +0700</pubDate>
       <description>Ketua BEM UGM Tiyo Ardianto membangun kembali budaya mahasiswa tak takut mengkritik kebijakan pemerintah. Siapa dia?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/02/907829/907829_1200.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Depresi Senyum Yohanes Bastian Roja</title>
       <link>https://www.tempo.co/wawancara/bunuh-diri-kekerasan-anak-indonesia-2118760</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Sun, 01 Mar 2026 22:15:00 +0700</pubDate>
       <description>Menteri Perlindungan Anak Arifah Choiri Fauzi menjelaskan temuannya soal peristiwa bunuh diri Yohanes Bastian Roja di Ngada.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/27/907549/907549_1200.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Menteri Perempuan: Anak-anak Bingung Curhat kepada Siapa</title>
       <link>https://www.tempo.co/wawancara/kesehatan-mental-bunuh-diri-anak-2118537</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Sat, 28 Feb 2026 22:00:00 +0700</pubDate>
       <description>Menteri Pemberdayaan Perempuan Arifatul Choiri Fauzi membeberkan temuan bunuh diri anak di Ngada. Juga kesehatan mental anak-anak.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/26/907498/907498_1200.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Persamaan Presiden Prabowo dengan Donald Trump</title>
       <link>https://www.tempo.co/wawancara/tom-pepinsky-prabowo-dan-donald-trump-2117307</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Mon, 23 Feb 2026 23:30:00 +0700</pubDate>
       <description>Profesor Cornell University, Tom Pepinsky, menjelaskan persamaan dan perbedaan Presiden Prabowo Subianto dengan Donald Trump.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/02/17/906806/906806_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Data Virus Nipah Terbatas karena Anggaran Minim</title>
-      <link>https://www.tempo.co/wawancara/peneliti-brin-virus-nipah-2117265</link>
-      <guid>8</guid>
-      <pubDate>Mon, 23 Feb 2026 19:00:00 +0700</pubDate>
-      <description>Peneliti BRIN, Ni Luh Putu Indi Dharmayanti, mengatakan virus nipah berpotensi menjadi wabah jika tak diantisipasi dengan baik.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/02/22/907226/907226_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Potensi Virus Nipah Mewabah</title>
-      <link>https://www.tempo.co/wawancara/peneliti-brin-potensi-wabah-virus-nipah-2117264</link>
-      <guid>9</guid>
-      <pubDate>Mon, 23 Feb 2026 19:00:00 +0700</pubDate>
-      <description>Peneliti BRIN menjelaskan potensi virus nipah mewabah di Indonesia. Seperti apa penjelasannya?</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/02/23/907314/907314_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
