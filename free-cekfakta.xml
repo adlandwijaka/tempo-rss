@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 11 Mar 2026 05:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:46:09 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Iran Menyatakan Menyerah terhadap Israel-Amerika Serikat</title>
+      <link>https://www.tempo.co/cekfakta/keliru-iran-menyatakan-menyerah-terhadap-israel-amerika-serikat-2121482</link>
+      <guid>1</guid>
+      <pubDate>Thu, 12 Mar 2026 12:13:35 +0700</pubDate>
+      <description>Tidak ada pernyataan Iran menyerah pada Israel dan Amerika Serikat.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/12/id_1463537/1463537_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Satelit Lukisan Pesawat Tempur Iran untuk Menipu Israel dan Amerika</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-satelit-lukisan-pesawat-tempur-iran-untuk-menipu-israel-dan-amerika-2121479</link>
+      <guid>2</guid>
+      <pubDate>Thu, 12 Mar 2026 12:06:41 +0700</pubDate>
+      <description>Foto tersebut teridentifikasi sebagai produk teknologi akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/12/id_1463526/1463526_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Warga Indonesia M. Hasbi Alkhairi Jadi Teknisi Rudal Iran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-warga-indonesia-m-hasbi-alkhairi-jadi-teknisi-rudal-iran-2121464</link>
+      <guid>3</guid>
+      <pubDate>Thu, 12 Mar 2026 11:21:12 +0700</pubDate>
+      <description>Foto itu merupakan hasil manipulasi akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/12/id_1463497/1463497_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Rudal Iran Hancurkan Gedung Pencakar Langit Israel</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-rudal-iran-hancurkan-gedung-pencakar-langit-israel-2121177</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Wed, 11 Mar 2026 12:04:37 +0700</pubDate>
       <description>Meski Iran dan Israel masih saling menyerang, namun video tersebut hasil rekayasa AI.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/11/id_1463243/1463243_720.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Keliru: Video Meledaknya Kapal Induk AS</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-meledaknya-kapal-induk-as-2121171</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Wed, 11 Mar 2026 11:44:47 +0700</pubDate>
       <description>Konten tersebut dibuat dengan teknologi akal imitasi (AI)</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/11/id_1463230/1463230_720.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Keliru: Video Pengerahan Rudal Fattah-2 dalam Operasi True Promise 4 Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pengerahan-rudal-fattah-2-dalam-operasi-true-promise-4-iran-2121155</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Wed, 11 Mar 2026 11:01:32 +0700</pubDate>
       <description>Video dibuat dengan manipulasi akal imitasi dan digabung dengan klip dari peristiwa lain.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/11/id_1463208/1463208_720.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Keliru: Pesawat Pembom Amerika B-2 Dijatuhkan Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-pesawat-pembom-amerika-b-2-dijatuhkan-iran-2120914</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Tue, 10 Mar 2026 12:20:03 +0700</pubDate>
       <description>Konten yang beredar tersebut dibuat dengan teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/10/id_1462979/1462979_720.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Keliru: Video Rudal Iran Mengejar Jet Tempur AS Hingga Meledak</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-rudal-iran-mengejar-jet-tempur-as-hingga-meledak-2120897</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Tue, 10 Mar 2026 11:20:35 +0700</pubDate>
       <description>Video tersebut merupakan cuplikan dari video gim</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/10/id_1462960/1462960_720.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Keliru: Video Pesawat di Bandara Dubai Terbakar akibat Serangan Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pesawat-di-bandara-dubai-terbakar-akibat-serangan-iran-2120878</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Tue, 10 Mar 2026 10:28:06 +0700</pubDate>
       <description>Video itu merupakan hasil manipulasi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/10/id_1462935/1462935_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Foto Kota di Israel Rata dengan Tanah Akibat Serangan Iran</title>
-      <link>https://www.tempo.co/cekfakta/keliru-foto-kota-di-israel-rata-dengan-tanah-akibat-serangan-iran-2120605</link>
-      <guid>7</guid>
-      <pubDate>Mon, 09 Mar 2026 11:32:46 +0700</pubDate>
-      <description>Foto berasal dari peristiwa di Jepang, bukan di Israel.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/09/id_1462722/1462722_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Dubes Iran Boroujerdi Minta Prabowo Urus Rakyatnya Sendiri</title>
-      <link>https://www.tempo.co/cekfakta/keliru-dubes-iran-boroujerdi-minta-prabowo-urus-rakyatnya-sendiri-2120602</link>
-      <guid>8</guid>
-      <pubDate>Mon, 09 Mar 2026 11:22:48 +0700</pubDate>
-      <description>Boroujerdi tidak pernah mengeluarkan pernyataan seperti dalam klaim.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/09/id_1462718/1462718_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Jurnalis CNN Diana Valencia Ditahan Polisi setelah Meliput MBG</title>
-      <link>https://www.tempo.co/cekfakta/keliru-jurnalis-cnn-diana-valencia-ditahan-polisi-setelah-meliput-mbg-2120600</link>
-      <guid>9</guid>
-      <pubDate>Mon, 09 Mar 2026 11:11:36 +0700</pubDate>
-      <description>CNN Indonesia telah membantah kabar penangkapan jurnalisnya.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/09/id_1462709/1462709_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
