@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 18 Mar 2026 05:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 05:54:33 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Kebakaran Hotel Dekat Masjidil Haram karena Perang Iran-Israel</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-kebakaran-hotel-dekat-masjidil-haram-karena-perang-iran-israel-2123248</link>
+      <guid>1</guid>
+      <pubDate>Thu, 19 Mar 2026 08:00:00 +0700</pubDate>
+      <description>Penyebab kebakaran diduga dari tumpukan sampah di area kosong dekat hotel.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/03/18/id_1464677/1464677_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Harga BBM Mengalami Penyesuaian Per 9 Maret 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-harga-bbm-mengalami-penyesuaian-per-9-maret-2026-2123056</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Wed, 18 Mar 2026 12:32:44 +0700</pubDate>
       <description>Pemerintah dan Pertamina belum menyesuaikan harga bahan bakar minyak.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/18/id_1464667/1464667_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Keliru: Foto Tentara Israel-Amerika Telah Menduduki Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-tentara-israel-amerika-telah-menduduki-iran-2123050</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Wed, 18 Mar 2026 12:02:10 +0700</pubDate>
       <description>Foto tersebut adalah bagian dari latihan pasukan AS di Korea Selatan.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/18/id_1464655/1464655_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Keliru: Kim Jong Un Menangis di Depan Jasad Ali Khamenei</title>
       <link>https://www.tempo.co/cekfakta/keliru-kim-jong-un-menangis-di-depan-jasad-ali-khamenei-2122755</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Tue, 17 Mar 2026 10:53:36 +0700</pubDate>
       <description>Foto tersebut teridentifikasi sebagai produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/17/id_1464446/1464446_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Keliru: Video Iran Gunakan Bom Nuklir Meledakkan Israel</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-iran-gunakan-bom-nuklir-meledakkan-israel-2122751</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Tue, 17 Mar 2026 10:37:58 +0700</pubDate>
       <description>Konten yang beredar terbukti merupakan hasil buatan teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/17/id_1464437/1464437_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Menyesatkan: Video Rudal Balistik Iran Meledakkan Bandara Israel</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-rudal-balistik-iran-meledakkan-bandara-israel-2122563</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Mon, 16 Mar 2026 16:23:55 +0700</pubDate>
       <description>Dua video tersebut teridentifikasi sebagai produk teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/16/id_1464299/1464299_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Keliru: Cina Kirim Bantuan Peralatan Tempur ke Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-cina-kirim-bantuan-peralatan-tempur-ke-iran-2122501</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Mon, 16 Mar 2026 13:19:28 +0700</pubDate>
       <description>Belum ada bukti pengerahan senjata Cina ke Iran</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/16/id_1464255/1464255_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Menyesatkan: Klaim Tak Ada Kapal Pertamina Tertahan di Selat Hormuz</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-tak-ada-kapal-pertamina-tertahan-di-selat-hormuz-2121753</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Fri, 13 Mar 2026 11:10:25 +0700</pubDate>
       <description>Faktanya, hingga 10 Maret 2026, dua kapal milik Pertamina masih tertahan di selat tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/13/id_1463736/1463736_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Keliru: Foto-foto Pasukan Elite Amerika Serikat Delta Force Ditangkap Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-foto-pasukan-elite-amerika-serikat-delta-force-ditangkap-iran-2121748</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Fri, 13 Mar 2026 10:45:42 +0700</pubDate>
       <description>Foto-foto dibuat dengan manipulasi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/13/id_1463721/1463721_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Iran Menyatakan Menyerah terhadap Israel-Amerika Serikat</title>
-      <link>https://www.tempo.co/cekfakta/keliru-iran-menyatakan-menyerah-terhadap-israel-amerika-serikat-2121482</link>
-      <guid>9</guid>
-      <pubDate>Thu, 12 Mar 2026 12:13:35 +0700</pubDate>
-      <description>Tidak ada pernyataan Iran menyerah pada Israel dan Amerika Serikat.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/12/id_1463537/1463537_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
