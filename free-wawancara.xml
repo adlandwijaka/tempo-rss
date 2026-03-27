@@ -4,7 +4,7 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 26 Mar 2026 06:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:09:26 GMT</lastBuildDate>
     <language>id-ID</language>
 
     <item>
@@ -26,9 +26,18 @@
     </item>
 
     <item>
+      <title>Nyeker di Rumah Jusuf Kalla</title>
+      <link>https://www.tempo.co/wawancara/jusuf-kalla-bicara-krisis-ekonomi-2124596</link>
+      <guid>3</guid>
+      <pubDate>Sun, 22 Mar 2026 20:00:00 +0700</pubDate>
+      <description>Jusuf Kalla selalu ceplas-ceplos dalam berbagai wawancara. Menjelaskan soal krisis ekonomi yang bisa lebih besar.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/14/908806/908806_1200.jpg</thumbnail>
+    </item>
+
+    <item>
       <title>Jusuf Kalla: Sekarang Kita Sudah Krisis</title>
       <link>https://www.tempo.co/wawancara/jusuf-kalla-krisis-ekonomi-indonesia-2123313</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sat, 21 Mar 2026 14:00:00 +0700</pubDate>
       <description>Mantan wakil presiden Jusuf Kalla tentang ekonomi Indonesia. Menurut dia,  ekonomi krisis dan ketidakpercayaan kepada pemerintah.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/14/908804/908804_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Jalan Surga Merawat Lingkungan</title>
       <link>https://www.tempo.co/wawancara/fatwa-lingkungan-izin-tambang-2122661</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Mon, 16 Mar 2026 23:00:00 +0700</pubDate>
       <description>Rais Syuriah PBNU Thontowi Djauhari Musaddad menjelaskan soal fatwa lingkungan dan pro-kontra izin tambang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/10/908420/908420_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Duta Besar Iran: Kami Tak Akan Menyerah kepada Agresor</title>
       <link>https://www.tempo.co/wawancara/duta-besar-iran-bicara-perang-israel-dan-bop-2122530</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0700</pubDate>
       <description>Duta Besar Iran untuk Indonesia menjelaskan pandangannya soal Dewan Perdamaian Trump dan Prabowo yang siap menjadi mediator perang Israel-Iran.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/15/908918/908918_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Dampak Perang Israel-Iran</title>
       <link>https://www.tempo.co/wawancara/dampak-perang-israel-iran-2122532</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0700</pubDate>
       <description>Iran akan melawan Amerika-Israel dengan kekuatan penuh. Tak akan menyerah.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/15/908963/908963_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Melestarikan Lingkungan Adalah Jalan Surga</title>
       <link>https://www.tempo.co/wawancara/jalan-surga-melestarikan-lingkungan-2122045</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sun, 15 Mar 2026 14:45:00 +0700</pubDate>
       <description>Thonthowi Djauhari Musaddad menjelaskan perlunya fatwa lingkungan. Ia menilai pelestarian lingkungan sebagai jalan surga.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/10/908421/908421_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Pemerintah Enggan Mengungkap Dalang Kerusuhan Demo Agustus</title>
       <link>https://www.tempo.co/wawancara/dalang-kerusuhan-demonstrasi-agustus-2025-2120704</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Mon, 09 Mar 2026 16:00:00 +0700</pubDate>
       <description>Temuan komisi pencari fakta bentukan masyarakat sipil kerusuhan dalam demonstrasi Agustus 2025. Apa saja?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/08/908270/908270_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Fakta-Fakta Kerusuhan Demonstrasi Agustus 2025</title>
-      <link>https://www.tempo.co/wawancara/fakta-kerusuhan-demonstrasi-agustus-2025-2120702</link>
-      <guid>9</guid>
-      <pubDate>Mon, 09 Mar 2026 16:00:00 +0700</pubDate>
-      <description>Komisi pencari fakta bentukan Koalisi Masyarakat Sipil membeberkan temuan mereka di balik kerusuhan Agustus 2025.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/03/09/908336/908336_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
