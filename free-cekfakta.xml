@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 31 Mar 2026 06:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:24:25 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Los Angeles Diserang Iran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-los-angeles-diserang-iran-2125847</link>
+      <guid>1</guid>
+      <pubDate>Wed, 01 Apr 2026 10:41:03 +0700</pubDate>
+      <description>Peristiwa kebakaran itu terjadi di Texas dan bukan karena serangan Iran.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/01/id_1466755/1466755_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Video Kapal Pakistan Diserang Iran di Selat Hormuz</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-kapal-pakistan-diserang-iran-di-selat-hormuz-2125564</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Tue, 31 Mar 2026 11:24:48 +0700</pubDate>
       <description>Kapal terbakar itu bukan milik Pakistan, melainkan Safeen Prestige berbendera Malta milik Transmar International SHPG.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/31/id_1466627/1466627_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Keliru: Al Jazeera Tayangkan Berita Kematian Benjamin Netanyahu</title>
       <link>https://www.tempo.co/cekfakta/keliru-al-jazeera-tayangkan-berita-kematian-benjamin-netanyahu-2125551</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Tue, 31 Mar 2026 10:58:44 +0700</pubDate>
       <description>Video yang beredar dibuat dengan teknologi akal imitasi, Al Jazeera tidak pernah menayangkan video tersebut.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/31/id_1466619/1466619_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Keliru: Video Turki Mengerahkan Ribuan Helikopter ke Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-turki-mengerahkan-ribuan-helikopter-ke-iran-2125545</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Tue, 31 Mar 2026 10:31:49 +0700</pubDate>
       <description>Video yang beredar merupakan bagian dari latihan atraksi udara militer Korea Selatan untuk peringatan Hari Angkatan Bersenjata ke-77, 1 Oktober 2024 di Seoul, Korea Selatan.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/31/id_1466615/1466615_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Menyesatkan: Video Kondisi Pengungsi Israel setelah Serangan Iran</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-video-kondisi-pengungsi-israel-setelah-serangan-iran-2125270</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Mon, 30 Mar 2026 12:53:39 +0700</pubDate>
       <description>Video tersebut bukan merekam pengungsi Israel, melainkan warga Palestina di Gaza pada 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/30/id_1466476/1466476_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Keliru: Video Trump Mengumumkan Netanyahu Tewas</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-trump-mengumumkan-netanyahu-tewas-2125267</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Mon, 30 Mar 2026 12:42:40 +0700</pubDate>
       <description>Audio dalam video merupakan hasil AI yang ditempelkan pada video Trump saat menghadiri upacara penandatanganan undang-undang pada 12 Juni 2025.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/30/id_1466466/1466466_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Keliru: Menteri Agama Nasaruddin Umar Mengumumkan Dana Hibah Rp 1 Miliar</title>
       <link>https://www.tempo.co/cekfakta/keliru-menteri-agama-nasaruddin-umar-mengumumkan-dana-hibah-rp-1-miliar-2124712</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Fri, 27 Mar 2026 13:41:37 +0700</pubDate>
       <description>Video yang beredar hasil manipulasi teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/27/id_1466063/1466063_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Menyesatkan: Mencium Kucing Berisiko Terinfeksi Bakteri di Otak</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-mencium-kucing-berisiko-terinfeksi-bakteri-di-otak-2124482</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Thu, 26 Mar 2026 13:01:23 +0700</pubDate>
       <description>Penularan bakteri kucing kepada manusia terjadi melalui kotoran, bukan lewat kontak fisik seperti ciuman.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/26/id_1465888/1465888_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Keliru: Kedutaan Korea Utara di Teheran Kena Serangan Rudal</title>
       <link>https://www.tempo.co/cekfakta/keliru-kedutaan-korea-utara-di-teheran-kena-serangan-rudal-2124475</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Thu, 26 Mar 2026 12:15:43 +0700</pubDate>
       <description>Konten yang beredar hasil rekayasa menggunakan teknologi akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/03/26/id_1465874/1465874_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Tautan Bantuan Sosial 2026 Kemensos Sebesar Rp1,5 Juta</title>
-      <link>https://www.tempo.co/cekfakta/keliru-tautan-bantuan-sosial-2026-kemensos-sebesar-rp1-5-juta-2124177</link>
-      <guid>9</guid>
-      <pubDate>Wed, 25 Mar 2026 08:00:00 +0700</pubDate>
-      <description>Tautan yang dicantumkan bukan situs resmi untuk mengakses bansos.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/18/id_1464709/1464709_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>

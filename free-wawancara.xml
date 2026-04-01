@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 31 Mar 2026 06:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:24:26 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Detik-detik Setelah Andrie Yunus Disiram Air Keras</title>
+      <link>https://www.tempo.co/wawancara/militerisme-teror-andrie-yunus-kontras-2125485</link>
+      <guid>1</guid>
+      <pubDate>Tue, 31 Mar 2026 18:45:00 +0700</pubDate>
+      <description>Wawancara Koordinator KontraS Dimas Bagus Arya Saputra soal teror terhadap Andrie Yunus dan penguatan militerisme.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/03/26/909458/909458_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Na Willa: Dari Novel Reda Gaudiamo ke Naskah Film Keluarga</title>
       <link>https://www.tempo.co/wawancara/reda-gaudiamo-novel-na-willa-skenario-film-2125333</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Mon, 30 Mar 2026 20:00:00 +0700</pubDate>
       <description>Reda Gaudiamo menceritakan proses penulisan novel Na Willa. Bagaimana memindahkannya menjadi skenario film?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/29/909693/909693_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Cerita Reda Gaudiamo tentang Na Willa</title>
       <link>https://www.tempo.co/wawancara/cerita-reda-tentang-na-willa-2125334</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Mon, 30 Mar 2026 20:00:00 +0700</pubDate>
       <description>Reda memberi rambu-rambu skenario film Na Willa agar jangan terlalu jauh melenceng dari cerita dalam novel.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/29/909691/909691_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>KontraS: Teror Air Keras Memicu Ketakutan Lebih Besar</title>
       <link>https://www.tempo.co/wawancara/kontras-teror-air-keras-andrie-yunus-2125019</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 29 Mar 2026 12:30:00 +0700</pubDate>
       <description>Kesaksian Koordinator KontraS Dimas Bagus Arya detik-detik setelah Andrie Yunus mendapat teror air keras. Menolak pengadilan militer.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/26/909457/909457_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Jacqui Baker: Masyarakat Sipil Kunci Reformasi Polri</title>
       <link>https://www.tempo.co/wawancara/reformasi-polri-masyarakat-sipil-jacqui-baker-2124094</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Tue, 24 Mar 2026 18:00:00 +0700</pubDate>
       <description>Pengajar Murdoch University, Jacqueline Baker, tentang reformasi Polri. Ia memprediksi bakal buntu.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/23/909275/909275_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Mengapa Reformasi Polri Acap Gagal</title>
       <link>https://www.tempo.co/wawancara/penyebab-reformasi-polri-gagal-2124093</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Tue, 24 Mar 2026 18:00:00 +0700</pubDate>
       <description>Kegagalan reformasi Polri karena melibatkan elite kepolisian. Menempatkannya di bawah kementerian tak menghilangkan struktur.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/23/909277/909277_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Nyeker di Rumah Jusuf Kalla</title>
       <link>https://www.tempo.co/wawancara/jusuf-kalla-bicara-krisis-ekonomi-2124596</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Sun, 22 Mar 2026 20:00:00 +0700</pubDate>
       <description>Jusuf Kalla selalu ceplas-ceplos dalam berbagai wawancara. Menjelaskan soal krisis ekonomi yang bisa lebih besar.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/14/908806/908806_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Jusuf Kalla: Sekarang Kita Sudah Krisis</title>
       <link>https://www.tempo.co/wawancara/jusuf-kalla-krisis-ekonomi-indonesia-2123313</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Sat, 21 Mar 2026 14:00:00 +0700</pubDate>
       <description>Mantan wakil presiden Jusuf Kalla tentang ekonomi Indonesia. Menurut dia,  ekonomi krisis dan ketidakpercayaan kepada pemerintah.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/14/908804/908804_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Jalan Surga Merawat Lingkungan</title>
       <link>https://www.tempo.co/wawancara/fatwa-lingkungan-izin-tambang-2122661</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Mon, 16 Mar 2026 23:00:00 +0700</pubDate>
       <description>Rais Syuriah PBNU Thontowi Djauhari Musaddad menjelaskan soal fatwa lingkungan dan pro-kontra izin tambang.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/03/10/908420/908420_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Duta Besar Iran: Kami Tak Akan Menyerah kepada Agresor</title>
-      <link>https://www.tempo.co/wawancara/duta-besar-iran-bicara-perang-israel-dan-bop-2122530</link>
-      <guid>9</guid>
-      <pubDate>Mon, 16 Mar 2026 15:00:00 +0700</pubDate>
-      <description>Duta Besar Iran untuk Indonesia menjelaskan pandangannya soal Dewan Perdamaian Trump dan Prabowo yang siap menjadi mediator perang Israel-Iran.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/03/15/908918/908918_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
