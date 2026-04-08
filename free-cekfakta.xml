@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 07 Apr 2026 06:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 06:18:40 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video 4 Ribu Tentara AS Tewas di Bandara Ben Gurion</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-4-ribu-tentara-as-tewas-di-bandara-ben-gurion-2127450</link>
+      <guid>1</guid>
+      <pubDate>Wed, 08 Apr 2026 12:22:35 +0700</pubDate>
+      <description>Faktanya, sejumlah klip video tersebut tak berkaitan dengan serangan Iran di Bandara Ben Gurion, Israel.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/08/id_1467800/1467800_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Suara.com Beritakan Pernyataan Anies Gulingkan Prabowo</title>
+      <link>https://www.tempo.co/cekfakta/keliru-suara-com-beritakan-pernyataan-anies-gulingkan-prabowo-2127436</link>
+      <guid>2</guid>
+      <pubDate>Wed, 08 Apr 2026 11:33:49 +0700</pubDate>
+      <description>Tangkapan layar berita dan foto yang beredar merupakan hasil rekayasa dari artikel asli dengan judul dan foto yang berbeda.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/08/id_1467792/1467792_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Ekonomi Indonesia Tumbuh 8 Persen di Tengah Perang Berkat MBG</title>
       <link>https://www.tempo.co/cekfakta/keliru-ekonomi-indonesia-tumbuh-8-persen-di-tengah-perang-berkat-mbg-2127150</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Tue, 07 Apr 2026 11:50:15 +0700</pubDate>
       <description>Tidak ada laporan pertumbuhan ekonomi resmi yang dikeluarkan BPS pada Maret 2026. Apalagi yang menyebut pertumbuhan ekonomi Indonesia mencapai delapan persen.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/07/id_1467644/1467644_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Video Kapal Membuang Sampah di Laut Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-kapal-membuang-sampah-di-laut-indonesia-2127146</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Tue, 07 Apr 2026 11:46:29 +0700</pubDate>
       <description>Meski Indonesia menghadapi persoalan sampah laut, video tersebut merupakan hasil akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/07/id_1467636/1467636_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Sebagian Benar: Indonesia Negara Pertama yang Melarang Media Sosial bagi Anak</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-indonesia-negara-pertama-yang-melarang-media-sosial-bagi-anak-2126889</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Mon, 06 Apr 2026 11:53:13 +0700</pubDate>
       <description>Indonesia menjadi negara pertama di kawasan ASEAN yang menerapkan larangan itu, tapi bukan yang pertama di dunia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/06/id_1467458/1467458_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Menyesatkan: PM Jepang akan Bantu Israel-AS Menyerang Iran</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-pm-jepang-akan-bantu-israel-as-menyerang-iran-2126145</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Thu, 02 Apr 2026 11:12:35 +0700</pubDate>
       <description>Sosok dalam video tersebut bukan Perdana Menteri, melainkan Menteri Pertahanan Jepang.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/02/id_1466960/1466960_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Sebagian Benar: Amerika Serikat Kirim Ribuan Marinir ke Selat Hormuz</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-amerika-serikat-kirim-ribuan-marinir-ke-selat-hormuz-2126141</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Thu, 02 Apr 2026 11:03:29 +0700</pubDate>
       <description>Amerika Serikat memang mengerahkan pasukan Marinir ke Timur Tengah. Namun, rangkaian foto yang beredar terdeteksi sebagai produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/02/id_1466949/1466949_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Foto-foto Upacara Pemakaman Benjamin Netanyahu</title>
       <link>https://www.tempo.co/cekfakta/keliru-foto-foto-upacara-pemakaman-benjamin-netanyahu-2126132</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Thu, 02 Apr 2026 10:33:37 +0700</pubDate>
       <description>Foto-foto yang beredar terbukti produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/02/id_1466942/1466942_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Aturan Baru Tarik Tunai di ATM Bagi Lansia Per 1 April 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-aturan-baru-tarik-tunai-di-atm-bagi-lansia-per-1-april-2026-2126016</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Wed, 01 Apr 2026 19:05:16 +0700</pubDate>
       <description>Tidak ada aturan baru untuk penggunaan ATM bagi lansia.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/01/id_1466864/1466864_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Los Angeles Diserang Iran</title>
-      <link>https://www.tempo.co/cekfakta/keliru-los-angeles-diserang-iran-2125847</link>
-      <guid>8</guid>
-      <pubDate>Wed, 01 Apr 2026 10:41:03 +0700</pubDate>
-      <description>Peristiwa kebakaran itu terjadi di Texas dan bukan karena serangan Iran.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/01/id_1466755/1466755_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Video Kapal Pakistan Diserang Iran di Selat Hormuz</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-video-kapal-pakistan-diserang-iran-di-selat-hormuz-2125564</link>
-      <guid>9</guid>
-      <pubDate>Tue, 31 Mar 2026 11:24:48 +0700</pubDate>
-      <description>Kapal terbakar itu bukan milik Pakistan, melainkan Safeen Prestige berbendera Malta milik Transmar International SHPG.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/03/31/id_1466627/1466627_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
