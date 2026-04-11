@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 10 Apr 2026 06:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:57:02 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Video Tentara Amerika Tiba di Perbatasan Pakistan-Iran</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-tentara-amerika-tiba-di-perbatasan-pakistan-iran-2128011</link>
+      <guid>1</guid>
+      <pubDate>Fri, 10 Apr 2026 14:13:40 +0700</pubDate>
+      <description>Video itu bukan pendaratan tentara Amerika Serikat di perbatasan Pakistan-Iran.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/10/id_1468147/1468147_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Video Pilot Jet Tempur Amerika F-15 Ditawan oleh Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-pilot-jet-tempur-amerika-f-15-ditawan-oleh-iran-2127998</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Fri, 10 Apr 2026 13:41:28 +0700</pubDate>
       <description>Sosok dalam klaim merupakan Kolonel Angkatan Udara AS David William Eberly yang ditawan Irak dalam Operasi Badai Gurun 1991.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/10/id_1468140/1468140_720.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Keliru: Presiden Donald Trump Telah Dilengserkan Akhir Maret 2026</title>
       <link>https://www.tempo.co/cekfakta/keliru-presiden-donald-trump-telah-dilengserkan-akhir-maret-2026-2127996</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Fri, 10 Apr 2026 13:33:39 +0700</pubDate>
       <description>Meski ada unjuk rasa besar-besaran di Amerika, tetapi tidak ada pemakzulan terhadap Trump.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/10/id_1468131/1468131_720.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Menyesatkan: Meteor Jatuh di Lampung Timur</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-meteor-jatuh-di-lampung-timur-2127817</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Thu, 09 Apr 2026 17:17:36 +0700</pubDate>
       <description>Benda langit yang melintasi Lampung bukan meteor atau komet melainkan sampah roket antariksa Cina.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/09/id_1468052/1468052_720.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Sebagian Benar: Obat Warung sebagai Pertolongan Pertama Tanpa Perlu ke Rumah Sakit</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-obat-warung-sebagai-pertolongan-pertama-tanpa-perlu-ke-rumah-sakit-2127811</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Thu, 09 Apr 2026 17:02:20 +0700</pubDate>
       <description>Obat-obatan itu hanya ditujukan untuk mengatasi sakit ringan dan bukan pengganti jika gejala merupakan indikasi penyakit lebih berat.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/09/id_1468047/1468047_720.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Keliru: Video 4 Ribu Tentara AS Tewas di Bandara Ben Gurion</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-4-ribu-tentara-as-tewas-di-bandara-ben-gurion-2127450</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Wed, 08 Apr 2026 12:22:35 +0700</pubDate>
       <description>Faktanya, sejumlah klip video tersebut tak berkaitan dengan serangan Iran di Bandara Ben Gurion, Israel.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/08/id_1467800/1467800_720.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Keliru: Suara.com Beritakan Pernyataan Anies Gulingkan Prabowo</title>
       <link>https://www.tempo.co/cekfakta/keliru-suara-com-beritakan-pernyataan-anies-gulingkan-prabowo-2127436</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Wed, 08 Apr 2026 11:33:49 +0700</pubDate>
       <description>Tangkapan layar berita dan foto yang beredar merupakan hasil rekayasa dari artikel asli dengan judul dan foto yang berbeda.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/08/id_1467792/1467792_720.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Keliru: Ekonomi Indonesia Tumbuh 8 Persen di Tengah Perang Berkat MBG</title>
       <link>https://www.tempo.co/cekfakta/keliru-ekonomi-indonesia-tumbuh-8-persen-di-tengah-perang-berkat-mbg-2127150</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Tue, 07 Apr 2026 11:50:15 +0700</pubDate>
       <description>Tidak ada laporan pertumbuhan ekonomi resmi yang dikeluarkan BPS pada Maret 2026. Apalagi yang menyebut pertumbuhan ekonomi Indonesia mencapai delapan persen.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/07/id_1467644/1467644_720.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Keliru: Video Kapal Membuang Sampah di Laut Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-kapal-membuang-sampah-di-laut-indonesia-2127146</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Tue, 07 Apr 2026 11:46:29 +0700</pubDate>
       <description>Meski Indonesia menghadapi persoalan sampah laut, video tersebut merupakan hasil akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/07/id_1467636/1467636_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Sebagian Benar: Indonesia Negara Pertama yang Melarang Media Sosial bagi Anak</title>
-      <link>https://www.tempo.co/cekfakta/sebagian-benar-indonesia-negara-pertama-yang-melarang-media-sosial-bagi-anak-2126889</link>
-      <guid>9</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:13 +0700</pubDate>
-      <description>Indonesia menjadi negara pertama di kawasan ASEAN yang menerapkan larangan itu, tapi bukan yang pertama di dunia.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/06/id_1467458/1467458_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
