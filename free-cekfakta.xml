@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Fri, 17 Apr 2026 06:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 06:10:04 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Indonesia Peringkat 5 Populasi LGBT di Dunia Menurut Data CIA</title>
+      <link>https://www.tempo.co/cekfakta/keliru-indonesia-peringkat-5-populasi-lgbt-di-dunia-menurut-data-cia-2129720</link>
+      <guid>1</guid>
+      <pubDate>Fri, 17 Apr 2026 15:31:52 +0700</pubDate>
+      <description>Tidak ada studi maupun riset LGBT yang dirilis oleh lembaga intelijen AS itu.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/17/id_1469280/1469280_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Foto Pilot F-15 yang Berhasil Diselamatkan AS</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-pilot-f-15-yang-berhasil-diselamatkan-as-2129717</link>
+      <guid>2</guid>
+      <pubDate>Fri, 17 Apr 2026 15:16:44 +0700</pubDate>
+      <description>Foto-foto yang beredar terbukti produk akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/17/id_1469269/1469269_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Ponsel Tiba-Tiba Panas dan Boros Baterai Tanda Ada Penyadapan</title>
       <link>https://www.tempo.co/cekfakta/keliru-ponsel-tiba-tiba-panas-dan-boros-baterai-tanda-ada-penyadapan-2129378</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Thu, 16 Apr 2026 11:19:48 +0700</pubDate>
       <description>Banyak faktor yang dapat memicu panas dan borosnya baterai ponsel.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/16/id_1469080/1469080_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Video Penyerangan PM Israel Benjamin Netanyahu oleh Anggota Parlemen</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-penyerangan-pm-israel-benjamin-netanyahu-oleh-anggota-parlemen-2129220</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 15 Apr 2026 18:22:28 +0700</pubDate>
       <description>Pria dalam video itu bukan Perdana Menteri Israel Benjamin Netanyahu.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/15/id_1468993/1468993_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Pengusaha Indonesia Berdonasi Ratusan Triliun Rupiah untuk Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-pengusaha-indonesia-berdonasi-ratusan-triliun-rupiah-untuk-iran-2129216</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 15 Apr 2026 18:03:31 +0700</pubDate>
       <description>Foto-foto yang beredar merupakan produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/15/id_1468978/1468978_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Video Trump Minta Damai Setelah Iran Hancurkan Haifa dan Tel Aviv</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-trump-minta-damai-setelah-iran-hancurkan-haifa-dan-tel-aviv-2129122</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Wed, 15 Apr 2026 12:43:45 +0700</pubDate>
       <description>Konten yang beredar terdiri dari kompilasi video dari berbagai peristiwa yang berbeda.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/15/id_1468905/1468905_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Penangkapan Pilot Jet Tempur AS oleh Militer Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-penangkapan-pilot-jet-tempur-as-oleh-militer-iran-2128819</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Tue, 14 Apr 2026 11:40:23 +0700</pubDate>
       <description>Konten tersebut hasil akal imitasi dan rekaman lama yang tak terkait konflik.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/14/id_1468716/1468716_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Video Perang AS-Israel dan Iran Terjadi di Darat</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-perang-as-israel-dan-iran-terjadi-di-darat-2128802</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Tue, 14 Apr 2026 10:46:53 +0700</pubDate>
       <description>Video yang beredar merupakan gabungan konten hasil akal imitasi dan rekaman peristiwa sebelum pecahnya perang AS-Israel melawan Iran pada Maret 2026.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/14/id_1468702/1468702_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Donald Trump Singgung Sunni dan Syiah di Indonesia terkait Dukungan ke Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-donald-trump-singgung-sunni-dan-syiah-di-indonesia-terkait-dukungan-ke-iran-2128753</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Tue, 14 Apr 2026 07:59:38 +0700</pubDate>
       <description>Tidak ditemukan bukti Donald Trump menyinggung soal Sunni dan Syiah di Indonesia terkait dukungan terhadap Iran.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/14/id_1468684/1468684_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Prabowo Deklarasikan Gabung Iran Lawan Israel</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-prabowo-deklarasikan-gabung-iran-lawan-israel-2128578</link>
-      <guid>8</guid>
-      <pubDate>Mon, 13 Apr 2026 13:30:05 +0700</pubDate>
-      <description>Indonesia tidak pernah menyatakan akan ikut memerangi Israel bersama Iran.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/13/id_1468542/1468542_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Surat Keputusan Perubahan Pemilu di Kerajaan Banjar</title>
-      <link>https://www.tempo.co/cekfakta/keliru-surat-keputusan-perubahan-pemilu-di-kerajaan-banjar-2128550</link>
-      <guid>9</guid>
-      <pubDate>Mon, 13 Apr 2026 12:03:46 +0700</pubDate>
-      <description>Tidak ada lembaga atau organisasi resmi bernama Staf Ahli Republik Indonesia.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/13/id_1468512/1468512_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
