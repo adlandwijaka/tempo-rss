@@ -4,13 +4,22 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 23 Apr 2026 06:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:02:11 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Magang di Tempo: Naskah Masuk Desk Bahasa Setelah Editor</title>
+      <link>https://www.tempo.co/wawancara/magang-di-tempo-naskah-masuk-desk-bahasa-setelah-editor-2131290</link>
+      <guid>1</guid>
+      <pubDate>Fri, 24 Apr 2026 02:45:50 +0700</pubDate>
+      <description>Mahasiswa magang mengenal tahap penyuntingan berlapis, termasuk peran desk bahasa sebagai pemeriksaan akhir sebelum berita dipublikasikan.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/04/23/id_1470293/1470293_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Tren Konsumsi Minuman Manis Makin Meningkat</title>
       <link>https://www.tempo.co/wawancara/upaya-bpom-mencegah-penyakit-non-infeksi-2130347</link>
-      <guid>1</guid>
+      <guid>2</guid>
       <pubDate>Mon, 20 Apr 2026 16:02:00 +0700</pubDate>
       <description>Kepala BPOM Taruna Ikrar menjelaskan pelbagai isu, dari pentingnya nutri-level, kosmetik ilegal, whip pink, dan proyek MBG.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/19/911201/911201_1200.jpg</thumbnail>
@@ -19,7 +28,7 @@
     <item>
       <title>Kata Taruna Ikrar soal Whip Pink hingga Tukang Stempel</title>
       <link>https://www.tempo.co/wawancara/bpom-taruna-ikrar-minuman-manis-2130346</link>
-      <guid>2</guid>
+      <guid>3</guid>
       <pubDate>Mon, 20 Apr 2026 16:00:00 +0700</pubDate>
       <description>Taruna Ikrar menjelaskan pelbagai tugas BPOM yang bukan sekadar tukang stempel.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/19/911199/911199_1200.jpg</thumbnail>
@@ -28,7 +37,7 @@
     <item>
       <title>Perlawanan yang Kian Keras</title>
       <link>https://www.tempo.co/wawancara/perlawanan-saiful-mujani-pada-prabowo-2130049</link>
-      <guid>3</guid>
+      <guid>4</guid>
       <pubDate>Sun, 19 Apr 2026 19:00:00 +0700</pubDate>
       <description>Wawancara Saiful Mujani soal pernyataannya memakzulkan Prabowo. Secara moral atau faktual?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/08/910388/910388_1200.jpg</thumbnail>
@@ -37,7 +46,7 @@
     <item>
       <title>Saiful Mujani: Kalau Prabowo Turun, Gibran Ikut Turun</title>
       <link>https://www.tempo.co/wawancara/saiful-mujani-pemakzulan-prabowo-gibran-2130038</link>
-      <guid>4</guid>
+      <guid>5</guid>
       <pubDate>Sun, 19 Apr 2026 12:15:00 +0700</pubDate>
       <description>Saiful Mujani menjelaskan sikapnya soal pemakzulan Presiden Prabowo Subianto dan sumber kerusakan demokrasi di berbagai negara.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/17/911039/911039_1200.jpg</thumbnail>
@@ -46,7 +55,7 @@
     <item>
       <title>Menteri HAM: Sidang Teror Air Keras Harus Terbuka</title>
       <link>https://www.tempo.co/wawancara/natalius-pigai-ham-kasus-andrie-yunus-2128639</link>
-      <guid>5</guid>
+      <guid>6</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:00 +0700</pubDate>
       <description>Menteri HAM Natalius Pigai menjelaskan pandangannya soal kasus penyiraman air keras terhadap Andrie Yunus dan masalah di Papua.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/12/910711/910711_1200.jpg</thumbnail>
@@ -55,7 +64,7 @@
     <item>
       <title>Sisi Lain Pigai dan Teror Air Keras</title>
       <link>https://www.tempo.co/wawancara/sisi-lain-pigai-dan-teror-air-keras-2128641</link>
-      <guid>6</guid>
+      <guid>7</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:00 +0700</pubDate>
       <description>Menteri HAM Natalius Pigai menjelaskan soal kekayaannya dan teror air keras terhadap Andrie Yunus.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/12/910711/910711_1200.jpg</thumbnail>
@@ -64,7 +73,7 @@
     <item>
       <title>Mainan One Piece Menteri Maman Abdurrahman</title>
       <link>https://www.tempo.co/wawancara/mainan-one-piece-maman-abdurrahman-2128484</link>
-      <guid>7</guid>
+      <guid>8</guid>
       <pubDate>Mon, 13 Apr 2026 08:40:00 +0700</pubDate>
       <description>Wawancara Menteri UMKM Maman Abdurrahman yang mengoleksi action figure One Piece.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/10/910507/910507_1200.jpg</thumbnail>
@@ -73,19 +82,10 @@
     <item>
       <title>Penikmat Kredit Rp 8.000 Triliun Itu 10 Keluarga Saja</title>
       <link>https://www.tempo.co/wawancara/keluarga-penikmat-kredit-bank-2128283</link>
-      <guid>8</guid>
+      <guid>9</guid>
       <pubDate>Sun, 12 Apr 2026 09:00:00 +0700</pubDate>
       <description>Kredit macet UMKM naik. Kredit besar dinikmati konglomerat, kata Menteri UMKM Maman Abdurrahman.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/10/910508/910508_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Kisah Muhammad Rosidi, Korban Teror Penyiraman Air Keras</title>
-      <link>https://www.tempo.co/wawancara/teror-air-keras-muhammad-rosidi-aktivis-lingkungan-2127005</link>
-      <guid>9</guid>
-      <pubDate>Mon, 06 Apr 2026 18:35:00 +0700</pubDate>
-      <description>Kerap mengkritik penambangan ilegal, Muhammad Rosidi menjadi korban penyiraman air keras di Bangka Belitung. Luka bakar di tangan, kaki, dan selangkangan.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/04/05/910166/910166_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
