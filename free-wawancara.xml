@@ -4,13 +4,40 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sun, 03 May 2026 07:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:44:17 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Ketua LPSK: Banyak Terpidana Tak Memenuhi Hak Korban</title>
+      <link>https://www.tempo.co/wawancara/lpsk-terpidana-tak-membayar-restitusi-2133422</link>
+      <guid>1</guid>
+      <pubDate>Mon, 04 May 2026 13:00:00 +0700</pubDate>
+      <description>Ketua LPSK Achmadi menjelaskan poin-poin penting UU Perlindungan Saksi dan Korban. Korban kejahatan berhak mendapat restitusi.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/05/03/912243/912243_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Beda Restitusi dan Kompensasi Bagi Korban Kejahatan</title>
+      <link>https://www.tempo.co/wawancara/restitusi-kompensasi-korban-kejahatan-lpsk-2133420</link>
+      <guid>2</guid>
+      <pubDate>Mon, 04 May 2026 13:00:00 +0700</pubDate>
+      <description>Undang-Undang Perlindungan Saksi dan Korban yang baru disahkan memperkuat kerja LPSK. Melindungi informan.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/05/03/912242/912242_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Lobi-lobi Mewawancarai Nadiem Makarim</title>
+      <link>https://www.tempo.co/wawancara/lobi-lobi-wawancara-nadiem-makarim-2133287</link>
+      <guid>3</guid>
+      <pubDate>Sun, 03 May 2026 17:30:00 +0700</pubDate>
+      <description>Nadiem Makarim membeberkan kasus dugaan korupsi laptop Chromebook yang menjeratnya.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/05/01/912110/912110_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Nadiem: Jaksa Gagal Menemukan Aliran Dana Google ke Saya</title>
       <link>https://www.tempo.co/wawancara/nadiem-makarim-laptop-chromebook-2133241</link>
-      <guid>1</guid>
+      <guid>4</guid>
       <pubDate>Sun, 03 May 2026 11:00:00 +0700</pubDate>
       <description>Nadiem Makarim buka-bukaan soal tuduhan korupsi Chromebook. Ia mengklaim lebih banyak bertemu dengan Microsoft ketimbang Google.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/05/01/912111/912111_1200.jpg</thumbnail>
@@ -19,7 +46,7 @@
     <item>
       <title>Sahrin Hamid: Donatur Tak Boleh Intervensi Partai</title>
       <link>https://www.tempo.co/wawancara/sahrin-hamid-partai-gerakan-rakyat-2132010</link>
-      <guid>2</guid>
+      <guid>5</guid>
       <pubDate>Mon, 27 Apr 2026 16:02:00 +0700</pubDate>
       <description>Sahrin Hamid menjelaskan latar belakang pembentukan Partai Gerakan Rakyat serta hubungannya dengan Anies Baswedan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/26/911756/911756_1200.jpg</thumbnail>
@@ -28,7 +55,7 @@
     <item>
       <title>Alasan Anak Abah Mendirikan Partai Gerakan Rakyat</title>
       <link>https://www.tempo.co/wawancara/alasan-anak-abah-mendirikan-partai-gerakan-rakyat-2132009</link>
-      <guid>3</guid>
+      <guid>6</guid>
       <pubDate>Mon, 27 Apr 2026 16:00:00 +0700</pubDate>
       <description>Sahrin Hamid menjelaskan asal-usul relawan Anies Baswedan memilih harimau sebagai lambang Partai Gerakan Rakyat.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/26/911754/911754_1200.jpg</thumbnail>
@@ -37,7 +64,7 @@
     <item>
       <title>Banyak Utang Minim Pendapatan</title>
       <link>https://www.tempo.co/wawancara/banyak-utang-minim-penerimaan-negara-2131784</link>
-      <guid>4</guid>
+      <guid>7</guid>
       <pubDate>Sun, 26 Apr 2026 17:00:00 +0700</pubDate>
       <description>Arti status outlook negatif Fitch Ratings untuk Indonesia. Bunga utang tak sebanding dengan pendapatan negara.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/24/911549/911549_1200.jpg</thumbnail>
@@ -46,7 +73,7 @@
     <item>
       <title>Saat Ini Ketidakpastian Ekonomi Terlihat Lebih Besar</title>
       <link>https://www.tempo.co/wawancara/fitch-ratings-ketidakpastian-ekonomi-2131654</link>
-      <guid>5</guid>
+      <guid>8</guid>
       <pubDate>Sun, 26 Apr 2026 12:00:00 +0700</pubDate>
       <description>Petinggi Fitch Ratings, George Xu, menjelaskan berbagai kekhawatiran investor terhadap kebijakan Presiden Prabowo Subianto.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/24/911548/911548_1200.jpg</thumbnail>
@@ -55,37 +82,10 @@
     <item>
       <title>Magang di Tempo: Naskah Masuk Desk Bahasa Setelah Editor</title>
       <link>https://www.tempo.co/wawancara/magang-di-tempo-naskah-masuk-desk-bahasa-setelah-editor-2131290</link>
-      <guid>6</guid>
+      <guid>9</guid>
       <pubDate>Fri, 24 Apr 2026 02:45:50 +0700</pubDate>
       <description>Mahasiswa magang mengenal tahap penyuntingan berlapis, termasuk peran desk bahasa sebagai pemeriksaan akhir sebelum berita dipublikasikan.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/23/id_1470293/1470293_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Tren Konsumsi Minuman Manis Makin Meningkat</title>
-      <link>https://www.tempo.co/wawancara/upaya-bpom-mencegah-penyakit-non-infeksi-2130347</link>
-      <guid>7</guid>
-      <pubDate>Mon, 20 Apr 2026 16:02:00 +0700</pubDate>
-      <description>Kepala BPOM Taruna Ikrar menjelaskan pelbagai isu, dari pentingnya nutri-level, kosmetik ilegal, whip pink, dan proyek MBG.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/04/19/911201/911201_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Kata Taruna Ikrar soal Whip Pink hingga Tukang Stempel</title>
-      <link>https://www.tempo.co/wawancara/bpom-taruna-ikrar-minuman-manis-2130346</link>
-      <guid>8</guid>
-      <pubDate>Mon, 20 Apr 2026 16:00:00 +0700</pubDate>
-      <description>Taruna Ikrar menjelaskan pelbagai tugas BPOM yang bukan sekadar tukang stempel.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/04/19/911199/911199_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Perlawanan yang Kian Keras</title>
-      <link>https://www.tempo.co/wawancara/perlawanan-saiful-mujani-pada-prabowo-2130049</link>
-      <guid>9</guid>
-      <pubDate>Sun, 19 Apr 2026 19:00:00 +0700</pubDate>
-      <description>Wawancara Saiful Mujani soal pernyataannya memakzulkan Prabowo. Secara moral atau faktual?</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/04/08/910388/910388_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
