@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Wed, 06 May 2026 07:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:39:19 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Sebagian Benar: Video Bom Sejjil Iran Menembus Bunker IDF</title>
+      <link>https://www.tempo.co/cekfakta/sebagian-benar-video-bom-sejjil-iran-menembus-bunker-idf-2134288</link>
+      <guid>1</guid>
+      <pubDate>Thu, 07 May 2026 13:00:00 +0700</pubDate>
+      <description>Hasil verifikasi menunjukkan salah satu klip merekam bekas serangan roket Iran pada bunker di Israel namun tempat perlindungan itu milik warga bukan IDF.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/05/07/id_1472232/1472232_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Video Turki Pamerkan Rudal Berdaya Jangkau 5.500 Kilometer</title>
+      <link>https://www.tempo.co/cekfakta/keliru-video-turki-pamerkan-rudal-berdaya-jangkau-5-500-kilometer-2134192</link>
+      <guid>2</guid>
+      <pubDate>Thu, 07 May 2026 08:47:00 +0700</pubDate>
+      <description>Video yang beredar merupakan produk akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/05/07/id_1472208/1472208_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Menag Minta Warga Setor Dana Kurban ke Baznas</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-menag-minta-warga-setor-dana-kurban-ke-baznas-2134000</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Wed, 06 May 2026 13:00:00 +0700</pubDate>
       <description>Faktanya Menteri Agama Nasaruddin Umar tidak pernah menyarankan masyarakat menyetor dana kurban ke Baznas untuk dikelola pemerintah.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/06/id_1472028/1472028_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Prabowo Diundang Jembatani Dialog Iran, Amerika, dan Israel</title>
       <link>https://www.tempo.co/cekfakta/keliru-prabowo-diundang-jembatani-dialog-iran-amerika-dan-israel-2133933</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Wed, 06 May 2026 08:41:00 +0700</pubDate>
       <description>Hasil verifikasi menunjukkan tidak ada undangan khusus bagi Prabowo Subianto untuk menjembatani dialog antara Iran, Amerika Serikat, dan Israel.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/06/id_1472027/1472027_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Menyesatkan: Gurun Pasir Iran Banjir Akibat Hancurnya Radar AS</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-gurun-pasir-iran-banjir-akibat-hancurnya-radar-as-2133747</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Tue, 05 May 2026 13:00:00 +0700</pubDate>
       <description>Fakta menunjukkan narasi yang beredar memiliki konteks keliru.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/05/id_1471876/1471876_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Sebagian Benar: Konsumsi Garam Menghilangkan Migrain</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-konsumsi-garam-menghilangkan-migrain-2133664</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 05 May 2026 08:00:00 +0700</pubDate>
       <description>Konsumsi garam hanya bisa meredakan sakit kepala yang dipicu kekurangan cairan atau natrium. Namun, tidak efektif apabila sakit kepala disebabkan faktor lain.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/05/id_1471873/1471873_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Putin Sindir Negara Muslim yang Tak Bela Iran dan Palestina</title>
       <link>https://www.tempo.co/cekfakta/keliru-putin-sindir-negara-muslim-yang-tak-bela-iran-dan-palestina-2133567</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Mon, 04 May 2026 13:00:00 +0700</pubDate>
       <description>Tidak ditemukan arsip pernyataan Putin yang menyindir negara islam dalam konteks perang Iran melawan Amerika</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/04/id_1471730/1471730_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Tes PCR Disebut Penipuan untuk Menciptakan Ilusi Virus</title>
       <link>https://www.tempo.co/cekfakta/keliru-tes-pcr-disebut-penipuan-untuk-menciptakan-ilusi-virus-2133472</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 04 May 2026 11:14:00 +0700</pubDate>
       <description>Konten tersebut tidak berdasarkan fakta ilmiah lantaran berlandaskan pada teori konspirasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/04/id_1471729/1471729_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Jahe, Kunyit, Kencur, dan Serai Bersihkan Paru-paru dari Asap Rokok</title>
       <link>https://www.tempo.co/cekfakta/keliru-jahe-kunyit-kencur-dan-serai-bersihkan-paru-paru-dari-asap-rokok-2132691</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Thu, 30 Apr 2026 10:33:48 +0700</pubDate>
       <description>Secara medis racun yang telah mengendap di paru-paru tidak dapat dikeluarkan menggunakan ramuan apa pun.</description>
       <thumbnail>https://statik.tempo.co/data/2026/04/30/id_1471219/1471219_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>KELIRU: Video Ratusan Kapal Perang Prancis untuk Buka Selat Hormuz</title>
-      <link>https://www.tempo.co/cekfakta/keliru-video-ratusan-kapal-perang-prancis-untuk-buka-selat-hormuz-2132440</link>
-      <guid>8</guid>
-      <pubDate>Wed, 29 Apr 2026 10:14:34 +0700</pubDate>
-      <description>Video yang beredar terbukti salah konteks karena armada yang ditampilkan bukan milik Prancis dan misinya bukan untuk membuka blokade Selat Hormuz.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/29/id_1471052/1471052_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Menteri Agama Kecewa Masyarakat Tak Dukung Dana Rp 1.000 Triliun</title>
-      <link>https://www.tempo.co/cekfakta/keliru-menteri-agama-kecewa-masyarakat-tak-dukung-dana-rp-1-000-triliun-2132435</link>
-      <guid>9</guid>
-      <pubDate>Wed, 29 Apr 2026 09:48:13 +0700</pubDate>
-      <description>Menteri Agama Nasaruddin Umar tak pernah menyatakan kekecewaan akibat minimnya dukungan masyarakat dalam pengumpulan dana Rp 1.000 triliun.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/04/29/id_1471044/1471044_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
