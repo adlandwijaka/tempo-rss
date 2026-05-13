@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Tue, 12 May 2026 07:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:45:14 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Narasi Agenda Nonton Bareng Film Pesta Babi Hanya Hoaks</title>
+      <link>https://www.tempo.co/cekfakta/keliru-narasi-agenda-nonton-bareng-film-pesta-babi-hanya-hoaks-2135549</link>
+      <guid>1</guid>
+      <pubDate>Wed, 13 May 2026 11:40:00 +0700</pubDate>
+      <description>Nobar film dokumenter Pesta Babi benar diagendakan dan telah terlaksana di 800 lokasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/05/13/id_1473109/1473109_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Menyesatkan: Klaim Hujan Deras Iran Akibat Penghancuran Radar Amerika dan Israel</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-hujan-deras-iran-akibat-penghancuran-radar-amerika-dan-israel-2135331</link>
+      <guid>2</guid>
+      <pubDate>Tue, 12 May 2026 14:21:00 +0700</pubDate>
+      <description>Hujan deras dan salju di berbagai wilayah Iran murni dipicu perubahan iklim dan tidak berkaitan dengan kerusakan radar Amerika Serikat atau Israel.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/05/12/id_1472956/1472956_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Kim Jong Un Kirim Lima Kapal Perang Bersenjata Nuklir ke Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-kim-jong-un-kirim-lima-kapal-perang-bersenjata-nuklir-ke-iran-2135169</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Mon, 11 May 2026 13:00:00 +0700</pubDate>
       <description>Kim tidak pernah mengumumkan pengiriman kapal perang ke Timur Tengah.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/11/id_1472713/1472713_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Buah Persik Bisa Menyembuhkan Kebutaan</title>
       <link>https://www.tempo.co/cekfakta/keliru-buah-persik-bisa-menyembuhkan-kebutaan-2135011</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Mon, 11 May 2026 08:00:00 +0700</pubDate>
       <description>Meski buah persik bermanfaat bagi kesehatan mata namun tidak semua masalah mata dapat sembuh hanya dengan mengkonsumsi buah persik.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/11/id_1472709/1472709_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Video Iran Tampilkan Tentara Israel yang Ditawan</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-iran-tampilkan-tentara-israel-yang-ditawan-2134694</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Fri, 08 May 2026 13:00:00 +0700</pubDate>
       <description>Video yang beredar merupakan buatan akal imitasi dengan narasi keliru.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/08/id_1472347/1472347_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: NATO Umumkan Kemenangan Iran</title>
       <link>https://www.tempo.co/cekfakta/keliru-nato-umumkan-kemenangan-iran-2134448</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Fri, 08 May 2026 08:29:00 +0700</pubDate>
       <description>Tidak ditemukan pernyataan resmi NATO yang menyebut Iran menang. Konflik antara Iran melawan Amerika Serikat dan Israel pun belum berakhir.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/08/id_1472345/1472345_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Sebagian Benar: Video Bom Sejjil Iran Menembus Bunker IDF</title>
       <link>https://www.tempo.co/cekfakta/sebagian-benar-video-bom-sejjil-iran-menembus-bunker-idf-2134288</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Thu, 07 May 2026 13:00:00 +0700</pubDate>
       <description>Hasil verifikasi menunjukkan salah satu klip merekam bekas serangan roket Iran pada bunker di Israel namun tempat perlindungan itu milik warga bukan IDF.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/07/id_1472232/1472232_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Keliru: Video Turki Pamerkan Rudal Berdaya Jangkau 5.500 Kilometer</title>
       <link>https://www.tempo.co/cekfakta/keliru-video-turki-pamerkan-rudal-berdaya-jangkau-5-500-kilometer-2134192</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Thu, 07 May 2026 08:47:00 +0700</pubDate>
       <description>Video yang beredar merupakan produk akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/07/id_1472208/1472208_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Menyesatkan: Menag Minta Warga Setor Dana Kurban ke Baznas</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-menag-minta-warga-setor-dana-kurban-ke-baznas-2134000</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Wed, 06 May 2026 13:00:00 +0700</pubDate>
       <description>Faktanya Menteri Agama Nasaruddin Umar tidak pernah menyarankan masyarakat menyetor dana kurban ke Baznas untuk dikelola pemerintah.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/06/id_1472028/1472028_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Prabowo Diundang Jembatani Dialog Iran, Amerika, dan Israel</title>
-      <link>https://www.tempo.co/cekfakta/keliru-prabowo-diundang-jembatani-dialog-iran-amerika-dan-israel-2133933</link>
-      <guid>8</guid>
-      <pubDate>Wed, 06 May 2026 08:41:00 +0700</pubDate>
-      <description>Hasil verifikasi menunjukkan tidak ada undangan khusus bagi Prabowo Subianto untuk menjembatani dialog antara Iran, Amerika Serikat, dan Israel.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/06/id_1472027/1472027_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Menyesatkan: Gurun Pasir Iran Banjir Akibat Hancurnya Radar AS</title>
-      <link>https://www.tempo.co/cekfakta/menyesatkan-gurun-pasir-iran-banjir-akibat-hancurnya-radar-as-2133747</link>
-      <guid>9</guid>
-      <pubDate>Tue, 05 May 2026 13:00:00 +0700</pubDate>
-      <description>Fakta menunjukkan narasi yang beredar memiliki konteks keliru.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/05/id_1471876/1471876_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
