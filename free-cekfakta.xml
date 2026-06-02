@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Mon, 01 Jun 2026 10:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:02:12 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Menyesatkan: Virus Hanta Tidak Menular AntarManusia dan Vaksinnya telah Dipatenkan Sejak 2022</title>
+      <link>https://www.tempo.co/cekfakta/menyesatkan-virus-hanta-tidak-menular-antarmanusia-dan-vaksinnya-telah-dipatenkan-sejak-2022-2139479</link>
+      <guid>1</guid>
+      <pubDate>Tue, 02 Jun 2026 13:00:00 +0700</pubDate>
+      <description>Virus hanta jenis Andes dapat menular antarmanusia. Paten 2022 pun bukan vaksin, melainkan protein antigen untuk pengembangan vaksin.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475665/1475665_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Episode The Simpsons Memprediksi Infeksi Virus Hanta</title>
+      <link>https://www.tempo.co/cekfakta/keliru-episode-the-simpsons-memprediksi-infeksi-virus-hanta-2139478</link>
+      <guid>2</guid>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0700</pubDate>
+      <description>Gambar yang beredar telah dimodifikasi menggunakan mesin akal imitasi.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475657/1475657_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Menyesatkan: Pandemi Virus Hanta 2026 Telah Diprediksi Sejak 2022</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-pandemi-virus-hanta-2026-telah-diprediksi-sejak-2022-2139300</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Mon, 01 Jun 2026 11:52:00 +0700</pubDate>
       <description>Cuitan akun Soothsayer itu benar ada, namun virus Hanta sebenarnya telah lama diidentifikasi serta mewabah sejak 1950-an.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475656/1475656_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Keliru: Klaim Virus Hanta sebagai Senjata Biologis AS dalam Film The X-Files</title>
       <link>https://www.tempo.co/cekfakta/keliru-klaim-virus-hanta-sebagai-senjata-biologis-as-dalam-film-the-x-files-2139291</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Mon, 01 Jun 2026 11:43:00 +0700</pubDate>
       <description>Kematian dalam film fiksi The X-Files: Fight the Future dipicu oleh virus alien fiktif dan bukan virus Hanta.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475655/1475655_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Klaim Virus Hanta adalah Konspirasi Seperti Covid-19</title>
       <link>https://www.tempo.co/cekfakta/keliru-klaim-virus-hanta-adalah-konspirasi-seperti-covid-19-2138763</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Fri, 29 May 2026 12:38:00 +0700</pubDate>
       <description>Tidak ada bukti ilmiah valid yang menyokong klaim bahwa virus Hanta merupakan produk konspirasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/29/id_1475208/1475208_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Keliru: Virus Hanta Jenis Andes adalah Virus yang Baru Ditebar</title>
       <link>https://www.tempo.co/cekfakta/keliru-virus-hanta-jenis-andes-adalah-virus-yang-baru-ditebar-2138761</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Fri, 29 May 2026 12:24:00 +0700</pubDate>
       <description>Jauh sebelum merebak di kapal pesiar MV Hondius, virus Hanta strain Andes telah mewabah di Argentina pada 1996 dan 2018.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/29/id_1475206/1475206_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Menyesatkan: Virus Hanta Hanya Pengalihan Kasus Pornografi Kru Disney</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-virus-hanta-hanya-pengalihan-kasus-pornografi-kru-disney-2138605</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Thu, 28 May 2026 12:51:00 +0700</pubDate>
       <description>Tak ada kaitan antara kemunculan virus Hanta dan kasus hukum pegawai Disney.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/28/id_1475105/1475105_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Menyesatkan: Klaim Moderna Siapkan Vaksin Sejak 2023 demi Rekayasa Virus Hanta</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-moderna-siapkan-vaksin-sejak-2023-demi-rekayasa-virus-hanta-2138603</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Thu, 28 May 2026 12:42:00 +0700</pubDate>
       <description>Vaksin ini dirintis peneliti Korea Selatan, sedangkan kolaborasi Korea University-Moderna sejak 2023 baru sebatas pengembangan berbasis mRNA.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/28/id_1475104/1475104_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Virus Hanta telah Direncanakan dan Tertulis dalam Epstein Files</title>
       <link>https://www.tempo.co/cekfakta/keliru-virus-hanta-telah-direncanakan-dan-tertulis-dalam-epstein-files-2138584</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Wed, 27 May 2026 13:00:00 +0700</pubDate>
       <description>Virus Hanta pertama kali ditemukan pada 1950an saat perang korea, sedangkan Jeffrey Epstein baru lahir pada 1953.</description>
       <thumbnail>https://statik.tempo.co/data/2026/05/27/id_1474947/1474947_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Klaim WHO Sebut Virus Hanta untuk Promosikan Vaksin Massal Anak</title>
-      <link>https://www.tempo.co/cekfakta/keliru-klaim-who-sebut-virus-hanta-untuk-promosikan-vaksin-massal-anak-2138423</link>
-      <guid>8</guid>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0700</pubDate>
-      <description>Tidak pernah ada pernyataan resmi WHO yang menyebutkan bahwa virus Hanta jadi media promosi vaksin massal anak.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/27/id_1474940/1474940_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Istilah Virus Hanta Berasal dari Bahasa Ibrani yang Berarti Pembohong</title>
-      <link>https://www.tempo.co/cekfakta/keliru-istilah-virus-hanta-berasal-dari-bahasa-ibrani-yang-berarti-pembohong-2138332</link>
-      <guid>9</guid>
-      <pubDate>Tue, 26 May 2026 13:00:00 +0700</pubDate>
-      <description>Faktanya, nama virus hanta berasal dari Korea Selatan, bukan bahasa Ibrani.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/26/id_1474835/1474835_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
