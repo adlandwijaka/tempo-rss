@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Thu, 04 Jun 2026 08:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:40:06 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Keliru: Foto Presiden Suriah Lepas Sepatu Saat Bertemu Trump</title>
+      <link>https://www.tempo.co/cekfakta/keliru-foto-presiden-suriah-lepas-sepatu-saat-bertemu-trump-2253030</link>
+      <guid>1</guid>
+      <pubDate>Fri, 05 Jun 2026 14:30:00 +0700</pubDate>
+      <description>Foto pertemuan al-Sharaa dengan Trump dan tangkapan layar saat dirinya salat telah direkayasa. Konten manipulatif itu dibingkai dengan narasi SARA.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/06/05/id_1476332/1476332_720.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Keliru: Klaim Komnas HAM dan Natalius Pigai Desak Iran Tinggalkan Selat Hormuz</title>
+      <link>https://www.tempo.co/cekfakta/keliru-klaim-komnas-ham-dan-natalius-pigai-desak-iran-tinggalkan-selat-hormuz-2253011</link>
+      <guid>2</guid>
+      <pubDate>Fri, 05 Jun 2026 13:28:00 +0700</pubDate>
+      <description>Pigai maupun Komnas HAM tidak pernah mengeluarkan pernyataan tersebut.</description>
+      <thumbnail>https://statik.tempo.co/data/2026/06/05/id_1476327/1476327_720.jpg</thumbnail>
+    </item>
 
     <item>
       <title>Keliru: Rupiah Sengaja Dilemahkan oleh Bank Indonesia</title>
       <link>https://www.tempo.co/cekfakta/keliru-rupiah-sengaja-dilemahkan-oleh-bank-indonesia-2221690</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Thu, 04 Jun 2026 14:20:00 +0700</pubDate>
       <description>Tidak ada indikasi BI sengaja melakukan pelemahan rupiah. Sebaliknya, mandat bank sentral tersebut adalah menjaga stabilitas nilai rupiah.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/04/id_1476177/1476177_720.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Menyesatkan: Klaim Pijat Jari Sembuhkan Penyakit Tanpa Obat</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-klaim-pijat-jari-sembuhkan-penyakit-tanpa-obat-2217963</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Thu, 04 Jun 2026 12:13:00 +0700</pubDate>
       <description>Tidak ada kajian ilmiah yang membuktikan memijat jari tangan bisa menyembuhkan penyakit tanpa obat.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/04/id_1476161/1476161_720.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Keliru: Ramuan Pemutih Gigi dalam 2 Menit</title>
       <link>https://www.tempo.co/cekfakta/keliru-ramuan-pemutih-gigi-dalam-2-menit-2213771</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Wed, 03 Jun 2026 07:30:00 +0700</pubDate>
       <description>Tidak ada riset yang membuktikan ramuan itu mampu memutihkan gigi dalam dua menit.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/03/id_1475905/1475905_720.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Menyesatkan: Virus Hanta Tidak Menular AntarManusia dan Vaksinnya telah Dipatenkan Sejak 2022</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-virus-hanta-tidak-menular-antarmanusia-dan-vaksinnya-telah-dipatenkan-sejak-2022-2139479</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Tue, 02 Jun 2026 13:00:00 +0700</pubDate>
       <description>Virus hanta jenis Andes dapat menular antarmanusia. Paten 2022 pun bukan vaksin, melainkan protein antigen untuk pengembangan vaksin.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475665/1475665_720.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Keliru: Episode The Simpsons Memprediksi Infeksi Virus Hanta</title>
       <link>https://www.tempo.co/cekfakta/keliru-episode-the-simpsons-memprediksi-infeksi-virus-hanta-2139478</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Tue, 02 Jun 2026 07:00:00 +0700</pubDate>
       <description>Gambar yang beredar telah dimodifikasi menggunakan mesin akal imitasi.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475657/1475657_720.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Menyesatkan: Pandemi Virus Hanta 2026 Telah Diprediksi Sejak 2022</title>
       <link>https://www.tempo.co/cekfakta/menyesatkan-pandemi-virus-hanta-2026-telah-diprediksi-sejak-2022-2139300</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Mon, 01 Jun 2026 11:52:00 +0700</pubDate>
       <description>Cuitan akun Soothsayer itu benar ada, namun virus Hanta sebenarnya telah lama diidentifikasi serta mewabah sejak 1950-an.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475656/1475656_720.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Keliru: Klaim Virus Hanta sebagai Senjata Biologis AS dalam Film The X-Files</title>
       <link>https://www.tempo.co/cekfakta/keliru-klaim-virus-hanta-sebagai-senjata-biologis-as-dalam-film-the-x-files-2139291</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Mon, 01 Jun 2026 11:43:00 +0700</pubDate>
       <description>Kematian dalam film fiksi The X-Files: Fight the Future dipicu oleh virus alien fiktif dan bukan virus Hanta.</description>
       <thumbnail>https://statik.tempo.co/data/2026/06/01/id_1475655/1475655_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Klaim Virus Hanta adalah Konspirasi Seperti Covid-19</title>
-      <link>https://www.tempo.co/cekfakta/keliru-klaim-virus-hanta-adalah-konspirasi-seperti-covid-19-2138763</link>
-      <guid>8</guid>
-      <pubDate>Fri, 29 May 2026 12:38:00 +0700</pubDate>
-      <description>Tidak ada bukti ilmiah valid yang menyokong klaim bahwa virus Hanta merupakan produk konspirasi.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/29/id_1475208/1475208_720.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Keliru: Virus Hanta Jenis Andes adalah Virus yang Baru Ditebar</title>
-      <link>https://www.tempo.co/cekfakta/keliru-virus-hanta-jenis-andes-adalah-virus-yang-baru-ditebar-2138761</link>
-      <guid>9</guid>
-      <pubDate>Fri, 29 May 2026 12:24:00 +0700</pubDate>
-      <description>Jauh sebelum merebak di kapal pesiar MV Hondius, virus Hanta strain Andes telah mewabah di Argentina pada 1996 dan 2018.</description>
-      <thumbnail>https://statik.tempo.co/data/2026/05/29/id_1475206/1475206_720.jpg</thumbnail>
     </item>
   </channel>
 </rss>
