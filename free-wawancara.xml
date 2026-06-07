@@ -4,13 +4,31 @@
     <title>RSS Feed Tempo.co</title>
     <link>https://www.tempo.co/</link>
     <description>Tempo.co News</description>
-    <lastBuildDate>Sat, 06 Jun 2026 07:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:20:26 GMT</lastBuildDate>
     <language>id-ID</language>
+
+    <item>
+      <title>Mewawancarai Kawan Sendiri, Ibarat Ongkos Angkot</title>
+      <link>https://www.tempo.co/wawancara/maruarar-sirait-oligarki-gentengisasi-2253396</link>
+      <guid>1</guid>
+      <pubDate>Sun, 07 Jun 2026 14:15:00 +0700</pubDate>
+      <description>Adu argumen dan saling sindir dalam wawancara dengan Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/06/04/914366/914366_1200.jpg</thumbnail>
+    </item>
+
+    <item>
+      <title>Maruarar Sirait: Boleh Saja Saya Disebut Oligark</title>
+      <link>https://www.tempo.co/wawancara/wawancara-maruarar-sirait-oligarki-2253334</link>
+      <guid>2</guid>
+      <pubDate>Sun, 07 Jun 2026 14:00:00 +0700</pubDate>
+      <description>Menteri Perumahan Maruarar Sirait menjelaskan kedekatannya dengan pengusaha properti. Ia tak berkeberatan disebut oligark.</description>
+      <thumbnail>https://images-tm.tempo.co/all/2026/06/04/914365/914365_1200.jpg</thumbnail>
+    </item>
 
     <item>
       <title>M. Ikhsan: Indonesia Makin Mendekati Krisis Ekonomi</title>
       <link>https://www.tempo.co/wawancara/mohamad-ikhsan-krisis-ekonomi-indonesia-2139289</link>
-      <guid>1</guid>
+      <guid>3</guid>
       <pubDate>Mon, 01 Jun 2026 16:00:00 +0700</pubDate>
       <description>Dalam analisis Guru besar Fakultas Ekonomi dan Bisnis Universitas Indonesia Mohamad Ikhsan, tanda-tanda mengarah ke krisis ekonomi telah terlihat. Seberapa cepat?</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/06/01/914154/914154_1200.jpg</thumbnail>
@@ -19,7 +37,7 @@
     <item>
       <title>Indonesia Mendekati Tepi Jurang Krisis Ekonomi</title>
       <link>https://www.tempo.co/wawancara/jurang-krisis-ekonomi-indonesia-mohamad-ikhsan-2139292</link>
-      <guid>2</guid>
+      <guid>4</guid>
       <pubDate>Mon, 01 Jun 2026 16:00:00 +0700</pubDate>
       <description>Ekonom UI, Mohamad Ikhsan, menganalisis kondisi perekonomian Indonesia. Makin mendekati jurang krisis ekonomi.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/06/01/914153/914153_1200.jpg</thumbnail>
@@ -28,7 +46,7 @@
     <item>
       <title>Sumitro: Prabowo Itu Arogan, Temperamental</title>
       <link>https://www.tempo.co/wawancara/wawancara-sumitro-prabowo-2139059</link>
-      <guid>3</guid>
+      <guid>5</guid>
       <pubDate>Sun, 31 May 2026 15:30:00 +0700</pubDate>
       <description>Sumitro Djojohadikusumo blakblakan soal keterlibatan CIA dalam PRRI dan penilaian tentang watak Prabowo Subianto.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/05/27/913837/913837_1200.jpg</thumbnail>
@@ -37,7 +55,7 @@
     <item>
       <title>Bagaimana Bisa Dokter Magang Jadi Tenaga Kerja Murah</title>
       <link>https://www.tempo.co/wawancara/centang-perenang-program-dokter-magang-2138078</link>
-      <guid>4</guid>
+      <guid>6</guid>
       <pubDate>Mon, 25 May 2026 20:00:00 +0700</pubDate>
       <description>Ketua MGBKI menjelaskan akar masalah kekacauan program dokter magang. Supervisi tak berjalan.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/05/24/913683/913683_1200.jpg</thumbnail>
@@ -46,7 +64,7 @@
     <item>
       <title>Beban Kerja Dokter Muda</title>
       <link>https://www.tempo.co/wawancara/beban-kerja-dokter-magang-2138077</link>
-      <guid>5</guid>
+      <guid>7</guid>
       <pubDate>Mon, 25 May 2026 19:59:00 +0700</pubDate>
       <description>Budi Iman Santoso berpendapat semua pihak yang bertanggung jawab atas kematian Myta perlu diaudit lembaga independen.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/05/24/913681/913681_1200.jpg</thumbnail>
@@ -55,7 +73,7 @@
     <item>
       <title>Mengapa Prabowo Takut kepada Amerika</title>
       <link>https://www.tempo.co/wawancara/wawancara-vijay-prashad-kolonialisme-2137861</link>
-      <guid>6</guid>
+      <guid>8</guid>
       <pubDate>Sun, 24 May 2026 14:10:00 +0700</pubDate>
       <description>Vijay Prashad menjelaskan kolonialisme saat ini. Menurut dia, Presiden Prabowo keliru menyikapi isu Palestina.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/22/911423/911423_1200.jpg</thumbnail>
@@ -64,28 +82,10 @@
     <item>
       <title>Indonesia Lahir dari Proses Pemerintahan Kolonial yang Kacau</title>
       <link>https://www.tempo.co/wawancara/vijay-prashad-kolonialisme-indonesia-2137801</link>
-      <guid>7</guid>
+      <guid>9</guid>
       <pubDate>Sun, 24 May 2026 14:00:00 +0700</pubDate>
       <description>Analis kolonialisme global, Vijay Prashad, menjelaskan praktik imperialisme. Mengkritik cara Prabowo menghadapi Donald Trump.</description>
       <thumbnail>https://images-tm.tempo.co/all/2026/04/22/911422/911422_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Amien Rais: Nama Saya Lenyap dalam Memori Prabowo</title>
-      <link>https://www.tempo.co/wawancara/pasang-surut-hubungan-amien-rais-prabowo-2136513</link>
-      <guid>8</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0700</pubDate>
-      <description>Amien Rais menjelaskan video viral soal Teddy Indra Wijaya. Pasang-surut hubungannya dengan Prabowo, hingga potensi reformasi jilid dua.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/05/17/913208/913208_1200.jpg</thumbnail>
-    </item>
-
-    <item>
-      <title>Pasang-Surut Hubungan Amien Rais-Prabowo</title>
-      <link>https://www.tempo.co/wawancara/pasang-surut-hubungan-amien-rais-prabowo-2136512</link>
-      <guid>9</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0700</pubDate>
-      <description>Amien Rais menjelaskan pasang-surut hubungannya dengan Prabowo Subianto. Tak bisa lagi berkomunikasi dengan Prabowo.</description>
-      <thumbnail>https://images-tm.tempo.co/all/2026/05/18/913238/913238_1200.jpg</thumbnail>
     </item>
   </channel>
 </rss>
